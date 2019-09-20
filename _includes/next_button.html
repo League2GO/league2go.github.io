@@ -1,0 +1,12 @@
+{% assign next_post = include.next_post %}
+
+{% if next_post == nil %}
+  <!-- No next post -->
+{% elsif next_post.lang == page.lang %}
+  <a id="next-post" href="{{ site.baseurl }}{{ next_post.url }}">
+    <span class="page-title">{{ next_post.title }}</span>
+    <span class="nav-label">{{ site.t[page.lang].next_post }}<i class="fa fa-chevron-right nav-icon-next"></i></span>
+  </a>
+{% else %}
+  {% include next_button.html next_post=next_post.next %}
+{% endif %}

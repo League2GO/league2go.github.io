@@ -1,0 +1,12 @@
+{% assign previous_post = include.previous_post %}
+
+{% if previous_post == nil %}
+  <!-- No previous post -->
+{% elsif previous_post.lang == page.lang %}
+  <a id="prev-post" href="{{ site.baseurl }}{{ previous_post.url }}">
+    <span class="page-title">{{ previous_post.title }}</span>
+    <span class="nav-label"><i class="fa fa-chevron-left nav-icon-previous"></i>{{ site.t[page.lang].previous_post }}</span>
+  </a>
+{% else %}
+  {% include previous_button.html previous_post=previous_post.previous %}
+{% endif %}

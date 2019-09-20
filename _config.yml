@@ -1,0 +1,97 @@
+# SITE CONFIGURATION
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.league2go.com" # the base hostname & protocol for your site
+#url: "http://localhost:4000" # the base hostname & protocol for your site
+permalink: /:title/
+
+gems:
+  - jekyll-sitemap
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "post"
+
+# THEME-SPECIFIC CONFIGURATION
+theme_settings:
+  # Meta
+  title: League2GO Blog
+  avatar: avatar.png
+  gravatar: # Email MD5 hash
+  description: "Follow the League2GO blog for news." # used by search engines
+
+  # Header and footer text
+  header_text: Blog
+  header_text_feature_image: assets/img/header.png
+
+  # Icons
+  rss: false
+  email_address: # Full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook: league2goAPP/
+  flickr:
+  github:
+  google_plus:
+  instagram:
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: 
+  wordpress:
+  youtube:
+
+  # Scripts
+  google_analytics: UA-57661423-4 # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname:
+  katex: true # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+  
+  # Post navigation
+  post_navigation: true
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+languages:
+  en: English
+  fr: Français
+
+t:
+  en:
+    header:
+    footer: Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+    continue_reading: Continue reading
+    blog: Blog
+    next_post: Next post
+    previous_post: Previous post
+    search_button: Search
+    search_input: Enter your search terms...
+  fr:
+    header:
+    footer: Alimenté par <a href="http://jekyllrb.com">Jekyll</a> avec <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+    continue_reading: Continuer la lecture
+    blog: Blogue
+    next_post: Article suivant
+    previous_post: Article précédent
+    search_button: Rechercher
+    search_input: Entrer votre recherche...

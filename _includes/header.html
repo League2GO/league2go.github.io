@@ -1,0 +1,54 @@
+<header class="site-header">
+    <div class="branding">
+        {% if site.theme_settings.gravatar %}
+        <a href="https://league2go.com/?lang={{page.lang}}#/">
+            <img class="avatar" src="https://secure.gravatar.com/avatar/{{ site.theme_settings.gravatar }}?s=100" alt=""/>
+        </a>
+        {% elsif site.theme_settings.avatar %}
+        <a href="https://league2go.com/?lang={{page.lang}}#/">
+            <img class="avatar" src="{{ site.baseurl }}/assets/img/{{ site.theme_settings.avatar }}" alt=""/>
+        </a>
+        {% endif %}
+        <h1 class="site-title">
+            <a class="page-link" href="https://league2go.com/?lang={{page.lang}}#/">League2GO</a>
+        </h1>
+    </div>
+    <nav class="site-nav">
+        <ul>
+            {% for page in site.pages %}
+            {% if page.title and page.hide != true %}
+            <li>
+                <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
+                    {{ page.title }}
+                </a>
+            </li>
+            {% endif %}
+            {% endfor %}
+
+            {% assign posts=site.posts | where:"localization", page.localization | sort: 'lang' %}
+            {% for po in posts reversed %}
+			{% if po.hide != true %}
+            <li class="lang">
+                <a href="{{ po.url }}" class="{{ po.lang }}">{{site.languages[po.lang]}}</a>
+            </li>
+			{% endif %}
+            {% endfor %}
+
+            {% assign pages=site.pages | where:"localization", page.localization | sort: 'lang' %}
+            {% for pa in pages reversed %}
+            {% if pa.hide != true %}
+            <li class="lang">
+                <a href="{{ pa.url }}" class="{{ pa.lang }}">{{site.languages[pa.lang]}}</a>
+            </li>
+            {% endif %}
+            {% endfor %}
+
+            <!-- Social icons from Font Awesome, if enabled -->
+            {% include icons.html %}
+
+            <li class="blog-link" style="margin-left:3em">
+                <a href="{{ site.baseurl }}/{{page.lang}}">{{site.t[page.lang].blog}}</a>
+            </li>
+        </ul>
+    </nav>
+</header>

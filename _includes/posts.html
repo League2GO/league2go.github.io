@@ -1,0 +1,23 @@
+<div class="posts">
+  {% assign posts=site.posts | where:"lang", page.lang %}
+  {% for post in posts %}
+  <div class="post-teaser">
+    <header>
+      <h1>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+          {{ post.title }}
+        </a>
+      </h1>
+      <p class="meta">
+        {% include long_date.html date=post.date %}
+      </p>
+    </header>
+    <div class="excerpt">
+      {{ post.excerpt }}
+      <a class="button" href="{{ post.url | prepend: site.baseurl }}">
+        {{ site.t[page.lang].continue_reading }}
+      </a>
+    </div>
+  </div>
+  {% endfor %}
+</div>

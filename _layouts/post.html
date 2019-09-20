@@ -1,0 +1,33 @@
+---
+layout: default
+---
+{% if page.feature-img %}
+<article class="feature-image">
+  <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
+{% else %}
+<article class="default-image">
+  <header>
+{% endif %}
+    <h1 class="title">{{ page.title }}</h1>
+    <p class="meta">
+      {% include long_date.html date=page.date %}
+      {% if page.author %} - {{ page.author }}{% endif %}
+    </p>
+  </header>
+  <section class="post-content">{{ content }}</section>
+</article>
+
+<!-- Post navigation -->
+{% if site.theme_settings.post_navigation %}
+<div id="post-nav">
+  {% include previous_button.html previous_post=page.previous %}
+  {% include next_button.html next_post=page.next %}
+</div>
+{% endif %}
+
+<!-- Disqus -->
+{% if site.theme_settings.disqus_shortname %}
+<div class="comments">
+  {% include disqus.html %}
+</div>
+{% endif %}

@@ -1,0 +1,121 @@
+article,
+.comments {
+  @extend %padding-regular;
+  border-bottom: 1px solid $border-color;
+  float: left;
+  width: 100%;
+}
+article {
+  header {
+    margin-bottom: 6%;
+    text-align: center;
+  }
+  a:hover {
+    @extend %link-hover;
+  }
+  .footnotes {
+    font-size: 0.9em;
+  }
+}
+header {
+  h1 {
+    margin: 0;
+  }
+  .meta {
+    color: rgba($text-color, .5);
+    font-size: 0.9em;
+    letter-spacing: 0.1em;
+    margin: 0;
+    text-transform: uppercase;
+  }
+}
+.feature-image {
+  padding: 0%;
+  .post-link {
+    color: $feature-image-text-color;
+  }
+  header {
+    color: $feature-image-text-color;
+    background-size: $feature-image-size;
+    margin-bottom: 0;
+    padding: $padding-large/2.5 $padding-large/1.25;
+    .meta {
+      color: rgba($feature-image-text-color, .7);
+    }
+  }
+  .post-content {
+    @extend %padding-regular;
+  }
+}
+
+.default-image {
+  padding: 0%;
+  .post-link {
+    color: $feature-image-text-color;
+  }
+  header {
+    color: $feature-image-text-color;
+    background-size: $feature-image-size;
+    background-image: url( '/assets/img/post-header.jpg' );
+    @media (max-width: $mobile-width) {
+      background-image: url( '/assets/img/post-header-mobile.jpg' );
+    }
+    margin-bottom: 0;
+    padding: $padding-large/2.5 $padding-large/1.25;
+    .meta {
+      color: rgba($feature-image-text-color, .7);
+    }
+  }
+  .post-content {
+    @extend %padding-regular;
+  }
+}
+
+// Post navigation
+#post-nav {
+  width: 100%;
+  border-bottom: 1px solid $border-color;
+  float: left;
+  padding: 0 20%;
+
+  .page-title {
+    display: inline-block;
+  }
+
+  .page-title {
+    font-size: 1em;
+    margin-bottom: 1em;
+    width: 100%;
+  }
+
+  a {
+    padding: 1em 1.5em;
+    border: 1px solid rgba(255, 255, 255, 0);
+    text-align: center;
+    width: 50%;
+    min-width: 225px;
+    float: left;
+    display: block;
+
+    @media (max-width: $mobile-width) {
+      width: 100%;
+    }
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  i {
+    vertical-align: middle;
+  }
+
+  .nav-icon-next {
+    padding-left: 5px;
+  }
+
+  .nav-icon-previous {
+    padding-right: 5px;
+  }
+}
+

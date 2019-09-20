@@ -1,0 +1,14 @@
+<div class="image-container" >
+    {% if include.url %}
+    <a href="{{ include.url }}">
+    {% endif %}
+
+        <img src="{{ site.url }}/assets/img/{{ include.src }}" alt="{{ include.caption }}" style="{{ include.style }}"/>
+
+    {% if include.url %}
+    </a>
+    {% endif %}
+    <div class="caption">
+        <em>{{ include.caption }}</em>
+    </div>
+</div>
