@@ -1,7 +1,7 @@
 ---
 title: "Commencer avec League2GO"
 lang: fr
-localization: getting-started-with-maligueca
+localization: getting-started-with-league2go
 ---
 Ce guide explique comment commencer avec League2GO ainsi que toutes les différentes possibilités offertes. Il y a beaucoup de contenu mais lisez seulement ce qui est pertinent à votre ligue.
 

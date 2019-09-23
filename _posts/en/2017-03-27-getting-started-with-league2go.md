@@ -1,7 +1,7 @@
 ---
 title: "Getting started with League2GO"
 lang: en
-localization: getting-started-with-maligueca
+localization: getting-started-with-league2go
 ---
 This guide explains how to get started with League2GO and all the different possibilities available.
 
