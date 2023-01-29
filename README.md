@@ -1,6 +1,6 @@
 # league2go.github.io
 
-The [League2GO.com](https://league2go.com/) blog at http://blog.league2go.com/en/
+The [League2GO.com](https://league2go.com/) blog at https://blog.league2go.com/en/
 
 Your subs found automatically! Try it free, make your life easier. Easily manage 15 free games with no    obligations or credit cards. Visit https://league2go.com/ to start.
 
