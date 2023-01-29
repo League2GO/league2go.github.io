@@ -1,6 +1,6 @@
 // Header text feature
 .call-out {
-  @extend %padding-regular;
+  @extend %padding-small;
   display: inline-block;
   width: 100%;
   background-size: cover;
@@ -18,8 +18,20 @@
 }
 // Post listing
 .posts {
+  @media (min-width: 300px){
+    // background-color: plum;
+    padding: 1em $padding-small;
+  }
+  @media (min-width: 768px){
+    // background-color: green;
+    padding: 2em $padding-small;
+    padding: 2em 0;
+    max-width: 900px;
+    margin: auto;
+  }
+
   .post-teaser {
-    @extend %padding-regular;
+    @extend %padding-small;
     width: 100%;
     margin-bottom: 0;
     display: inline-block;

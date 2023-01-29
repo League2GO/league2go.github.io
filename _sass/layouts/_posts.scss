@@ -1,6 +1,6 @@
 article,
 .comments {
-  @extend %padding-regular;
+  @extend %padding-small;
   border-bottom: 1px solid $border-color;
   float: left;
   width: 100%;
@@ -44,7 +44,7 @@ header {
     }
   }
   .post-content {
-    @extend %padding-regular;
+    @extend %padding-small;
   }
 }
 
@@ -61,13 +61,23 @@ header {
       background-image: url( '/assets/img/post-header-mobile.jpg' );
     }
     margin-bottom: 0;
-    padding: $padding-large/2.5 $padding-large/1.25;
+    padding: $padding-large/2.5 0;
     .meta {
       color: rgba($feature-image-text-color, .7);
     }
   }
   .post-content {
-    @extend %padding-regular;
+    @media (min-width: 300px){
+      // background-color: plum;
+      padding: 1em $padding-small;
+    }
+    @media (min-width: 768px){
+      // background-color: green;
+      padding: 2em $padding-small;
+      padding: 2em 0;
+      max-width: 800px;
+      margin: auto;
+    }
   }
 }
 
