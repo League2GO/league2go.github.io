@@ -1,5 +1,5 @@
 ---
-title: "Getting started with mobile notifications (push)"
+title: "Commencer avec les notifications mobiles (push)"
 lang: fr
 localization: mobile-notifications
 ---
@@ -29,8 +29,8 @@ Connectez-vous, et continuez, appuyez sur autoriser dans les fenêtres qui suive
 
 <br/>
 <div class="image-container-row">
-{% include image.html src="2022-01-29-mobile-notifications-activate-ios-fr.png" caption="setup notifcations screen" %}
-{% include image.html src="2022-01-29-mobile-notifications-activate-android-fr.png" caption="setup notifcations screen" %}
+{% include image.html src="2023-01-29-mobile-notifications-activate-ios-fr.png" caption="setup notifcations screen" %}
+{% include image.html src="2023-01-29-mobile-notifications-activate-android-fr.png" caption="setup notifcations screen" %}
 </div>
 <br/>
 
@@ -38,8 +38,8 @@ Ensuite, vous recevrez un message de confirmation sur votre appareil.
 
 <br/>
 <div class="image-container-row">
-{% include image.html src="2022-01-29-mobile-notifications-super-ios-fr.png" caption="Super!" %}
-{% include image.html src="2022-01-29-mobile-notifications-super-android-fr.png" caption="Super!" %}
+{% include image.html src="2023-01-29-mobile-notifications-super-ios-fr.png" caption="Super!" %}
+{% include image.html src="2023-01-29-mobile-notifications-super-android-fr.png" caption="Super!" %}
 </div>
 <br/>
 
@@ -68,7 +68,7 @@ Si vous rencontrez des problèmes avec les notifications push, essayez ce qui su
 Si vous avez reçu un courriel de notre part vous informant que vos notifications push ne fonctionnent plus, ouvrez l'app et recherchez "diagnostiquer les notifications push" en haut du menu.
 
 <br/>
-{% include image.html src="2022-01-29-mobile-notifications-diagnose-ios-fr.png" caption="App menu diagnose push" %}
+{% include image.html src="2023-01-29-mobile-notifications-diagnose-ios-fr.png" caption="App menu diagnose push" %}
 <br/>
 
 ### Envoyer un push test
@@ -83,8 +83,8 @@ Ensuite, vous recevrez un push de confirmation sur votre appareil.
 
 <br/>
 <div class="image-container-row">
-{% include image.html src="2022-01-29-mobile-notifications-profile-ios-fr.png" caption="Profile" %}
-{% include image.html src="2022-01-29-mobile-notifications-test-ios-fr.png" caption="Sending a test push" %}
+{% include image.html src="2023-01-29-mobile-notifications-profile-ios-fr.png" caption="Profile" %}
+{% include image.html src="2023-01-29-mobile-notifications-test-ios-fr.png" caption="Sending a test push" %}
 </div>
 <br/>
 
