@@ -5,3 +5,13 @@
         margin-bottom: 1em;
     }
 }
+
+.image-container-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    .image-container {
+        flex: 1;
+        padding: 0 0.5em;
+    }
+}
