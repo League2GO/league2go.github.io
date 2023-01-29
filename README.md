@@ -1,33 +1,31 @@
 # league2go.github.io
 
+The [League2GO.com](https://league2go.com/) blog at http://blog.league2go.com/en/
+
+Your subs found automatically! Try it free, make your life easier. Easily manage 15 free games with no    obligations or credit cards. Visit https://league2go.com/ to start.
+
+Below are our steps to publish our public blog.
 ## setup
 
     // install ruby version manager, so you dont need to sudo install gems
     $> brew install rbenv
 
-    // install a version of ruby (use rbenv install -l to find a newer version)
-    $> rbenv install -v 2.5.3
-
-    // set your global ruby version
-    $> rbenv global 2.5.3
-
-    // check if you have the proper ruby version
-    $> ruby -v
-    // expect to see version 2.5.3 (or the version you installed)
+    // to install the project's ruby version
+    $> rbenv install
 
     // the ruby npm equivalent
     $> gem install bundler
 
     // in this repo
-    $> bundler install
+    $> bundle install
 
 ## generate the html
 
     // build the site
-    $> bundler exec jekyll build
+    $> bundle exec jekyll build
 
     // serve the site to test locally at http://127.0.0.1:4000
-    $> bundler exec jekyll serve
+    $> bundle exec jekyll serve
 
     // to publish the site commit changes and push
     $> ... git commit commands ...
