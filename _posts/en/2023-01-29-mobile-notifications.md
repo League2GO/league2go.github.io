@@ -4,7 +4,7 @@ lang: en
 localization: mobile-notifications
 ---
 
-This guide describes **how to get started** and provide helpful **troubleshooting tips** to help you resolve common issues.
+This guide describes **how to get started** and provides helpful **troubleshooting tips** to help you resolve common issues.
 
 ## Push notifications
 
@@ -79,7 +79,7 @@ If you suspect push notifications are not working, you can send yourself a test 
 2. Scroll to the bottom to "Send a push"
 3. Open the "Send a push" popup and send yourself a push.
 
-Then you will receive a confirmation push notication on your device.
+Then you will receive a confirmation push notification on your device.
 
 <br/>
 <div class="image-container-row">
@@ -90,7 +90,7 @@ Then you will receive a confirmation push notication on your device.
 
 ### Last resort
 
-As a last resort, uninstall and re-install the League2GO app. At login, activate push notifications, then, you will receive a confirmation push notication on your device.
+As a last resort, uninstall and re-install the League2GO app. At login, activate push notifications, you will receive a confirmation push notication on your device.
 
 ## Wrapping up
 
