@@ -1,0 +1,63 @@
+---
+title: "Managing players: numbers, positions, skills and notes"
+lang: en
+localization: managing-players
+category: managers
+order: 30
+description: "Set jersey numbers, positions and skill ratings, and keep private notes on your players."
+redirect_from:
+  - /jersey-numbers/
+  - /player-ranking/
+---
+Once your players are [added to your league](/adding-players/), you can enrich their profile with a jersey number, positions, a skill rating and private notes. This guide covers each of them.
+
+## Jersey numbers
+
+To assign a jersey number, edit the player from the **Teams** tab and enter the number. Jersey numbers are displayed next to the player's name, which makes rosters and [lineups](/game-day/) easier to read.
+
+{% include screenshot.html description="Edit-player form from the Teams tab, with the jersey number field filled in and highlighted" %}
+
+You can also override a player's number **for a single game** from the action menus in the game details — useful when a player borrows a jersey. These menus also let you enter jersey numbers for substitutes.
+
+{% include screenshot.html description="Game details page with a player's action menu open, showing the set-jersey-number-for-this-game action highlighted" %}
+
+## Positions
+
+Each player and substitute has one or more positions, chosen from the position configuration of your league (defined by the sport in your [league settings](/create-your-league/)). Positions matter for two reasons:
+
+* They structure your game lineups.
+* The [automatic substitute search](/substitutes-overview/) contacts substitutes who can play the position of the absent player. Check every position a substitute can play so they are contacted as often as possible.
+
+## Player skill ratings
+
+Skill ratings help you keep teams balanced and find substitutes of the right level.
+
+### Enabling and configuring skills
+
+Activate player skill in the **General** tab of your league settings. Choose the scale that suits your league:
+
+* **Letters**: "AAA", "AA", "BB", "CC", "A", "B", "C" and "D".
+* **Numbers**: from 1 to 1000 (or simply 1 to 100) for more flexibility.
+
+{% include screenshot.html description="League settings > General tab, showing the player skill option enabled and the choice between letter and number scales highlighted" %}
+
+### Assigning skills to players
+
+In the **Teams** and **Substitutes** tabs, assign a skill to each player. You must enter a skill for each of the player's positions. The skill is displayed below the player's name in the team and substitute tables. If a player has no skill configured, an exclamation point appears next to them in the table to flag the problem.
+
+{% include screenshot.html description="Teams tab showing player rows with the skill rating displayed under each name, and one player flagged with the missing-skill exclamation point highlighted" %}
+
+Skill ratings are visible only to league managers and team captains — players do not see how you rated them. <!-- TODO: verify -->
+
+### What skills are used for
+
+* **Automatic substitute search**: when a player declares an absence, League2GO contacts substitutes whose skill falls within a range relative to the absent player. You control how strict or flexible that range is — see the [substitute search settings](/substitute-search-settings/).
+* **Manual selection**: skills are displayed in the game details, so you can hand-pick a substitute of a similar level. When you add a spot to a game, you can also specify the skill required to fill it automatically with a player of the right level.
+
+## Private notes on players
+
+You can write notes on each player or substitute in your league — for example payment reminders, availability quirks, or anything useful to your management. Notes are visible only to league managers and to the captains of the player's team; players never see them.
+
+{% include screenshot.html description="Edit-player form showing the notes field with an example note entered, and a mention that notes are visible to managers and captains only" %}
+
+Questions? Contact us at [info@league2go.com](mailto:info@league2go.com).

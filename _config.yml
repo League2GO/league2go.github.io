@@ -12,26 +12,46 @@ appStoreUrls:
       iosUrl: 'https://apps.apple.com/ca/app/league2go/id1186556911'
       androidUrl: 'https://play.google.com/store/apps/details?id=ca.maligue&hl=en&gl=CA'
 
-gems:
+plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
+
+# Working documents, never published
+exclude:
+  - ARTICLE-BRIEF.md
+  - help-center-analysis.md
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+collections:
+  help:
+    output: true
+    permalink: /:title/
 
 defaults:
   -
     scope:
       path: ""
     values:
-      layout: "post"
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "help"
+    values:
+      layout: "article"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: League2GO Blog
+  title: League2GO Help Center
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "Follow the League2GO blog for news." # used by search engines
+  description: "League2GO help center — everything you need to run your sports league." # used by search engines
 
   # Header and footer text
-  header_text: Blog
+  header_text:
   header_text_feature_image: assets/img/header.png
 
   # Icons
@@ -52,14 +72,14 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: 
+  twitter:
   wordpress:
   youtube:
 
   # Scripts
-  google_analytics: UA-57661423-4 # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
-  katex: true # Enable if using math markup
+  katex: false # Enable if using math markup
 
   # Localization strings
   str_follow_on: "Follow on"
@@ -69,9 +89,9 @@ theme_settings:
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
   google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
-  
-  # Post navigation
-  post_navigation: true
+
+  # Post navigation (unused by the help center layout)
+  post_navigation: false
 
 # BUILD SETTINGS
 markdown: kramdown
@@ -84,22 +104,42 @@ languages:
   en: English
   fr: Français
 
+# Help center categories, in display order. Labels live under t: below.
+help_categories:
+  - key: getting-started
+  - key: managers
+  - key: substitutes
+  - key: payments
+  - key: players
+
 t:
   en:
     header:
-    footer: Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
-    continue_reading: Continue reading
-    blog: Blog
-    next_post: Next post
-    previous_post: Previous post
+    footer: "© League2GO"
+    help_center: Help Center
+    hero_title: How can we help?
+    open_app: Open League2GO
     search_button: Search
-    search_input: Enter your search terms...
+    search_input: Search the help center...
+    screenshot_placeholder: Screenshot coming soon
+    categories:
+      getting-started: Getting started
+      managers: Managing your league
+      substitutes: Substitute search
+      payments: Online payments
+      players: For players
   fr:
     header:
-    footer: Alimenté par <a href="http://jekyllrb.com">Jekyll</a> avec <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
-    continue_reading: Continuer la lecture
-    blog: Blogue
-    next_post: Article suivant
-    previous_post: Article précédent
+    footer: "© League2GO"
+    help_center: Centre d'aide
+    hero_title: Comment pouvons-nous vous aider ?
+    open_app: Ouvrir League2GO
     search_button: Rechercher
-    search_input: Entrer votre recherche...
+    search_input: Rechercher dans le centre d'aide...
+    screenshot_placeholder: Capture d'écran à venir
+    categories:
+      getting-started: Premiers pas
+      managers: Gérer votre ligue
+      substitutes: Recherche de remplaçants
+      payments: Paiements en ligne
+      players: Pour les joueurs

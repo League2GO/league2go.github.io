@@ -1,9 +1,24 @@
-{% if site.theme_settings.katex %}
-<script src="{{ "/js/katex_init.js" | prepend: site.baseurl }}"></script>
-{% endif %}
-
-{% if site.t[page.lang].footer  %}
 <footer class="site-footer">
-	<p class="text">{{ site.t[page.lang].footer }}</p>
+    <div class="footer-inner">
+        <div class="footer-brand">
+            <img src="{{ site.baseurl }}/assets/img/logo-full-white.png" alt="League2GO"/>
+        </div>
+        <div class="footer-col">
+            <h4>{{ site.t[page.lang].help_center }}</h4>
+            <ul>
+                <li><a href="{{ site.baseurl }}/en">English</a></li>
+                <li><a href="{{ site.baseurl }}/fr">Français</a></li>
+            </ul>
+        </div>
+        <div class="footer-col">
+            <h4>League2GO</h4>
+            <ul>
+                <li><a href="https://league2go.com/?lang={{ page.lang }}#/">league2go.com</a></li>
+                <li><a href="mailto:info@league2go.com">info@league2go.com</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        {{ site.t[page.lang].footer }}
+    </div>
 </footer>
-{% endif %}
