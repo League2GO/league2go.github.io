@@ -23,7 +23,7 @@ Trois choses à comprendre avant de commencer :
 
 Pour activer les paiements, allez dans les paramètres de votre ligue et ouvrez l'onglet **Paiement**, puis cliquez sur **Connecter un compte Stripe**. Vous devez le faire sur le site web, et non sur l'application mobile.
 
-{% include screenshot.html description="Paramètres de la ligue > onglet Paiement sur le site web, montrant le bouton Connecter un compte Stripe mis en évidence" %}
+{% include image.html src="help/payment-settings-connect-stripe.fr.png" caption="Paramètres de la ligue > Paiement avant la connexion à Stripe : le bouton Connecter un compte Stripe démarre la configuration du compte." %}
 
 Stripe vous demande ensuite de créer un compte et de vérifier votre identité. La plupart des ligues récréatives ne sont pas des entreprises incorporées, et c'est tout à fait correct — voici comment répondre aux questions courantes :
 
@@ -36,7 +36,7 @@ Stripe vous demande ensuite de créer un compte et de vérifier votre identité.
 
 Finalement, entrez une adresse courriel et un mot de passe pour votre compte Stripe. Utilisez-les en tout temps sur stripe.com pour consulter vos paiements, vos versements et émettre des remboursements.
 
-{% include screenshot.html description="Paramètres de la ligue > onglet Paiement montrant le paiement en ligne actif une fois le compte Stripe connecté" %}
+{% include image.html src="help/payment-settings-active.fr.png" caption="L'onglet Paiement une fois le compte Stripe connecté : paiements des joueurs et des remplaçants activés, avec le lien vers le tableau de bord Stripe." %}
 
 ## Les frais
 
@@ -51,13 +51,13 @@ Le montant réellement chargé au joueur, frais inclus, est affiché lorsque vou
 
 Dans les paramètres de paiement, configurez le prix que les remplaçants paient pour jouer. <!-- TODO: verify exact location/label of the substitute price setting -->
 
-{% include screenshot.html description="Paramètres de la ligue > onglet Paiement, montrant la configuration du prix pour les remplaçants avec le montant chargé au remplaçant (frais inclus) affiché" %}
+{% include image.html src="help/payment-settings-substitute-prices.fr.png" caption="La configuration du prix pour les remplaçants : le revenu voulu par position, avec le montant chargé au remplaçant (frais inclus) calculé à côté de chaque champ." %}
 
 Lorsqu'un remplaçant accepte un remplacement, une fenêtre lui demande de confirmer le paiement. La première fois, il entre sa carte de crédit; par la suite, la carte enregistrée rend le paiement instantané. S'il choisit de payer plus tard, il peut réafficher le formulaire de paiement à partir de la page de la partie — ou vous payer comptant à la partie.
 
 Vous voyez les montants payés et impayés sur la page de chaque partie. Dans la vue **Facturation**, un remplacement impayé apparaît comme un frais en rouge; une fois payé, la balance revient à zéro et le montant devient vert. Rien à suivre à la main.
 
-{% include screenshot.html description="Vue Facturation montrant les paiements de remplaçants, avec un montant impayé en rouge et un montant payé en vert" %}
+{% include image.html src="help/payment-billing-substitutes.fr.png" caption="La vue Facturation des remplaçants : les montants impayés de chaque remplaçant en rouge, avec le total perçu en vert." %}
 
 Pour le point de vue du remplaçant, voyez [payer en ligne comme joueur](/payer-en-ligne/).
 
@@ -65,15 +65,15 @@ Pour le point de vue du remplaçant, voyez [payer en ligne comme joueur](/payer-
 
 Une fois votre compte Stripe connecté, allez dans l'onglet **Facturation** de l'interface de gestion de votre ligue et cliquez sur **Enregistrer un frais de saison**.
 
-{% include screenshot.html description="Onglet Facturation de l'interface de gestion de la ligue, avec le bouton Enregistrer un frais de saison mis en évidence" %}
+{% include image.html src="help/payment-billing-season-fee-button.fr.png" caption="L'onglet Facturation avec le bouton Enregistrer un frais de saison dans l'en-tête de la section de facturation des équipes." %}
 
 Entrez le revenu désiré pour la ligue — le montant chargé à chaque joueur, frais Stripe inclus, s'affiche à côté. Vous pouvez aussi ajouter une date d'échéance et une note. Cliquez sur **Ajouter**.
 
-{% include screenshot.html description="Fenêtre Enregistrer un frais de saison montrant le champ de revenu désiré pour la ligue, le montant chargé par joueur qui en résulte, et les champs facultatifs de date d'échéance et de note" %}
+{% include image.html src="help/payment-season-fee-dialog.fr.png" caption="La fenêtre Enregistrer un frais de saison : entrez le revenu désiré pour la ligue, voyez le montant chargé à chaque joueur qui en résulte, et ajoutez au besoin une date d'échéance et une note." %}
 
 Chaque joueur voit ensuite le frais en haut de son horaire, sur le site web et dans l'application mobile, et le paie par carte de crédit. Au fur et à mesure des paiements, l'onglet **Facturation** montre le statut de chaque joueur, mis à jour automatiquement.
 
-{% include screenshot.html description="Onglet Facturation montrant la liste de suivi des frais de saison, avec les joueurs payés marqués comme payés et les joueurs impayés encore en attente" %}
+{% include image.html src="help/payment-billing-season-fee-tracking.fr.png" caption="La liste de suivi des frais de saison : les joueurs notés comme payés portent le crochet vert avec la date, les joueurs impayés affichent encore leur frais en attente en rouge." %}
 
 ## Les remboursements
 

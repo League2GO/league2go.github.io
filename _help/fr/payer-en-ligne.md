@@ -13,11 +13,11 @@ Si votre ligue a activé les paiements en ligne, vous pouvez payer votre frais d
 
 Lorsque votre ligue vous facture un frais de saison, il apparaît **en haut de votre horaire**, sur le site web et dans l'application mobile.
 
-{% include screenshot.html description="L'horaire d'un joueur avec le frais de saison affiché en haut, mis en évidence comme l'élément à toucher" %}
+{% include image.html src="help/player-pay-schedule-fee.fr.png" caption="L'horaire du joueur avec le frais de saison dû affiché en haut — toucher la ligne ouvre la page de paiement." %}
 
 Touchez le frais pour en voir les détails — le montant, ainsi que la date d'échéance et la note si votre ligue en a ajouté — puis touchez **Payer maintenant**, entrez les informations de votre carte de crédit et touchez **Payer**.
 
-{% include screenshot.html description="Page de détail du frais de saison montrant le montant et le bouton Payer maintenant, suivie du formulaire de saisie de la carte de crédit" %}
+{% include image.html src="help/player-pay-card-form.fr.png" caption="La fenêtre de paiement ouverte à partir du frais de saison : le montant, le formulaire de saisie de la carte de crédit et le bouton Payer — Stripe traite la transaction." %}
 
 C'est tout. Votre gestionnaire de ligue voit automatiquement votre paiement comme payé — pas besoin d'avertir qui que ce soit.
 
@@ -25,7 +25,7 @@ C'est tout. Votre gestionnaire de ligue voit automatiquement votre paiement comm
 
 Si votre ligue facture les remplaçants, une fenêtre de paiement apparaît lorsque vous acceptez un remplacement. La première fois, vous entrez votre carte de crédit; par la suite, votre carte enregistrée rend le paiement instantané.
 
-{% include screenshot.html description="Acceptation d'un remplacement montrant la fenêtre de confirmation de paiement avec l'option de carte de crédit enregistrée" %}
+{% include image.html src="help/player-pay-substitute-confirm.fr.png" caption="Acceptation d'un remplacement payant : la fenêtre de confirmation de paiement montre le montant et le formulaire de carte. Une fois une carte utilisée, elle peut être réutilisée comme carte enregistrée." %}
 
 Si vous préférez payer plus tard, vous pouvez réafficher le formulaire de paiement à partir de la page de la partie — ou payer le gestionnaire comptant à la partie. D'ici là, le montant impayé reste visible sur la page de la partie.
 

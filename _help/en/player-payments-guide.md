@@ -13,11 +13,11 @@ If your league has activated online payments, you can pay your season fee — or
 
 When your league charges you a season fee, it appears **at the top of your schedule**, on the website and in the mobile app.
 
-{% include screenshot.html description="A player's schedule with the season fee shown at the top, highlighted as the item to tap" %}
+{% include image.html src="help/player-pay-schedule-fee.en.png" caption="The player's schedule with the season fee due at the top — tapping the row opens the payment page." %}
 
 Tap the fee to see its details — the amount, and the due date and note if your league added them — then tap **Pay now**, enter your credit card information, and tap **Pay**.
 
-{% include screenshot.html description="Season fee detail page showing the amount and the Pay now button, followed by the credit card entry form" %}
+{% include image.html src="help/player-pay-card-form.en.png" caption="The pay window opened from the season fee: the amount, the credit card entry form, and the Pay button — Stripe processes the charge." %}
 
 That's it. Your league manager sees your payment as paid automatically — no need to tell anyone.
 
@@ -25,7 +25,7 @@ That's it. Your league manager sees your payment as paid automatically — no ne
 
 If your league charges substitutes, a payment window appears when you accept a spot in a game. The first time, you enter your credit card; after that, your saved card makes it one tap.
 
-{% include screenshot.html description="Substitution acceptance flow showing the payment confirmation window with the saved credit card option" %}
+{% include image.html src="help/player-pay-substitute-confirm.en.png" caption="Accepting a paid substitution: the payment confirmation window shows the amount and the card form. Once a card has been used, it can be reused as the saved card option." %}
 
 If you prefer to pay later, you can reopen the payment form from the game page — or pay the manager cash at the game. Until then, the unpaid amount stays visible on the game page.
 
