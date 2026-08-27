@@ -19,7 +19,7 @@ This guide covers what managers do around a single game: reviewing the lineup, m
 
 Open a game to see its lineup: each team's players, their positions, and their status for that game. Regular players are presumed present unless they declare an absence (see [presence confirmation](/presence-confirmation/) for the alternative model where players confirm their presence instead).
 
-{% include screenshot.html description="Game details page showing both teams' lineups, with player names, positions, and presence status (present/absent) visible for each game spot" %}
+{% include image.html src="help/game-day-lineups.en.png" caption="The game page shows both teams' lineups — every spot with its player's name, number and position, and an open spot left by a declared absence right in the lineup." %}
 
 ## Game spots
 
@@ -30,7 +30,7 @@ Each place in a lineup is a **game spot**. Every game spot has a menu that group
 * Recall substitutes
 * Change the position of the spot
 
-{% include screenshot.html description="Game spot menu opened on one player of the lineup, listing the actions: replace player, start automatic substitute search, recall substitutes, change position" %}
+{% include image.html src="help/game-day-spot-menu.en.png" caption="The spot menu gathers every action on a player's spot: search for a substitute, select another player, move them to the other team, change their position, and more." %}
 
 Managers can also **add extra game spots** to a game. These spots can be filled automatically by substitutes, which lets incomplete teams play with a full lineup. When there is a free game spot on each team, a substitute can choose which team to join.
 
@@ -44,7 +44,7 @@ To replace an absent player yourself instead of using the automatic search, open
 * a player from **another team** of the league — select the other team first, then the player, or
 * one of your league's substitutes (see [managing substitutes](/managing-substitutes/)).
 
-{% include screenshot.html description="Player substitution window with the team selector expanded, showing that a replacement can be picked from another team's roster" %}
+{% include image.html src="help/game-day-replace-player-dialog.en.png" caption="The replace-player window: pick the replacement from the substitute pool, or expand any other team of the league to pull a player from its roster." %}
 
 When you substitute a player manually, you can choose to **automatically notify the player** of the change, so you do not need to contact them yourself.
 
@@ -59,13 +59,13 @@ The lineup can be displayed in two modes:
 
 A toggle lets you switch between the two modes, so leagues that do not organize lines can keep the simple view. <!-- TODO: verify exact toggle label and location -->
 
-{% include screenshot.html description="Game lineup with the display toggle between simple lineup mode and forward lines (trios) mode highlighted" %}
+{% include image.html src="help/game-day-lineup-type-toggle.en.png" caption="The Lineup type selector in the lineup editor switches the display between the simple lineup and attack trios (forward lines)." %}
 
 ## Printing the lineup
 
 To print a game lineup, go to the game details and click the **Print Lineup** button. A print-optimized page with the game's information is generated. You can post these pages at the arena, for example to direct players to the right locker room.
 
-{% include screenshot.html description="Game details page with the Print Lineup button highlighted, next to the resulting print-optimized lineup page" %}
+{% include image.html src="help/game-day-print-menu.en.png" caption="Print Lineup lives in the game menu (the round button at the top of the game page) and opens a print-optimized lineup sheet in your browser's print dialog." %}
 
 ## Exporting the lineup to CSV
 

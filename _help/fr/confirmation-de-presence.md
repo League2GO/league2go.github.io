@@ -15,7 +15,7 @@ Par défaut, les joueurs réguliers sont **présumés présents** à leurs parti
 
 Ce modèle convient à la plupart des ligues : la présence est la norme, et seules les exceptions demandent une action des joueurs.
 
-{% include screenshot.html description="Vue joueur d'une partie à venir montrant le bouton de présence vert/rouge, le joueur étant présumé présent par défaut" %}
+{% include image.html src="help/presence-confirmation-default.fr.png" caption="Par défaut, un joueur inscrit est présumé présent : la page de la partie offre seulement l'action rouge Déclarer une absence s'il ne peut pas être là." %}
 
 ## En option : les joueurs confirment leur présence
 
@@ -23,7 +23,7 @@ Certaines ligues préfèrent l'inverse : ne compter sur aucun joueur tant qu'il 
 
 Choisissez ce modèle si vos présences sont imprévisibles — par exemple lorsque le silence d'un joueur signifie plus souvent « je ne viens pas » que « je viens » — et que vous préférez relancer des confirmations plutôt que de découvrir des absences au moment de la partie.
 
-{% include screenshot.html description="Vue joueur d'une partie à venir en mode confirmation de présence, montrant la demande de confirmer sa présence pour la partie" %}
+{% include image.html src="help/presence-confirmation-request.fr.png" caption="Avec la confirmation de présence activée, la page de la partie demande au joueur de confirmer à l'approche de la partie : « Je serai présent » en vert ou « Je ne serai pas présent » en rouge." %}
 
 ## Activer le mode confirmation
 

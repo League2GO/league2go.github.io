@@ -21,7 +21,7 @@ Quand vos parties gratuites sont épuisées, achetez un forfait de crédits :
 * Les crédits s'achètent **sur le site web** [league2go.com](https://league2go.com) — les règles des magasins d'applications ne permettent pas de les acheter dans l'application mobile.
 * Les crédits sont vendus en forfaits ; plus le forfait est gros, plus le prix par partie est bas. Consultez la page d'achat sur [league2go.com](https://league2go.com) pour les prix en vigueur.
 
-{% include screenshot.html description="Page d'achat de crédits de partie sur le site web, montrant les forfaits de crédits disponibles avec leurs prix et le solde de crédits actuel" %}
+{% include image.html src="help/purchase-game-credits.fr.png" caption="La page d'achat de crédits de partie : votre solde de crédits restant, le curseur de quantité avec les paliers de rabais de volume, et le sommaire du prix avant taxes." %}
 
 ## Le fonctionnement des crédits
 

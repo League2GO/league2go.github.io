@@ -18,7 +18,7 @@ Pour les revoir, faites l'une des deux choses suivantes :
 * **Effacez le filtre** : cliquez sur le **X** à côté du nom de la saison au-dessus du calendrier. Toutes les parties s'affichent de nouveau, peu importe la saison.
 * **Prolongez les dates de la saison** : dans les paramètres de votre ligue, modifiez la saison pour que ses dates de début et de fin couvrent les dates des parties.
 
-{% include screenshot.html description="Calendrier de la ligue avec une saison sélectionnée dans le filtre de saison, mettant en évidence le X à côté du nom de la saison qui efface le filtre" %}
+{% include image.html src="help/seasons-schedule-filter.fr.png" caption="Le calendrier de la ligue avec la saison en cours sélectionnée dans le filtre Saison — le X à côté du nom de la saison efface le filtre et affiche les parties de toutes les saisons." %}
 
 Cela explique aussi des parties qui semblent apparaître de nulle part, ou des joueurs qui disent ne pas voir leur horaire : vérifiez quelle saison est sélectionnée et quelles sont ses dates.
 
@@ -26,7 +26,7 @@ Cela explique aussi des parties qui semblent apparaître de nulle part, ou des j
 
 Pour créer une saison, allez dans l'onglet **Saisons** des paramètres de votre ligue. Ajoutez une saison avec un nom ainsi que ses dates de début et de fin. Toutes les parties dont la date se trouve dans cette plage appartiennent à la saison.
 
-{% include screenshot.html description="Paramètres de la ligue > onglet Saisons, montrant la liste des saisons et le bouton pour ajouter une saison, avec les champs de date de début et de fin mis en évidence" %}
+{% include image.html src="help/seasons-settings.fr.png" caption="Paramètres de la ligue > Saisons : chaque saison est listée avec ses dates de début et de fin, et le bouton Ajouter une saison permet d'en créer une nouvelle." %}
 
 Assurez-vous que la plage de dates couvre bien toutes les parties que vous prévoyez planifier — voir [« Mes parties ont disparu »](#mes-parties-ont-disparu) ci-dessus.
 

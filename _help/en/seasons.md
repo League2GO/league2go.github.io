@@ -18,7 +18,7 @@ To see them again, do one of the following:
 * **Clear the filter**: click the **X** beside the season name above the calendar. All games are shown again, regardless of season.
 * **Extend the season dates**: in your league settings, edit the season so its start and end dates cover the games' dates.
 
-{% include screenshot.html description="League calendar with a season selected in the season filter, highlighting the X beside the season name that clears the filter" %}
+{% include image.html src="help/seasons-schedule-filter.en.png" caption="The league schedule with the current season selected in the Season filter — the X beside the season name clears the filter and shows every season's games." %}
 
 This also explains games that seem to appear out of nowhere, or players reporting they cannot see their schedule: check which season is selected and what its dates are.
 
@@ -26,7 +26,7 @@ This also explains games that seem to appear out of nowhere, or players reportin
 
 To create a season, go to the **Seasons** tab of your league settings. Add a season with a name and its start and end dates. All games whose date falls within that range belong to the season.
 
-{% include screenshot.html description="League settings > Seasons tab, showing the season list and the button to add a season, with the start and end date fields highlighted" %}
+{% include image.html src="help/seasons-settings.en.png" caption="League settings > Seasons: every season is listed with its start and end dates, and the Add season button creates the next one." %}
 
 Make sure the date range actually covers all the games you plan to schedule — see ["My games disappeared"](#my-games-disappeared) above.
 

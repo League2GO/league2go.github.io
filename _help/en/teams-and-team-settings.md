@@ -18,7 +18,7 @@ Teams and their regular players are managed from the **Teams** tab of your leagu
 
 Two teams are automatically added when you create your league. If your league has more teams, use the **Add team** button in the Teams tab.
 
-{% include screenshot.html description="League Teams tab showing two team sections with their player lists, the Add team button, and the gear icon that opens a team's settings" %}
+{% include image.html src="help/team-list-overview.en.png" caption="The Teams tab: every team as a pill on the strip, the Add Team button beside them, and the gear that opens the team's settings." %}
 
 To add players to your teams, see [adding players](/adding-players/).
 
@@ -26,7 +26,7 @@ To add players to your teams, see [adding players](/adding-players/).
 
 To change a team's name or settings, click the team's **gear icon** in the Teams tab.
 
-{% include screenshot.html description="Team settings dialog opened from the gear icon, showing the team name, color and logo fields and the team notification options" %}
+{% include image.html src="help/team-settings-dialog.en.png" caption="The team settings dialog: name, color and logo, plus the captain notification options." %}
 
 ### Logo and colors
 
@@ -39,7 +39,7 @@ In the **General** tab of your league settings, enable the **"Specify target num
 * **When substitute searches trigger.** A search only starts when the team is below its target: if the number of players at a position already meets the configured target, an absence does not trigger a search, and no substitute is contacted for a position that is already full. Use this if you do not want every absence replaced automatically.
 * **Auto-filling incomplete teams.** If a team has fewer regular players than the target, League2GO automatically adds open spots for the missing players when the substitute search starts for a game, and fills them from your league's substitutes. This lets you run a team that does not have a full roster of regulars.
 
-{% include screenshot.html description="League settings > General tab with the Specify target number of players per team setting enabled, showing the target fields for each position" %}
+{% include image.html src="help/team-target-players.en.png" caption="Settings > General with the target number of players per team enabled, one target field per position." %}
 
 For how searches contact substitutes (favorites, delays, rating ranges), see [substitute search settings](/substitute-search-settings/).
 

@@ -34,7 +34,7 @@ Designed for smaller groups that redraw the teams at every game:
 
 Before a game starts, open the game details and click Create lineup. Assign players to the two teams manually, or click Generate random lineup. Not satisfied with a random lineup? Click the button again for a new one, or make the final adjustments by hand.
 
-{% include screenshot.html description="Game details page of a pick-up league > Create lineup view, showing the league's player list split into two generated teams, with the Generate random lineup button highlighted" %}
+{% include image.html src="help/league-types-pickup-create-lineup.en.png" caption="A pick-up game's Create Lineup view: the league's player pool split into two generated teams — Generate Lineup reshuffles them into balanced sides." %}
 
 Once satisfied, select Send lineup to players to notify everyone, or print the lineup to post at the arena.
 

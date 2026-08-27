@@ -11,7 +11,7 @@ redirect_from:
 
 This is the reference for every option that controls the [automatic substitute search](/substitutes-overview/). Unless noted otherwise, all options live in your **league settings, Substitutes tab**. Your substitute lists themselves are managed elsewhere — see [managing substitutes](/managing-substitutes/).
 
-{% include screenshot.html description="League settings > Substitutes tab, showing the full list of substitute search options, with the search timing fields highlighted" %}
+{% include image.html src="help/substitute-settings-options.en.png" caption="League settings > Substitutes: when the search starts (days before the game) and the step-by-step search sequence with its wait times." %}
 
 ## When the search starts
 
@@ -51,7 +51,7 @@ Ratings let the search propose substitutes of comparable caliber to the absent p
 * **Strict:** set the range you require and leave "Extend skill range gradually" **off**. Substitutes outside the range are never contacted for that absence.
 * **Flexible:** set an **initial range**, turn "Extend skill range gradually" **on**, set the **final range**, and enter the number of hours over which the range widens. The search starts with close matches and gradually accepts substitutes further from the absent player's rating — useful when a full lineup matters more than a perfect match.
 
-{% include screenshot.html description="League settings > Substitutes tab, rating range section, showing the initial range, the Extend skill range gradually option enabled, the final range, and the hours field highlighted"%}
+{% include image.html src="help/substitute-settings-rating-range.en.png" caption="The skill-range section: the initial range, Extend skill range gradually enabled, the number of minutes to reach the final range, and the final range." %}
 
 **Example (flexible):** a player rated "A" declares an absence. The initial range contacts substitutes rated "BB" to "C". After 4 hours the range widens to "AA" through "D", and after 8 hours to "AAA" through "D". The lower bound stops at "D" because it is the lowest rating on the scale.
 
@@ -85,7 +85,7 @@ Ratings let the search propose substitutes of comparable caliber to the absent p
 
 **When to change it:** turn it on so substitutes show up knowing what they owe. To collect the amount online rather than in cash, see [online payments](/online-payments-setup/).
 
-{% include screenshot.html description="League settings > Substitutes tab, showing the Include prices in substitution requests checkbox checked and the per-position price fields below it, with one price field highlighted" %}
+{% include image.html src="help/substitute-settings-prices.en.png" caption="Include price in substitution requests: with the option checked, each position gets its own price field." %}
 
 ## Position matching
 

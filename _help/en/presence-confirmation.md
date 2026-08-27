@@ -15,7 +15,7 @@ By default, regular players are **presumed present** for their games. A player w
 
 This model suits most leagues: attendance is the norm, and only exceptions need action from players.
 
-{% include screenshot.html description="Player view of an upcoming game showing the green/red presence button, with the player presumed present by default" %}
+{% include image.html src="help/presence-confirmation-default.en.png" caption="By default a rostered player is presumed present: the game page only offers the red Declare absence action for when they can't make it." %}
 
 ## Opt-in: players confirm their presence
 
@@ -23,7 +23,7 @@ Some leagues prefer the opposite: no player is counted on until they have **conf
 
 Choose this model if your attendance is unpredictable — for example when silence from a player more often means "not coming" than "coming" — and you would rather chase confirmations than discover no-shows at game time.
 
-{% include screenshot.html description="Player view of an upcoming game in presence-confirmation mode, showing the request to confirm presence for the game" %}
+{% include image.html src="help/presence-confirmation-request.en.png" caption="With presence confirmation enabled, the game page asks the player to confirm as game time approaches: green "I will play" or red "I can't play"." %}
 
 ## Enabling confirmation mode
 

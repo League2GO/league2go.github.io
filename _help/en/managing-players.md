@@ -15,11 +15,11 @@ Once your players are [added to your league](/adding-players/), you can enrich t
 
 To assign a jersey number, edit the player from the **Teams** tab and enter the number. Jersey numbers are displayed next to the player's name, which makes rosters and [lineups](/game-day/) easier to read.
 
-{% include screenshot.html description="Edit-player form from the Teams tab, with the jersey number field filled in and highlighted" %}
+{% include image.html src="help/player-edit-jersey-number.en.png" caption="The edit-player form with the jersey number filled in." %}
 
 You can also override a player's number **for a single game** from the action menus in the game details — useful when a player borrows a jersey. These menus also let you enter jersey numbers for substitutes.
 
-{% include screenshot.html description="Game details page with a player's action menu open, showing the set-jersey-number-for-this-game action highlighted" %}
+{% include image.html src="help/game-set-jersey-menu.en.png" caption="A player's action menu on the game page, with the set-jersey-number-for-this-game action." %}
 
 ## Positions
 
@@ -39,13 +39,13 @@ Activate player skill in the **General** tab of your league settings. Choose the
 * **Letters**: "AAA", "AA", "BB", "CC", "A", "B", "C" and "D".
 * **Numbers**: from 1 to 1000 (or simply 1 to 100) for more flexibility.
 
-{% include screenshot.html description="League settings > General tab, showing the player skill option enabled and the choice between letter and number scales highlighted" %}
+{% include image.html src="help/player-skill-settings.en.png" caption="Settings > General with player skill enabled and the letter or number scale to choose from." %}
 
 ### Assigning skills to players
 
 In the **Teams** and **Substitutes** tabs, assign a skill to each player. You must enter a skill for each of the player's positions. The skill is displayed below the player's name in the team and substitute tables. If a player has no skill configured, an exclamation point appears next to them in the table to flag the problem.
 
-{% include screenshot.html description="Teams tab showing player rows with the skill rating displayed under each name, and one player flagged with the missing-skill exclamation point highlighted" %}
+{% include image.html src="help/player-skill-ratings.en.png" caption="The roster with each player's skill beside their name, and the warning on a player whose skill is missing." %}
 
 Skill ratings are visible only to league managers and team captains — players do not see how you rated them. <!-- TODO: verify -->
 
@@ -58,6 +58,6 @@ Skill ratings are visible only to league managers and team captains — players 
 
 You can write notes on each player or substitute in your league — for example payment reminders, availability quirks, or anything useful to your management. Notes are visible only to league managers and to the captains of the player's team; players never see them.
 
-{% include screenshot.html description="Edit-player form showing the notes field with an example note entered, and a mention that notes are visible to managers and captains only" %}
+{% include image.html src="help/player-notes-field.en.png" caption="The notes field on the edit-player form — notes are visible to managers and captains only." %}
 
 Questions? Contact us at [info@league2go.com](mailto:info@league2go.com).

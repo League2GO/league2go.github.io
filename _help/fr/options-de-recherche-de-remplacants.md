@@ -11,7 +11,7 @@ redirect_from:
 
 Voici la référence de chaque option qui contrôle la [recherche automatique de remplaçants](/recherche-de-remplacants/). Sauf indication contraire, toutes les options se trouvent dans les **paramètres de votre ligue, onglet Remplaçants**. Les listes de remplaçants elles-mêmes se gèrent ailleurs — consultez [gérer les remplaçants](/gerer-les-remplacants/).
 
-{% include screenshot.html description="Paramètres de la ligue > onglet Remplaçants, montrant la liste complète des options de la recherche de remplaçants, avec les champs de délai de recherche mis en évidence" %}
+{% include image.html src="help/substitute-settings-options.fr.png" caption="Paramètres de la ligue > Remplaçants : le moment où la recherche démarre (jours avant la partie) et la séquence de recherche étape par étape avec ses délais." %}
 
 ## Début de la recherche
 
@@ -51,7 +51,7 @@ Les forces permettent à la recherche de proposer des remplaçants de calibre co
 * **Stricte :** configurez la plage requise et n'activez pas « Étendre les forces progressivement ». Les remplaçants hors de la plage ne sont jamais contactés pour cette absence.
 * **Flexible :** configurez une **plage initiale**, activez « Étendre les forces progressivement », configurez la **plage finale**, puis entrez le nombre d'heures pour élargir la plage progressivement. La recherche commence par les remplaçants les plus proches, puis accepte graduellement des remplaçants plus éloignés de la force du joueur absent — utile si un alignement complet compte plus qu'une correspondance parfaite.
 
-{% include screenshot.html description="Paramètres de la ligue > onglet Remplaçants, section des plages de force, montrant la plage initiale, l'option Étendre les forces progressivement activée, la plage finale et le champ du nombre d'heures mis en évidence" %}
+{% include image.html src="help/substitute-settings-rating-range.fr.png" caption="La section des plages de force : la plage initiale, l'option Étendre les forces progressivement activée, le nombre de minutes pour atteindre la plage finale, et la plage finale." %}
 
 **Exemple (flexible) :** un joueur de force « A » déclare son absence. La plage initiale contacte les remplaçants de force « C » à « BB ». Après 4 heures, la plage s'élargit de « D » à « AA », puis après 8 heures de « D » à « AAA ». La limite inférieure s'arrête à « D » parce que c'est la force la plus faible de l'échelle.
 
@@ -85,7 +85,7 @@ Les forces permettent à la recherche de proposer des remplaçants de calibre co
 
 **Quand l'ajuster :** activez l'option pour que les remplaçants se présentent en sachant ce qu'ils doivent. Pour percevoir le montant en ligne plutôt qu'en argent comptant, consultez [les paiements en ligne](/configurer-les-paiements-en-ligne/).
 
-{% include screenshot.html description="Paramètres de la ligue > onglet Remplaçants, montrant la case Inclure les prix dans les demandes de remplacement cochée et les champs de prix par position en dessous, avec un champ de prix mis en évidence" %}
+{% include image.html src="help/substitute-settings-prices.fr.png" caption="Inclure les prix dans les demandes de remplacement : une fois l'option cochée, chaque position a son propre champ de prix." %}
 
 ## Correspondance des positions
 

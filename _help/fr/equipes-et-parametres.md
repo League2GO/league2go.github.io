@@ -18,7 +18,7 @@ Les équipes et leurs joueurs réguliers se gèrent à partir de l'onglet **Équ
 
 Deux équipes sont automatiquement ajoutées lors de la création de votre ligue. Si votre ligue a plus d'équipes, utilisez le bouton **Ajouter une équipe** dans l'onglet Équipes.
 
-{% include screenshot.html description="Onglet Équipes de la ligue montrant deux sections d'équipe avec leur liste de joueurs, le bouton Ajouter une équipe et l'icône d'engrenage qui ouvre les paramètres d'une équipe" %}
+{% include image.html src="help/team-list-overview.fr.png" caption="L'onglet Équipes : chaque équipe en pastille sur la bande, le bouton Ajouter une équipe à côté, et l'engrenage qui ouvre les paramètres de l'équipe." %}
 
 Pour ajouter des joueurs à vos équipes, voir [ajouter des joueurs](/ajouter-des-joueurs/).
 
@@ -26,7 +26,7 @@ Pour ajouter des joueurs à vos équipes, voir [ajouter des joueurs](/ajouter-de
 
 Pour changer le nom ou les paramètres d'une équipe, cliquez sur l'**icône d'engrenage** de l'équipe dans l'onglet Équipes.
 
-{% include screenshot.html description="Fenêtre des paramètres d'une équipe ouverte à partir de l'icône d'engrenage, montrant les champs de nom, de couleur et de logo ainsi que les options de notification de l'équipe" %}
+{% include image.html src="help/team-settings-dialog.fr.png" caption="La fenêtre des paramètres d'équipe : nom, couleur et logo, ainsi que les options de notification des capitaines." %}
 
 ### Logo et couleurs
 
@@ -39,7 +39,7 @@ Dans l'onglet **Général** des paramètres de votre ligue, activez le paramètr
 * **Le déclenchement des recherches de remplaçants.** Une recherche démarre seulement quand l'équipe est sous sa cible : si le nombre de joueurs d'une position atteint déjà la cible configurée, une absence ne déclenche pas de recherche, et aucun remplaçant n'est contacté pour une position déjà comblée. Utilisez ce paramètre si vous ne voulez pas que chaque absence soit remplacée automatiquement.
 * **Compléter les alignements des équipes incomplètes.** Si une équipe compte moins de joueurs réguliers que la cible, League2GO ajoute automatiquement des emplacements à combler pour les joueurs manquants lorsque la recherche de remplaçants démarre pour une partie, et les comble avec les remplaçants de votre ligue. Vous pouvez ainsi avoir une équipe qui n'a pas un alignement complet de joueurs réguliers.
 
-{% include screenshot.html description="Paramètres de la ligue > onglet Général avec le paramètre Spécifier le nombre cible de joueurs par équipe activé, montrant les champs de cible pour chaque position" %}
+{% include image.html src="help/team-target-players.fr.png" caption="Paramètres > Général avec le nombre cible de joueurs par équipe activé, un champ cible par position." %}
 
 Pour savoir comment les recherches contactent les remplaçants (favoris, délais, plages de force), voir les [options de recherche de remplaçants](/options-de-recherche-de-remplacants/).
 

@@ -21,7 +21,7 @@ When your free games are used up, buy a credit pack:
 * Credits are bought **on the website** at [league2go.com](https://league2go.com) — app-store rules do not allow buying them in the mobile app.
 * Credits come in packs; the larger the pack, the lower the price per game. See the purchase page on [league2go.com](https://league2go.com) for current pricing.
 
-{% include screenshot.html description="Game credits purchase page on the website, showing the available credit packs with their prices and the current credit balance" %}
+{% include image.html src="help/purchase-game-credits.en.png" caption="The game-credit purchase page: your remaining credit balance, the quantity slider with the volume-discount tiers, and the price summary before tax." %}
 
 ## How credits behave
 

@@ -20,7 +20,7 @@ L'onglet Remplaçants gère deux types de listes :
 
 Seuls les gestionnaires peuvent voir et modifier les remplaçants. **Les joueurs ne peuvent pas s'ajouter eux-mêmes comme remplaçants ni parcourir les ligues pour s'y joindre** — c'est vous qui ajoutez chaque remplaçant. Si quelqu'un souhaite être remplaçant dans votre ligue, il doit passer par vous.
 
-{% include screenshot.html description="Page de la ligue > onglet Remplaçants, montrant la liste de remplaçants d'une équipe et la liste des remplaçants de la ligue en dessous, avec l'icône d'ajout de remplaçant mise en évidence" %}
+{% include image.html src="help/manage-substitutes-lists.fr.png" caption="L'onglet Remplaçants : la liste des remplaçants de la ligue et celle d'une équipe, avec le bouton Ajouter un remplaçant en dessous." %}
 
 ## Ajouter un remplaçant
 
@@ -35,7 +35,7 @@ La recherche ne propose un remplaçant que pour les positions qu'il joue, à l'i
 * **Positions :** cochez toutes les positions que le remplaçant peut jouer, pour qu'il soit contacté le plus souvent possible.
 * **Forces :** entrez une force pour chacune des positions du remplaçant, selon l'échelle configurée dans l'onglet Général de votre ligue (lettres ou nombres). La force est affichée sous le nom du remplaçant dans le tableau, et un point d'exclamation s'affiche à côté d'un joueur à qui il en manque une. Les forces sont visibles seulement par les capitaines des équipes et les gestionnaires de la ligue.
 
-{% include screenshot.html description="Onglet Remplaçants, modification d'un remplaçant, montrant les cases à cocher des positions et les champs de force par position, avec un point d'exclamation visible à côté d'un remplaçant sans force" %}
+{% include image.html src="help/manage-substitutes-edit-dialog.fr.png" caption="Modification d'un remplaçant dans une ligue avec forces : un champ de force par position — inscrire une force sélectionne la position pour ce remplaçant." %}
 
 L'utilisation des forces par la recherche est expliquée dans les [options de la recherche de remplaçants](/options-de-recherche-de-remplacants/).
 
@@ -55,7 +55,7 @@ Vous pouvez toujours contourner la recherche automatique :
 * Quand vous **ajoutez un emplacement** à une partie, spécifiez la force requise pour le combler automatiquement avec un joueur de la bonne force.
 * Si vous préférez toujours choisir manuellement, désactivez la recherche automatique en réglant le début de la recherche à 0 jour dans les [options de la recherche de remplaçants](/options-de-recherche-de-remplacants/).
 
-{% include screenshot.html description="Page de détails d'une partie, remplacement d'un joueur absent, montrant la liste des remplaçants disponibles avec leur force affichée sous chaque nom, avec la force d'un remplaçant mise en évidence" %}
+{% include image.html src="help/manage-substitutes-replace-player.fr.png" caption="Remplacer un joueur absent depuis la page de la partie : les remplaçants disponibles sont listés avec leur force à côté de chaque position." %}
 
 ## Paiements des remplaçants
 

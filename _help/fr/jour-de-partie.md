@@ -19,7 +19,7 @@ Ce guide couvre ce que les gestionnaires font autour d'une partie : consulter l'
 
 Ouvrez une partie pour voir son alignement : les joueurs de chaque équipe, leur position et leur statut pour cette partie. Les joueurs réguliers sont présumés présents à moins de déclarer une absence (voir [confirmation de présence](/confirmation-de-presence/) pour le mode où les joueurs confirment plutôt leur présence).
 
-{% include screenshot.html description="Page de détail d'une partie montrant l'alignement des deux équipes, avec le nom, la position et le statut de présence (présent/absent) de chaque emplacement" %}
+{% include image.html src="help/game-day-lineups.fr.png" caption="La page de la partie montre l'alignement des deux équipes — chaque emplacement avec le nom, le numéro et la position du joueur, et un emplacement laissé libre par une absence déclarée directement dans l'alignement." %}
 
 ## Les emplacements
 
@@ -30,7 +30,7 @@ Chaque place dans un alignement est un **emplacement**. Chaque emplacement poss�
 * Rappeler les remplaçants
 * Changer la position de l'emplacement
 
-{% include screenshot.html description="Menu d'un emplacement ouvert sur un joueur de l'alignement, listant les actions : remplacer le joueur, démarrer la recherche automatique de remplaçants, rappeler les remplaçants, changer la position" %}
+{% include image.html src="help/game-day-spot-menu.fr.png" caption="Le menu d'un emplacement regroupe toutes les actions sur un joueur : chercher un remplaçant, sélectionner un autre joueur, le changer d'équipe, changer sa position, et plus encore." %}
 
 Les gestionnaires peuvent aussi **ajouter des emplacements supplémentaires** à une partie. Ces emplacements peuvent être comblés automatiquement par des remplaçants, ce qui permet aux équipes incomplètes de jouer avec un alignement complet. Lorsqu'il y a un emplacement libre dans chacune des deux équipes, le remplaçant peut choisir son équipe.
 
@@ -44,7 +44,7 @@ Pour remplacer vous-même un joueur absent au lieu d'utiliser la recherche autom
 * un joueur d'**une autre équipe** de la ligue — sélectionnez d'abord l'autre équipe, puis le joueur, ou
 * un des remplaçants de votre ligue (voir [gérer les remplaçants](/gerer-les-remplacants/)).
 
-{% include screenshot.html description="Fenêtre de remplacement de joueur avec le sélecteur d'équipe déployé, montrant qu'un remplaçant peut être choisi dans l'effectif d'une autre équipe" %}
+{% include image.html src="help/game-day-replace-player-dialog.fr.png" caption="La fenêtre de remplacement : choisissez le remplaçant dans la banque de remplaçants, ou déployez n'importe quelle autre équipe de la ligue pour prendre un joueur dans son effectif." %}
 
 Lorsque vous remplacez un joueur manuellement, vous pouvez choisir d'**envoyer automatiquement un message au joueur** pour l'avertir du changement, sans avoir à le contacter vous-même.
 
@@ -59,13 +59,13 @@ L'alignement peut être affiché de deux façons :
 
 Une option permet de basculer entre les deux modes, pour que les ligues qui n'organisent pas de trios conservent l'affichage simple. <!-- TODO: vérifier le libellé exact et l'emplacement de l'option -->
 
-{% include screenshot.html description="Alignement d'une partie avec l'option de bascule entre le mode alignement simple et le mode trios mise en évidence" %}
+{% include image.html src="help/game-day-lineup-type-toggle.fr.png" caption="Le sélecteur Type d'alignement dans l'éditeur d'alignement bascule l'affichage entre l'alignement simple et les trios d'attaque." %}
 
 ## Imprimer l'alignement
 
 Pour imprimer l'alignement d'une partie, allez dans le détail de la partie et cliquez sur le bouton **« Imprimer l'alignement »**. Une page optimisée contenant l'information de la partie est générée. Vous pouvez afficher ces pages à l'aréna pour, par exemple, orienter les joueurs vers le bon vestiaire.
 
-{% include screenshot.html description="Page de détail d'une partie avec le bouton « Imprimer l'alignement » mis en évidence, à côté de la page d'impression optimisée qui en résulte" %}
+{% include image.html src="help/game-day-print-menu.fr.png" caption="Imprimer l'alignement se trouve dans le menu de la partie (le bouton rond en haut de la page de la partie) et ouvre une feuille d'alignement optimisée pour l'impression dans la boîte d'impression de votre navigateur." %}
 
 ## Exporter l'alignement en CSV
 

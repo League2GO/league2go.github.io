@@ -41,7 +41,7 @@ Les marqueurs inscrivent le pointage et mettent à jour vos statistiques, en tem
 
 La personne doit d'abord avoir son propre compte League2GO. Ensuite, dans l'onglet **Accès** des paramètres de votre ligue, ajoutez son compte en tant que gestionnaire ou en tant que marqueur.
 
-{% include screenshot.html description="Paramètres de la ligue > onglet Accès, montrant les sections gestionnaires et marqueurs avec les boutons d'ajout mis en évidence" %}
+{% include image.html src="help/access-tab.fr.png" caption="Paramètres de la ligue > onglet Accès : la liste des gestionnaires (le propriétaire porte la couronne) et la liste des marqueurs, chacune avec son bouton d'ajout." %}
 
 Si la personne n'a pas encore de compte, demandez-lui de s'inscrire d'abord sur [league2go.com](https://league2go.com).
 
@@ -53,7 +53,7 @@ Donnez à chaque gestionnaire, capitaine et marqueur son propre compte plutôt q
 
 Pour céder votre ligue à un nouveau propriétaire, allez dans l'onglet **Accès** des paramètres de votre ligue et utilisez l'option de transfert de possession. Le nouveau propriétaire doit déjà avoir un compte League2GO. L'opération ne peut pas être inversée par l'ancien propriétaire.
 
-{% include screenshot.html description="Paramètres de la ligue > onglet Accès, montrant l'option de transfert de possession avec la boîte de confirmation et son avertissement mis en évidence" %}
+{% include image.html src="help/access-transfer-ownership-dialog.fr.png" caption="La boîte de confirmation du transfert de possession : l'avertissement d'action irréversible, le nom de la ligue à retaper et le courriel du nouveau propriétaire." %}
 
 **Avertissement au sujet des crédits de partie** : les crédits de partie appartiennent à la personne qui les a achetés, pas à la ligue. Ils ne suivent **pas** la ligue vers le nouveau propriétaire — les crédits inutilisés restent à l'ancien propriétaire. Avant de transférer :
 

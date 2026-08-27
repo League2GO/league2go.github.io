@@ -15,11 +15,11 @@ Une fois vos joueurs [ajoutés à votre ligue](/ajouter-des-joueurs/), vous pouv
 
 Pour attribuer un numéro de chandail, modifiez le joueur à partir de l'onglet **Équipes** et saisissez le numéro. Les numéros de chandail sont affichés à côté du nom des joueurs, ce qui rend les alignements et le [jour de partie](/jour-de-partie/) plus faciles à suivre.
 
-{% include screenshot.html description="Formulaire de modification d'un joueur à partir de l'onglet Équipes, avec le champ numéro de chandail rempli et mis en évidence" %}
+{% include image.html src="help/player-edit-jersey-number.fr.png" caption="Le formulaire de modification d'un joueur avec le numéro de chandail rempli." %}
 
 Vous pouvez aussi changer le numéro d'un joueur **pour une seule partie** à partir des menus d'actions dans le détail de la partie — pratique quand un joueur emprunte un chandail. Ces menus permettent aussi de saisir le numéro des remplaçants.
 
-{% include screenshot.html description="Page de détail d'une partie avec le menu d'actions d'un joueur ouvert, montrant l'action assigner un numéro pour cette partie mise en évidence" %}
+{% include image.html src="help/game-set-jersey-menu.fr.png" caption="Le menu d'actions d'un joueur sur la page d'une partie, avec l'action assigner un numéro de chandail pour cette partie." %}
 
 ## Positions
 
@@ -39,13 +39,13 @@ Activez les forces de joueur dans l'onglet **Général** des paramètres de votr
 * **Lettres** : « AAA », « AA », « BB », « CC », « A », « B », « C » et « D ».
 * **Nombres** : de 1 à 1000 (ou simplement de 1 à 100) pour plus de flexibilité.
 
-{% include screenshot.html description="Paramètres de la ligue > onglet Général, montrant l'option forces de joueur activée et le choix entre l'échelle en lettres et en nombres mis en évidence" %}
+{% include image.html src="help/player-skill-settings.fr.png" caption="Paramètres > Général avec les forces des joueurs activées et le choix entre l'échelle en lettres ou en nombres." %}
 
 ### Assigner des forces aux joueurs
 
 Dans les onglets **Équipes** et **Remplaçants**, assignez une force à chaque joueur. Vous devez entrer une force pour chaque position du joueur. La force est affichée sous le nom du joueur dans les tableaux d'équipes et de remplaçants. Si un joueur n'a pas de force configurée, un point d'exclamation s'affiche à côté de lui dans le tableau pour signaler le problème.
 
-{% include screenshot.html description="Onglet Équipes montrant des joueurs avec leur force affichée sous leur nom, et un joueur marqué du point d'exclamation de force manquante mis en évidence" %}
+{% include image.html src="help/player-skill-ratings.fr.png" caption="L'alignement avec la force de chaque joueur à côté de son nom, et l'avertissement sur un joueur dont la force est manquante." %}
 
 Les forces sont visibles seulement par les gestionnaires de la ligue et les capitaines d'équipe — les joueurs ne voient pas comment vous les avez évalués. <!-- TODO: verify -->
 
@@ -58,6 +58,6 @@ Les forces sont visibles seulement par les gestionnaires de la ligue et les capi
 
 Vous pouvez rédiger des notes au sujet de chaque joueur ou remplaçant de votre ligue — par exemple des rappels de paiement, des disponibilités particulières ou toute information utile à votre gestion. Les notes sont visibles seulement par les gestionnaires de la ligue et les capitaines de l'équipe du joueur ; les joueurs ne les voient jamais.
 
-{% include screenshot.html description="Formulaire de modification d'un joueur montrant le champ notes avec un exemple de note, et une mention que les notes sont visibles seulement par les gestionnaires et les capitaines" %}
+{% include image.html src="help/player-notes-field.fr.png" caption="Le champ notes du formulaire de modification d'un joueur — les notes ne sont visibles que par les gestionnaires et les capitaines." %}
 
 Des questions ? Écrivez-nous à [info@league2go.com](mailto:info@league2go.com).

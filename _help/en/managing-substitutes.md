@@ -20,7 +20,7 @@ The Substitutes tab manages two kinds of lists:
 
 Only managers can see and modify substitutes. **Players cannot add themselves as substitutes or browse leagues to join** — you add every substitute yourself. If someone asks to be a substitute in your league, they must go through you.
 
-{% include screenshot.html description="League page > Substitutes tab, showing a team's substitute list and the league substitutes list below it, with the add substitute icon highlighted" %}
+{% include image.html src="help/manage-substitutes-lists.en.png" caption="The Substitutes tab: the league substitute pool and a team's own substitute list, with the Add substitute button below." %}
 
 ## Adding a substitute
 
@@ -35,7 +35,7 @@ The search only proposes a substitute for positions they play, within the config
 * **Positions:** check every position the substitute can play, so they are contacted as often as possible.
 * **Ratings:** enter a skill rating for each of the substitute's positions, on the scale configured in your league's General tab (letters or numbers). The rating is displayed below the substitute's name in the table, and an exclamation point appears beside any player missing one. Ratings are visible only to team captains and league managers.
 
-{% include screenshot.html description="Substitutes tab, editing one substitute, showing the position checkboxes and the per-position rating fields, with an exclamation point warning visible on a substitute missing a rating" %}
+{% include image.html src="help/manage-substitutes-edit-dialog.en.png" caption="Editing a substitute in a rated league: one rating field per position — filling in a rating is what selects the position for that substitute." %}
 
 How ratings are used by the search is covered in [substitute search settings](/substitute-search-settings/).
 
@@ -55,7 +55,7 @@ You can always bypass the automatic search:
 * When you **add a spot** to a game, specify the required rating to automatically find a player that matches it.
 * If you prefer to always choose manually, disable the automatic search by setting the search start to 0 days in [substitute search settings](/substitute-search-settings/).
 
-{% include screenshot.html description="Game details page, replacing an absent player, showing the list of available substitutes with their ratings displayed under each name, with the rating of one substitute highlighted" %}
+{% include image.html src="help/manage-substitutes-replace-player.en.png" caption="Replacing an absent player from the game page: available substitutes are listed with their rating beside each position." %}
 
 ## Substitute payments
 

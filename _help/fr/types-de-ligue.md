@@ -34,7 +34,7 @@ Conçu pour les plus petits groupes qui refont les équipes à chaque partie :
 
 Avant le début d'une partie, ouvrez le détail de la partie puis cliquez sur Créer l'alignement. Assignez les joueurs aux deux équipes manuellement, ou cliquez sur Générer un alignement aléatoire. Vous n'êtes pas satisfait d'un alignement aléatoire ? Cliquez de nouveau sur le bouton pour en obtenir un nouveau, ou faites les derniers ajustements à la main.
 
-{% include screenshot.html description="Page de détail d'une partie d'une ligue pick-up > vue Créer l'alignement, montrant la liste de joueurs de la ligue répartie en deux équipes générées, avec le bouton Générer un alignement aléatoire mis en évidence" %}
+{% include image.html src="help/league-types-pickup-create-lineup.fr.png" caption="La vue Créer l'alignement d'une partie pick-up : la banque de joueurs de la ligue répartie en deux équipes générées — Générer un alignement les redistribue en équipes équilibrées." %}
 
 Une fois satisfait, cochez Envoyer l'alignement aux joueurs pour aviser tout le monde, ou imprimez l'alignement pour l'afficher à l'aréna.
 

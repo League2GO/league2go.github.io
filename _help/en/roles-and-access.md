@@ -41,7 +41,7 @@ Scorekeepers enter goals and update your statistics, live during the game or aft
 
 The person must first have a League2GO account of their own. Then, in the **Access** tab of your league settings, add their account as a manager or as a scorekeeper.
 
-{% include screenshot.html description="League settings > Access tab, showing the managers and scorekeepers sections with the add buttons highlighted" %}
+{% include image.html src="help/access-tab.en.png" caption="League settings > Access tab: the managers list (the owner wears the crown) and the scorekeepers list, each with its add button." %}
 
 If the person doesn't have an account yet, ask them to sign up at [league2go.com](https://league2go.com) first.
 
@@ -53,7 +53,7 @@ Give each manager, captain and scorekeeper their own account instead of sharing 
 
 To hand your league over to a new owner, go to the **Access** tab of your league settings and use the transfer ownership option. The new owner must already have a League2GO account. The operation cannot be reversed by the previous owner.
 
-{% include screenshot.html description="League settings > Access tab, showing the transfer ownership option with a confirmation dialog and its warning text highlighted" %}
+{% include image.html src="help/access-transfer-ownership-dialog.en.png" caption="The transfer-ownership confirmation dialog: the irreversible-action warning, the league name to retype, and the new owner's email." %}
 
 **Warning about game credits**: game credits belong to the person who bought them, not to the league. They do **not** follow the league to the new owner — unused credits stay with the previous owner. Before transferring:
 
