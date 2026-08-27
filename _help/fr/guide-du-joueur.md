@@ -44,7 +44,7 @@ Votre profil vous appartient : une fois inscrit, vous seul pouvez le modifier �
 * Choisir les **positions** que vous pouvez jouer, pour que les demandes de remplacement vous correspondent.
 * Régler vos **préférences de notification** — voir [notifications et rappels](/notifications-et-rappels/).
 
-{% include image.html src="help/player-profile.fr.png" caption="Votre profil : photo, coordonnées et préférences de communication. (Les positions se règlent par ligue, pas sur la page de profil — la capture montre les sections réellement présentes.)" %}
+{% include image.html src="help/player-profile.fr.png" caption="Votre profil : photo et coordonnées — les préférences de notification se trouvent plus bas sur la page" %}
 
 Pour changer votre adresse courriel, votre numéro de cellulaire ou votre mot de passe, consultez [votre compte](/votre-compte/).
 

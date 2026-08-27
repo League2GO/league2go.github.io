@@ -44,7 +44,7 @@ Your profile is yours: once you have registered, only you can edit it — not yo
 * Set the **positions** you can play, so substitution requests match you correctly.
 * Choose your **notification preferences** — see [notifications and reminders](/notifications/).
 
-{% include image.html src="help/player-profile.en.png" caption="Your profile: photo, contact information and communication preferences. (Positions are set per league, not on the profile page — the capture shows the sections the profile actually holds.)" %}
+{% include image.html src="help/player-profile.en.png" caption="Your profile: photo and contact information — notification preferences are further down the page" %}
 
 To change your email address, cell number or password, see [your account](/your-account/).
 
