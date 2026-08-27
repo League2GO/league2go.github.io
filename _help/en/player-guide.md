@@ -12,7 +12,7 @@ This guide covers your day-to-day as a player: checking your schedule, declaring
 
 One League2GO account is enough for everything: your personal schedule shows the upcoming games from **all your leagues in one calendar**, whether you play in them as a regular player or as a substitute. You can view it on [league2go.com](https://league2go.com) or in the [mobile app](/mobile-app/).
 
-{% include screenshot.html description="Player's personal schedule showing upcoming games from two different leagues in one calendar list" %}
+{% include image.html src="help/player-two-league-schedule.en.png" caption="Your personal schedule lists upcoming games from every league you play in — here, two leagues in one list." %}
 
 Tip: the app can also add your games to your phone's calendar automatically — see [calendar sync](/mobile-calendar-sync/).
 
@@ -20,7 +20,7 @@ Tip: the app can also add your games to your phone's calendar automatically — 
 
 As a regular player, you are presumed present at your games. If you can't make a game, open it in your schedule and tap the green presence button to declare your absence — it turns red. Tap it again to cancel your absence and declare yourself present. <!-- TODO: verify exact button labels -->
 
-{% include screenshot.html description="Game details in the player's schedule, with the green present / red absent presence button highlighted" %}
+{% include image.html src="help/player-game-presence.en.png" caption="The game page: you are presumed present — tap the red Declare absence button if you can't make it." %}
 
 * **Declare your absence as early as possible.** Your absence is what triggers the automatic substitute search, and the search needs time to contact substitutes and fill your spot.
 * Some leagues block absence declarations shortly before game time. If you can no longer declare an absence, contact your league manager or team captain — they can declare it for you.
@@ -34,7 +34,7 @@ If you are a substitute in a league, you receive a substitution request when a p
 * You can accept or decline directly from the notification, or from the notifications section of the app.
 * If the spot has already been filled by the time you answer, you keep your place in line for the next request.
 
-{% include screenshot.html description="A substitution request in the mobile app, showing the game details with the accept and decline buttons highlighted" %}
+{% include image.html src="help/player-substitute-request.en.png" caption="A substitution request: the game details with the green Join this game and red Decline buttons." %}
 
 ## Your profile
 
@@ -44,7 +44,7 @@ Your profile is yours: once you have registered, only you can edit it — not yo
 * Set the **positions** you can play, so substitution requests match you correctly.
 * Choose your **notification preferences** — see [notifications and reminders](/notifications/).
 
-{% include screenshot.html description="Player profile page showing the photo, positions and notification preference sections" %}
+{% include image.html src="help/player-profile.en.png" caption="Your profile: photo, contact information and communication preferences. (Positions are set per league, not on the profile page — the capture shows the sections the profile actually holds.)" %}
 
 To change your email address, cell number or password, see [your account](/your-account/).
 

@@ -25,13 +25,13 @@ Si le joueur s'inscrit avec un courriel ou un numéro différent de celui que vo
 
 Pour ajouter un joueur, ouvrez l'onglet **Équipes** de votre ligue et cliquez sur l'icône **+** au bas de la section d'une équipe. Entrez l'adresse courriel ou le numéro de cellulaire du joueur — c'est l'information qu'il utilisera pour se connecter à League2GO. Vous pouvez aussi définir ses positions, son numéro de chandail et d'autres détails (voir [gérer les joueurs](/gerer-les-joueurs/)).
 
-{% include screenshot.html description="Onglet Équipes d'une ligue, avec le formulaire d'ajout de joueur ouvert sur une équipe, les champs courriel et numéro de cellulaire mis en évidence" %}
+{% include image.html src="help/add-player-email-phone.fr.png" caption="Le formulaire d'ajout de joueur : les champs courriel et cellulaire viennent en premier — c'est ce qui relie le compte du joueur." %}
 
 Une fois ajouté, le joueur reçoit automatiquement un message l'invitant à compléter son enregistrement afin d'accéder au [calendrier](/calendrier-et-parties/) de la ligue.
 
 Un indicateur à côté du nom d'un joueur signale qu'il n'a pas encore complété son enregistrement. <!-- TODO: verify current indicator (icon/color) -->
 
-{% include screenshot.html description="Onglet Équipes montrant l'alignement d'une équipe où un joueur porte l'indicateur d'enregistrement incomplet à côté de son nom, avec cet indicateur mis en évidence" %}
+{% include image.html src="help/player-registration-pending.fr.png" caption="L'alignement avec l'indicateur Inscription en attente à côté des joueurs qui ne se sont pas encore inscrits." %}
 
 ## Rappels d'enregistrement automatiques
 
@@ -50,7 +50,7 @@ Si un joueur vous dit « je ne vois pas la ligue », comparez lettre par lettre 
 
 Pas besoin de supprimer et de recréer un joueur pour réorganiser vos alignements. Dans l'onglet **Équipes**, ouvrez le menu d'actions à côté d'un joueur pour le déplacer vers une autre équipe en un seul clic.
 
-{% include screenshot.html description="Onglet Équipes avec le menu d'actions d'un joueur ouvert, montrant les actions changer d'équipe et rendre remplaçant mises en évidence" %}
+{% include image.html src="help/player-move-actions-menu.fr.png" caption="Le menu d'actions d'un joueur, avec Changer d'équipe et les actions de déplacement vers les remplaçants." %}
 
 ## Convertir un joueur en remplaçant (et l'inverse)
 

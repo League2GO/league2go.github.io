@@ -34,7 +34,7 @@ Si vous pouvez vous connecter mais que votre ligue ou votre horaire est absent, 
 2. Comparez avec le courriel et le numéro de votre compte (dans votre profil).
 3. Si les vôtres sont différents, mettez votre profil à jour pour qu'ils correspondent, ou demandez au gestionnaire de corriger de son côté : un gestionnaire corrige une faute de frappe en **vous supprimant puis en vous rajoutant** avec les bonnes coordonnées.
 
-{% include screenshot.html description="Écran de profil du joueur montrant les champs courriel et numéro de cellulaire, mis en évidence comme les valeurs qui doivent correspondre à ce que le gestionnaire de ligue a entré" %}
+{% include image.html src="help/account-profile-contact.fr.png" caption="Le courriel et le numéro de cellulaire de votre profil : ils doivent correspondre à ce que votre gestionnaire de ligue a entré pour que les parties arrivent dans le bon compte." %}
 
 ## Réinitialiser votre mot de passe
 

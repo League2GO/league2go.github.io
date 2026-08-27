@@ -15,7 +15,7 @@ Les divisions sont **optionnelles** — si votre ligue ne les utilise pas, vous 
 
 Les équipes sont assignées aux divisions en modifiant la saison dans les paramètres de votre ligue. <!-- TODO: verify exact UI for creating divisions and assigning teams -->
 
-{% include screenshot.html description="Écran de modification d'une saison dans les paramètres de la ligue, montrant les divisions avec les équipes de la ligue assignées à chaque division" %}
+{% include image.html src="help/divisions-season-edit.fr.png" caption="Modification d'une saison dans les paramètres de la ligue : chaque division a son propre sélecteur d'équipes, les équipes de la ligue étant assignées par division pour cette saison." %}
 
 Comme les divisions appartiennent à une saison, vous les configurez de nouveau pour chaque nouvelle saison — voir [saisons](/saisons/).
 
@@ -23,7 +23,7 @@ Comme les divisions appartiennent à une saison, vous les configurez de nouveau 
 
 Lorsque les équipes sont regroupées en divisions, le classement est affiché par division : chaque groupe a son propre classement. Voir [résultats, classement et statistiques](/resultats-classement-statistiques/).
 
-{% include screenshot.html description="Page de classement d'une ligue avec des divisions, montrant un tableau de classement distinct pour chaque division" %}
+{% include image.html src="help/divisions-standings.fr.png" caption="Le classement limité à une division grâce au filtre Saison/Division — chaque division obtient ainsi son propre tableau de classement, ne montrant que ses équipes." %}
 
 ## Articles reliés
 

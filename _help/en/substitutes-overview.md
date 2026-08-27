@@ -47,7 +47,7 @@ Substitutes who received a request but have not responded get an **automatic rem
 
 From the game, open the **view substitutes** panel to see who was contacted for each open spot. This is the first place to look when you wonder whether the search is working: it shows exactly which substitutes received a request.
 
-{% include screenshot.html description="Game details page with the view substitutes panel open, showing the list of substitutes contacted for an open spot, with the contacted status highlighted" %}
+{% include image.html src="help/substitute-search-requests-sent.en.png" caption="The View substitutes panel on a searching spot: every contacted substitute shows a "Request sent" status with when the request went out." %}
 
 ## Why a specific substitute was not contacted
 

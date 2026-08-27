@@ -16,7 +16,7 @@ To send a message, go to the **Messaging** tab of your league. Write your messag
 * **A team** — information relevant to one roster only.
 * **The players of a game** — ideal for a venue change or a cancellation notice for that game.
 
-{% include screenshot.html description="Messaging tab of a league, showing the new-message form with the recipient selector (league, team, or game) highlighted" %}
+{% include image.html src="help/messaging-new-message-recipients.en.png" caption="The Messaging tab's new-message form: pick recipients from the whole league, a team, or specific roles in the destination selector." %}
 
 ## How players receive messages
 

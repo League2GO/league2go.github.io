@@ -13,7 +13,7 @@ Billing is the league's ledger of what each player owes and has paid — no more
 
 Start by recording a **season fee**. This fee is added to every player of the season. Each player's balance shows where they stand: **green** when the player owes nothing, **red** when they still owe money.
 
-{% include screenshot.html description="League billing page listing all players with their balances, green balances for paid-up players and red balances for players who still owe, with the season fee field highlighted" %}
+{% include image.html src="help/billing-player-balances.en.png" caption="The league billing page: every player with their balance — red when they still owe money, green when their account is settled — with the season selector and the season fee action above the list." %}
 
 ## Recording transactions per player
 
@@ -24,7 +24,7 @@ Use the menu to the right of each player to record individual transactions:
 * **Credits** — you grant the player a credit, which decreases their balance.
 * **Refunds** — you give money back to the player, which increases their balance.
 
-{% include screenshot.html description="Per-player transaction menu opened on one row of the billing table, listing the fee, payment, credit, and refund transaction types" %}
+{% include image.html src="help/billing-transaction-types.en.png" caption="Registering a transaction on a player: the type list explains each of the four types — fee, payment, refund and credit — and how it moves the player's balance." %}
 
 To record a transaction for **all players at once**, use the **Save a transaction** button in the menu at the top of the table — useful, for example, when a game is cancelled.
 

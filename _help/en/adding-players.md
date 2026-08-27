@@ -25,13 +25,13 @@ If the player signs up with a different email or phone number than the one you t
 
 To add a player, open the **Teams** tab of your league and click the **+** icon at the bottom of a team section. Enter the player's email address or cell number — this is the information they will use to sign in to League2GO. You can also set their positions, jersey number and other details (see [managing players](/managing-players/)).
 
-{% include screenshot.html description="Teams tab of a league, with the add-player form open on one team, showing the email and cell number fields highlighted" %}
+{% include image.html src="help/add-player-email-phone.en.png" caption="The add-player form: the email and cell number fields come first — they are how the player's account gets linked." %}
 
 Once added, the player automatically receives a message inviting them to complete their registration so they can access the league [schedule](/schedule-and-calendar/).
 
 An indicator next to a player's name shows that they have not completed their registration yet. <!-- TODO: verify current indicator (icon/color) -->
 
-{% include screenshot.html description="Teams tab showing a team roster where one player has the not-yet-registered indicator beside their name, with that indicator highlighted" %}
+{% include image.html src="help/player-registration-pending.en.png" caption="The roster with the Registration pending indicator beside players who have not signed up yet." %}
 
 ## Automatic registration reminders
 
@@ -50,7 +50,7 @@ If a player says "I can't see the league", compare letter for letter the email a
 
 You don't need to delete and recreate a player to reorganize your rosters. In the **Teams** tab, open the action menu next to a player to move them to another team in one click.
 
-{% include screenshot.html description="Teams tab with a player's action menu open, showing the move-to-another-team and make-substitute actions highlighted" %}
+{% include image.html src="help/player-move-actions-menu.en.png" caption="A player's action menu, with Change team and the move-to-substitutes actions." %}
 
 ## Converting a player to a substitute (and back)
 

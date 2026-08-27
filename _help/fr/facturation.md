@@ -13,7 +13,7 @@ La facturation est le registre de la ligue : ce que chaque joueur doit et a pay�
 
 Commencez par enregistrer un **frais de saison**. Ce frais est ajouté à tous les joueurs de la saison. La balance de chaque joueur indique où il en est : **verte** quand le joueur ne doit rien, **rouge** lorsqu'il doit encore de l'argent.
 
-{% include screenshot.html description="Page de facturation de la ligue listant tous les joueurs avec leur balance, balances vertes pour les joueurs en règle et rouges pour ceux qui doivent encore de l'argent, avec le champ du frais de saison mis en évidence" %}
+{% include image.html src="help/billing-player-balances.fr.png" caption="La page de facturation de la ligue : chaque joueur avec sa balance — rouge quand il doit encore de l'argent, verte quand son compte est en règle — avec le sélecteur de saison et l'action de frais de saison au-dessus de la liste." %}
 
 ## Enregistrer des transactions par joueur
 
@@ -24,7 +24,7 @@ Utilisez le menu à droite de chaque joueur pour enregistrer des transactions in
 * **Crédits** — vous donnez un crédit au joueur, ce qui diminue sa balance.
 * **Remboursements** — vous redonnez de l'argent au joueur, ce qui augmente sa balance.
 
-{% include screenshot.html description="Menu de transactions ouvert sur la ligne d'un joueur du tableau de facturation, listant les types de transaction : frais, paiement, crédit, remboursement" %}
+{% include image.html src="help/billing-transaction-types.fr.png" caption="Enregistrement d'une transaction sur un joueur : la liste des types explique chacun des quatre types — frais, paiement, remboursement et crédit — et son effet sur la balance du joueur." %}
 
 Pour enregistrer une transaction pour **tous les joueurs en même temps**, utilisez le bouton **« Enregistrer une transaction »** dans le menu, en haut du tableau — utile, par exemple, lorsqu'une partie est annulée.
 

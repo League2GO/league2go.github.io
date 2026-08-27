@@ -34,7 +34,7 @@ If you can log in but your league or schedule is missing, your account coordinat
 2. Compare with the email and number on your account (in your profile).
 3. If yours are different, either update your profile to match, or ask the manager to correct their side: a manager fixes a typo by **deleting you and re-adding you** with the right coordinates.
 
-{% include screenshot.html description="Player profile screen showing the email and cell phone number fields, highlighted as the values that must match what the league manager entered" %}
+{% include image.html src="help/account-profile-contact.en.png" caption="Your profile's email and cell number: they must match what your league manager entered so games land in the right account." %}
 
 ## Resetting your password
 

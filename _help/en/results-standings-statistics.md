@@ -15,7 +15,7 @@ League2GO tracks game results, team standings, and player statistics. Everything
 
 In the **Results** tab of your league settings, choose the information that is entered for each game. This determines how detailed your standings and statistics are. For example, you can choose to record penalties, goal times, and faceoffs.
 
-{% include screenshot.html description="League settings > Results tab, showing the list of configurable result and statistic fields (goals, penalties, goal times, faceoffs) with their enable checkboxes" %}
+{% include image.html src="help/results-settings.en.png" caption="League settings > Results: the configurable result and statistic fields — detailed goal information, penalties and per-player statistics — each with its own enable toggle." %}
 
 Then, in the **Statistics** tab of your league settings, decide which statistics are displayed to your players. If you prefer to keep this information for managers only, disable the display of statistics to players.
 
@@ -23,7 +23,7 @@ Then, in the **Statistics** tab of your league settings, decide which statistics
 
 Each game has a **Results** tab. From there, enter the score, goals, penalties, and each player's statistics. You can enter the information live during the game from a tablet or a phone. Once a game's data is entered, players in the game can open the Results tab to consult it.
 
-{% include screenshot.html description="Game page > Results tab, showing the score entry and the per-player statistics grid being filled in" %}
+{% include image.html src="help/results-entry.en.png" caption="A game's Results tab in edit mode: the score entry at the top and the per-player statistics grid below, with goals and assists being filled in for each player." %}
 
 League administrators can enter results, and you can also give someone the **scorekeeper** role so they can enter results without other management rights — see [roles and access](/roles-and-access/).
 
@@ -33,7 +33,7 @@ To collect statistics on paper during the game, export the lineup to CSV first �
 
 Standings are computed from the results you enter. When teams are tied, tiebreak rules decide the order. The **legend under the standings table** explains the tiebreak rules applied to your league.
 
-{% include screenshot.html description="League standings page showing tied teams ordered by tiebreakers, with the legend below the table explaining the tiebreak rules highlighted" %}
+{% include image.html src="help/results-standings-tiebreakers.en.png" caption="The standings with two teams tied on points, ordered by the tiebreakers — the legend expanded below the table lists the tiebreak rules in order." %}
 
 ## Who can see individual statistics
 

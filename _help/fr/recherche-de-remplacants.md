@@ -47,7 +47,7 @@ Les remplaçants qui ont reçu une demande sans y répondre reçoivent un **rapp
 
 Depuis la partie, ouvrez le panneau **voir les remplaçants** pour consulter qui a été contacté pour chaque place à combler. C'est le premier endroit à vérifier quand vous vous demandez si la recherche fonctionne : il montre exactement quels remplaçants ont reçu une demande.
 
-{% include screenshot.html description="Page de détails d'une partie avec le panneau voir les remplaçants ouvert, montrant la liste des remplaçants contactés pour une place à combler, avec le statut contacté mis en évidence" %}
+{% include image.html src="help/substitute-search-requests-sent.fr.png" caption="Le panneau Voir les remplaçants sur une place en recherche : chaque remplaçant contacté affiche le statut « Demande envoyée » avec le moment de l'envoi." %}
 
 ## Pourquoi un remplaçant précis n'a pas été contacté
 

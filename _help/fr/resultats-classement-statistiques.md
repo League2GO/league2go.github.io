@@ -15,7 +15,7 @@ League2GO suit les résultats des parties, le classement des équipes et les sta
 
 À partir de l'onglet **Résultats** des paramètres de votre ligue, déterminez l'information qui sera saisie à chaque partie. C'est ce qui détermine le niveau de détail de votre classement et de vos statistiques. Vous pouvez, par exemple, choisir d'entrer les pénalités, les temps des buts et les mises au jeu.
 
-{% include screenshot.html description="Paramètres de la ligue > onglet Résultats, montrant la liste des champs de résultats et de statistiques configurables (buts, pénalités, temps des buts, mises au jeu) avec leurs cases d'activation" %}
+{% include image.html src="help/results-settings.fr.png" caption="Paramètres de la ligue > Résultats : les champs de résultats et de statistiques configurables — informations détaillées sur les buts, pénalités et statistiques individuelles — chacun avec sa propre option d'activation." %}
 
 Ensuite, dans l'onglet **Statistiques** des paramètres de la ligue, décidez des statistiques que vos joueurs pourront voir. Si vous désirez conserver cette information pour les gestionnaires seulement, désactivez l'affichage pour les joueurs.
 
@@ -23,7 +23,7 @@ Ensuite, dans l'onglet **Statistiques** des paramètres de la ligue, décidez de
 
 Chaque partie possède un onglet **Résultats**. À partir de celui-ci, saisissez le pointage, les buts, les pénalités ainsi que les statistiques de chaque joueur. Vous pouvez entrer l'information en direct pendant la partie avec une tablette ou votre téléphone mobile. Lorsque les données d'une partie sont saisies, les joueurs de la partie peuvent consulter l'onglet Résultats.
 
-{% include screenshot.html description="Page d'une partie > onglet Résultats, montrant la saisie du pointage et la grille des statistiques par joueur en cours de remplissage" %}
+{% include image.html src="help/results-entry.fr.png" caption="L'onglet Résultats d'une partie en mode édition : la saisie du pointage en haut et la grille des statistiques par joueur en dessous, avec les buts et les assistances remplis pour chaque joueur." %}
 
 Les administrateurs de la ligue peuvent saisir les résultats, et vous pouvez aussi donner à quelqu'un le rôle de **marqueur** pour qu'il saisisse les résultats sans autres droits de gestion — voir [rôles et accès](/roles-et-acces/).
 
@@ -33,7 +33,7 @@ Pour noter les statistiques sur papier pendant la partie, exportez d'abord l'ali
 
 Le classement est calculé à partir des résultats que vous saisissez. Lorsque des équipes sont à égalité, des règles de bris d'égalité déterminent l'ordre. La **légende sous le tableau de classement** explique les règles de bris d'égalité appliquées à votre ligue.
 
-{% include screenshot.html description="Page du classement de la ligue montrant des équipes à égalité ordonnées par les bris d'égalité, avec la légende sous le tableau expliquant les règles mise en évidence" %}
+{% include image.html src="help/results-standings-tiebreakers.fr.png" caption="Le classement avec deux équipes à égalité de points, ordonnées par les bris d'égalité — la légende déployée sous le tableau liste les règles de bris d'égalité dans l'ordre." %}
 
 ## Qui peut voir les statistiques individuelles
 

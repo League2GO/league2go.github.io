@@ -29,7 +29,7 @@ League2GO notifies you about substitution requests, absences, messages and game 
 
 Your league can send an automatic reminder before each game. The league manager configures it (including how many days before the game it is sent) in the **Notifications** tab of the league settings. Regular players and substitutes who accepted a replacement receive the reminder through their preferred channel.
 
-{% include screenshot.html description="League settings > Notifications tab, showing the game reminder option and the number-of-days field highlighted" %}
+{% include image.html src="help/notifications-league-reminders.en.png" caption="League settings > Notifications: enable game reminders and choose how many hours before each game players are notified." %}
 
 If you are not receiving reminders, your league may simply not have them enabled — ask your league manager.
 
@@ -37,7 +37,7 @@ If you are not receiving reminders, your league may simply not have them enabled
 
 You control how League2GO contacts you from your own profile: open your profile and adjust your notification preferences. Managers cannot change them for you. See [your account](/your-account/) for everything else you can manage in your profile.
 
-{% include screenshot.html description="Player profile page with the notification preferences section highlighted" %}
+{% include image.html src="help/notifications-profile-preferences.en.png" caption="Each player picks how they are reached — email, SMS or mobile push — in the communication preferences of their profile." %}
 
 ## Push notifications not working?
 

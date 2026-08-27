@@ -12,7 +12,7 @@ Ce guide couvre votre quotidien de joueur : consulter votre horaire, déclarer u
 
 Un seul compte League2GO suffit pour tout : votre horaire personnel affiche les parties à venir de **toutes vos ligues dans un seul calendrier**, que vous y jouiez comme joueur régulier ou comme remplaçant. Vous pouvez le consulter sur [league2go.com](https://league2go.com) ou dans l'[application mobile](/application-mobile/).
 
-{% include screenshot.html description="Horaire personnel d'un joueur montrant les parties à venir de deux ligues différentes dans un seul calendrier" %}
+{% include image.html src="help/player-two-league-schedule.fr.png" caption="Votre horaire personnel liste les parties à venir de toutes vos ligues — ici, deux ligues dans une seule liste." %}
 
 Astuce : l'app peut aussi ajouter automatiquement vos parties au calendrier de votre téléphone — voir la [synchronisation du calendrier](/synchronization-calendrier/).
 
@@ -20,7 +20,7 @@ Astuce : l'app peut aussi ajouter automatiquement vos parties au calendrier de v
 
 Comme joueur régulier, vous êtes présumé présent à vos parties. Si vous ne pouvez pas jouer, ouvrez la partie dans votre horaire et appuyez sur le bouton vert de présence pour déclarer votre absence — il devient rouge. Appuyez de nouveau pour annuler votre absence et vous déclarer présent. <!-- TODO: verify exact button labels -->
 
-{% include screenshot.html description="Détails d'une partie dans l'horaire du joueur, avec le bouton de présence vert (présent) / rouge (absent) mis en évidence" %}
+{% include image.html src="help/player-game-presence.fr.png" caption="La page de la partie : vous êtes présumé présent — touchez le bouton rouge Déclarer une absence si vous ne pouvez pas y être." %}
 
 * **Déclarez votre absence le plus tôt possible.** C'est votre absence qui déclenche la recherche automatique de remplaçants, et la recherche a besoin de temps pour contacter les remplaçants et combler votre place.
 * Certaines ligues bloquent les déclarations d'absence peu avant le début de la partie. Si vous ne pouvez plus déclarer votre absence, contactez votre gestionnaire de ligue ou votre capitaine — ils peuvent la déclarer pour vous.
@@ -34,7 +34,7 @@ Si vous êtes remplaçant dans une ligue, vous recevez une demande de remplaceme
 * Vous pouvez accepter ou refuser directement depuis la notification, ou depuis la section notifications de l'app.
 * Si la place est déjà comblée au moment de votre réponse, vous restez admissible aux prochaines demandes.
 
-{% include screenshot.html description="Une demande de remplacement dans l'application mobile, montrant les détails de la partie avec les boutons accepter et refuser mis en évidence" %}
+{% include image.html src="help/player-substitute-request.fr.png" caption="Une demande de remplacement : les détails de la partie avec les boutons vert Joindre la partie et rouge Refuser." %}
 
 ## Votre profil
 
@@ -44,7 +44,7 @@ Votre profil vous appartient : une fois inscrit, vous seul pouvez le modifier �
 * Choisir les **positions** que vous pouvez jouer, pour que les demandes de remplacement vous correspondent.
 * Régler vos **préférences de notification** — voir [notifications et rappels](/notifications-et-rappels/).
 
-{% include screenshot.html description="Page de profil du joueur montrant les sections photo, positions et préférences de notification" %}
+{% include image.html src="help/player-profile.fr.png" caption="Votre profil : photo, coordonnées et préférences de communication. (Les positions se règlent par ligue, pas sur la page de profil — la capture montre les sections réellement présentes.)" %}
 
 Pour changer votre adresse courriel, votre numéro de cellulaire ou votre mot de passe, consultez [votre compte](/votre-compte/).
 

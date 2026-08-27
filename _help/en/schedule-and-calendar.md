@@ -17,7 +17,7 @@ From your league's calendar tab, click the **Add game** button and enter the req
 
 If your games are weekly, use the **Repeat game schedule** option to automatically create multiple games with the same settings.
 
-{% include screenshot.html description="League calendar on the website, Add game form filled in with date, time and teams, with the repeat game schedule option highlighted" %}
+{% include image.html src="help/schedule-add-game-form.en.png" caption="The Add game form with the date, times, teams and venue filled in, and the Repeat game schedule option checked to create a whole series at once." %}
 
 ## Reading the calendar
 
@@ -27,7 +27,7 @@ Color codes help you distinguish games at a glance:
 * **Red** — games where players are currently missing.
 * **Yellow** — past games waiting for their results to be entered.
 
-{% include screenshot.html description="League calendar showing a list of games with the color codes visible: the next game in blue, a game with missing players in red, and a past game without results in yellow" %}
+{% include image.html src="help/schedule-color-codes.en.png" caption="The month calendar's color codes: upcoming games carry a blue accent, a past game still waiting for its score is red, and completed games turn gray with the final score inline." %}
 
 To see a game's details, click the game in the calendar. Managers run game-day actions from there — see [game day](/game-day/).
 

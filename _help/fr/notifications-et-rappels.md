@@ -29,7 +29,7 @@ League2GO vous avise des demandes de remplacement, des absences, des messages et
 
 Votre ligue peut envoyer un rappel automatique avant chaque partie. Le gestionnaire de ligue le configure (incluant le nombre de jours avant la partie) dans l'onglet **Notifications** des paramètres de la ligue. Les joueurs réguliers ainsi que les remplaçants qui ont accepté un remplacement reçoivent le rappel par leur canal préféré.
 
-{% include screenshot.html description="Paramètres de la ligue > onglet Notifications, montrant l'option de rappel de partie et le champ du nombre de jours mis en évidence" %}
+{% include image.html src="help/notifications-league-reminders.fr.png" caption="Paramètres de la ligue > Notifications : activez les rappels de partie et choisissez combien d'heures avant chaque partie les joueurs sont avisés." %}
 
 Si vous ne recevez pas de rappels, votre ligue ne les a peut-être simplement pas activés — demandez à votre gestionnaire de ligue.
 
@@ -37,7 +37,7 @@ Si vous ne recevez pas de rappels, votre ligue ne les a peut-être simplement pa
 
 Vous contrôlez comment League2GO vous contacte depuis votre propre profil : ouvrez votre profil et ajustez vos préférences de notification. Les gestionnaires ne peuvent pas les changer pour vous. Consultez [votre compte](/votre-compte/) pour tout ce que vous pouvez gérer dans votre profil.
 
-{% include screenshot.html description="Page de profil du joueur avec la section des préférences de notification mise en évidence" %}
+{% include image.html src="help/notifications-profile-preferences.fr.png" caption="Chaque joueur choisit comment le joindre — courriel, SMS ou notification mobile (push) — dans les préférences de communication de son profil." %}
 
 ## Les notifications push ne fonctionnent pas ?
 

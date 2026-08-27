@@ -16,7 +16,7 @@ Pour envoyer un message, allez dans l'onglet **Messagerie** de votre ligue. Réd
 * **À une équipe** — une information qui ne concerne qu'un alignement.
 * **Aux joueurs d'une partie** — idéal pour un changement de terrain ou un avis d'annulation pour cette partie.
 
-{% include screenshot.html description="Onglet Messagerie d'une ligue, montrant le formulaire de nouveau message avec le sélecteur de destinataires (ligue, équipe ou partie) mis en évidence" %}
+{% include image.html src="help/messaging-new-message-recipients.fr.png" caption="Le formulaire de nouveau message de l'onglet Messagerie : choisissez les destinataires — toute la ligue, une équipe ou des rôles précis — dans le sélecteur de destinataires." %}
 
 ## Comment les joueurs reçoivent vos messages
 

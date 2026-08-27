@@ -17,7 +17,7 @@ Le calendrier de la ligue est l'endroit où vous créez et gérez vos parties, s
 
 Si vos parties sont hebdomadaires, utilisez l'option **Répéter l'horaire des parties** pour automatiquement créer plusieurs parties avec les mêmes paramètres.
 
-{% include screenshot.html description="Calendrier de la ligue sur le site web, formulaire Ajouter une partie rempli avec la date, l'heure et les équipes, avec l'option Répéter l'horaire des parties mise en évidence" %}
+{% include image.html src="help/schedule-add-game-form.fr.png" caption="Le formulaire Ajouter une partie avec la date, les heures, les équipes et le lieu remplis, et l'option Répéter l'horaire des parties cochée pour créer une série complète d'un coup." %}
 
 ## Lire le calendrier
 
@@ -27,7 +27,7 @@ Des codes de couleur permettent de distinguer les parties en un coup d'œil :
 * **Rouge** — les parties dans lesquelles il manque présentement des joueurs.
 * **Jaune** — les parties passées dont les résultats restent à entrer.
 
-{% include screenshot.html description="Calendrier de la ligue montrant une liste de parties avec les codes de couleur visibles : la prochaine partie en bleu, une partie avec des joueurs manquants en rouge et une partie passée sans résultats en jaune" %}
+{% include image.html src="help/schedule-color-codes.fr.png" caption="Les codes de couleur du calendrier mensuel : les parties à venir portent un accent bleu, une partie passée sans résultats est en rouge, et les parties complétées deviennent grises avec le pointage final." %}
 
 Pour voir le détail d'une partie, cliquez sur la partie dans le calendrier. C'est de là que les gestionnaires effectuent les actions du jour de partie — voir [jour de partie](/jour-de-partie/).
 
