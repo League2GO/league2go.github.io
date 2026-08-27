@@ -39,7 +39,7 @@ Open the app menu and find "Sync to your calendar".
 
 <br/>
 <div class="image-container-row">
-{% include image.html src="2025-11-25-calendar-sync-menu-en.png" caption="League2GO app menu" style="max-width:300px !important;" %}
+{% include image.html src="2025-11-25-calendar-sync-menu-en.png" caption="League2GO app menu' style='max-width:300px !important;" %}
 </div>
 <br/>
 
@@ -47,8 +47,8 @@ On the calendar sync page, tap "Continue", and tap "Allow"
 
 <br/>
 <div class="image-container-row">
-{% include image.html src="2025-11-25-calendar-sync-allow-ios-en.png" caption="Calendar permission iOS" style="max-width:300px !important;" %}
-{% include image.html src="2025-11-25-calendar-sync-allow-android-en.png" caption="Calendar permission Android" style="max-width:300px !important;" %}
+{% include image.html src="2025-11-25-calendar-sync-allow-ios-en.png" caption="Calendar permission iOS' style='max-width:300px !important;" %}
+{% include image.html src="2025-11-25-calendar-sync-allow-android-en.png" caption="Calendar permission Android' style='max-width:300px !important;" %}
 </div>
 <br/>
 
@@ -62,7 +62,7 @@ If you are having issues with calendar sync try the following:
 
 <br/>
 <div class="image-container-row">
-{% include image.html src="2025-11-25-calendar-sync-allow-trouble-en.png" caption="Last calendar sync time" style="max-width:300px !important;" %}
+{% include image.html src="2025-11-25-calendar-sync-allow-trouble-en.png" caption="Last calendar sync time' style='max-width:300px !important;" %}
 </div>
 <br/>
 

@@ -37,7 +37,7 @@ Ouvrez le menu de l'app et recherchez « Synchroniser à votre calendrier ».
 
 <br/>
 <div class="image-container-row">
-{% include image.html src="2025-11-25-calendar-sync-menu-fr.png" caption="Menu de l'app League2GO" style="max-width:300px !important;" %}
+{% include image.html src="2025-11-25-calendar-sync-menu-fr.png" caption="Menu de l'app League2GO' style='max-width:300px !important;" %}
 </div>
 <br/>
 
@@ -45,8 +45,8 @@ Sur la page de synchronisation du calendrier, appuyez sur « Continuer », puis 
 
 <br/>
 <div class="image-container-row">
-{% include image.html src="2025-11-25-calendar-sync-allow-ios-fr.png" caption="Permission agenda iOS" style="max-width:300px !important;" %}
-{% include image.html src="2025-11-25-calendar-sync-allow-android-fr.png" caption="Permission agenda Android" style="max-width:300px !important;" %}
+{% include image.html src="2025-11-25-calendar-sync-allow-ios-fr.png" caption="Permission agenda iOS' style='max-width:300px !important;" %}
+{% include image.html src="2025-11-25-calendar-sync-allow-android-fr.png" caption="Permission agenda Android' style='max-width:300px !important;" %}
 </div>
 <br/>
 
@@ -60,7 +60,7 @@ Si vous rencontrez des problèmes avec la synchronisation, essayez ce qui suit :
 
 <br/>
 <div class="image-container-row">
-{% include image.html src="2025-11-25-calendar-sync-allow-trouble-fr.png" caption="Dernière synchronisation du calendrier" style="max-width:300px !important;" %}
+{% include image.html src="2025-11-25-calendar-sync-allow-trouble-fr.png" caption="Dernière synchronisation du calendrier' style='max-width:300px !important;" %}
 </div>
 <br/>
 

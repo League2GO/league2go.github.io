@@ -23,7 +23,7 @@ Some leagues prefer the opposite: no player is counted on until they have **conf
 
 Choose this model if your attendance is unpredictable — for example when silence from a player more often means "not coming" than "coming" — and you would rather chase confirmations than discover no-shows at game time.
 
-{% include image.html src="help/presence-confirmation-request.en.png" caption="With presence confirmation enabled, the game page asks the player to confirm as game time approaches: green "I will play" or red "I can't play"." %}
+{% include image.html src="help/presence-confirmation-request.en.png" caption="With presence confirmation enabled, the game page asks the player to confirm as game time approaches: green 'I will play' or red 'I can't play'." %}
 
 ## Enabling confirmation mode
 
