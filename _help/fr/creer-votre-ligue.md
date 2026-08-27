@@ -25,42 +25,38 @@ Les ligues se créent **sur le site web** [league2go.com](https://league2go.com)
 À partir du menu Ligues, cliquez sur Créer une ligue puis entrez l'information demandée :
 
 * **Sport** — définit les configurations de positions disponibles ainsi que les statistiques pouvant être calculées après chaque partie.
-* **Type de ligue** — équipes fixes ou pick-up. Choisissez bien : le type ne peut pas être changé après la création de la ligue. Consultez [types de ligue](/types-de-ligue/).
-* **Positions** — utilisées par League2GO pour remplacer automatiquement un joueur absent par un remplaçant jouant la même position.
-
-{% include screenshot.html description="Menu Ligues > formulaire Créer une ligue, montrant les champs sport, type de ligue et positions, avec le sélecteur de type de ligue mis en évidence" %}
-
-Vos premières parties sont gratuites, puis vous achetez des crédits de partie au besoin. Consultez [prix et crédits de partie](/prix-et-credits-de-partie/).
+* **Type de ligue** — équipes fixes ou sans équipe fixe (pick-up). Vous pourrez changer le type plus tard dans les paramètres de la ligue au besoin (le passage en pick-up exige exactement deux équipes actives). Consultez [types de ligue](/types-de-ligue/).
+* **Positions** — les positions que vos joueurs occupent dans votre sport. Au hockey, ce sont typiquement gardien, défenseur et attaquant (ou centre et ailiers). Les positions sont utilisées partout dans League2GO : la recherche automatique de remplaçants ne contacte que des remplaçants jouant la position du joueur absent — un gardien absent est remplacé par un gardien — et lorsque vous préparez vos alignements, les joueurs sont placés selon leur position, y compris les trios d'attaque et les paires de défenseurs si vous les utilisez. Consultez [jour de partie](/jour-de-partie/).
 
 ## 3. Ajouter vos équipes
 
 Deux équipes sont automatiquement ajoutées à votre ligue. Pour renommer une équipe ou changer sa couleur et son logo, cliquez sur son icône d'engrenage. Si votre ligue a plus de deux équipes, utilisez le bouton Ajouter une équipe.
 
-{% include screenshot.html description="Page de la ligue > onglet Équipes, montrant deux sections d'équipe avec leur icône d'engrenage et le bouton Ajouter une équipe mis en évidence" %}
+{% include image.html src="help/teams-tab.fr.png" caption="L'onglet Équipes" %}
 
 Pour les capitaines, les couleurs, les logos et les autres options, consultez [équipes et paramètres](/equipes-et-parametres/).
 
 ## 4. Ajouter vos joueurs
 
-Pour ajouter un joueur, cliquez sur l'icône + au bas de la section d'une équipe. Entrez l'adresse courriel ou le numéro de cellulaire du joueur : le joueur se connectera à League2GO avec **exactement** ces coordonnées, alors vérifiez-les bien. Une fois ajouté, le joueur reçoit un message automatisé l'invitant à compléter son enregistrement, ce qui lui donne accès au calendrier des parties.
+Pour ajouter un joueur, cliquez sur le bouton **Ajouter un joueur** au bas de la carte d'une équipe. Entrez l'adresse courriel ou le numéro de cellulaire du joueur : le joueur se connectera à League2GO avec **exactement** ces coordonnées, alors vérifiez-les bien. Une fois ajouté, le joueur reçoit un message automatisé l'invitant à compléter son enregistrement, ce qui lui donne accès au calendrier des parties.
 
-{% include screenshot.html description="Onglet Équipes > fenêtre Ajouter un joueur, montrant les champs courriel et numéro de cellulaire avec une note indiquant que le joueur se connecte avec ces coordonnées exactes" %}
+{% include image.html src="help/add-player-dialog.fr.png" caption="Ajouter un joueur" %}
 
-Il n'y a pas de lien d'invitation — ce sont les coordonnées identiques qui relient un joueur à votre ligue. Consultez [ajouter des joueurs](/ajouter-des-joueurs/) pour les détails, et [gérer les joueurs](/gerer-les-joueurs/) pour la suite.
+Consultez [ajouter des joueurs](/ajouter-des-joueurs/) pour les détails, et [gérer les joueurs](/gerer-les-joueurs/) pour la suite.
 
 ## 5. Ajouter vos remplaçants
 
 Dans l'onglet Remplaçants, ajoutez des remplaçants pour une équipe spécifique, ou des remplaçants de ligue partagés à travers toutes les équipes. Les remplaçants reçoivent une invitation à s'enregistrer, puis des demandes automatiques lorsqu'un joueur de leur position déclare une absence. Cochez toutes les positions qu'un remplaçant peut jouer pour qu'il soit contacté le plus souvent possible.
 
-{% include screenshot.html description="Page de la ligue > onglet Remplaçants, montrant les sections de remplaçants par équipe et la section des remplaçants de ligue, avec une icône + d'ajout mise en évidence" %}
+{% include image.html src="help/substitutes-tab.fr.png" caption="L'onglet Remplaçants" %}
 
 Consultez [gérer les remplaçants](/gerer-les-remplacants/) et, pour comprendre le fonctionnement de la recherche automatique, la [recherche de remplaçants](/recherche-de-remplacants/).
 
 ## 6. Créer votre calendrier
 
-À partir du calendrier de la ligue, cliquez sur Ajouter et entrez l'information de la partie. Si vos parties sont hebdomadaires, utilisez l'option de répétition pour créer plusieurs parties avec les mêmes paramètres en une seule étape. Les parties se créent et se gèrent **sur le site web**.
+À partir du calendrier de la ligue, cliquez sur Ajouter et entrez l'information de la partie. Si vos parties sont hebdomadaires, utilisez l'option de répétition pour créer plusieurs parties avec les mêmes paramètres en une seule étape. Chaque partie utilise un crédit de partie; si vous n'en avez plus, vous pouvez en acheter en vous connectant **sur le site web** — l'achat de crédits de partie n'est pas possible dans l'application. Consultez [prix et crédits de partie](/prix-et-credits-de-partie/).
 
-{% include screenshot.html description="Calendrier de la ligue sur le site web, montrant un mois de parties planifiées et le bouton Ajouter une partie mis en évidence" %}
+{% include image.html src="help/schedule-calendar.fr.png" caption="Le calendrier de la ligue" %}
 
 Consultez [calendrier et parties](/calendrier-et-parties/) pour les parties répétées, les annulations et le filtre de saison.
 

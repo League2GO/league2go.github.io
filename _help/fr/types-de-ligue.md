@@ -11,7 +11,7 @@ redirect_from:
 
 Lorsque vous [créez votre ligue](/creer-votre-ligue/), vous choisissez l'un des deux types de ligue. Le type détermine le fonctionnement des équipes et des alignements.
 
-**Le type de ligue est choisi à la création et ne peut pas être changé par la suite.** Si vous avez choisi le mauvais type, créez une nouvelle ligue avec le bon.
+Vous choisissez le type à la création, et vous pouvez le changer plus tard dans les paramètres de la ligue, sous **Général > Type**. Le passage en pick-up exige exactement deux équipes actives — archivez les autres équipes d'abord. Lors du changement, League2GO migre votre ligue automatiquement : les joueurs sont regroupés dans le bassin pick-up, les remplaçants d'équipe deviennent des remplaçants de ligue et les capitaines d'équipe deviennent des gestionnaires de ligue.
 
 ## Équipes fixes
 

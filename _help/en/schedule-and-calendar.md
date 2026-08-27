@@ -9,7 +9,7 @@ redirect_from:
   - /improved-game-calendar/
 ---
 
-The league calendar is where you create and manage your games. Manage games from the league calendar on the **website** at [league2go.com](https://league2go.com) — games cannot be created from the mobile app.
+The league calendar is where you create and manage your games, on the website or in the mobile app. Each game uses one game credit; if you run out, purchase more by logging in on the **website** — purchasing game credits is not possible in the app. See [pricing and game credits](/pricing-and-game-credits/).
 
 ## Creating games
 
@@ -37,7 +37,7 @@ The date and time of a game **cannot be edited**. Automated substitute searches 
 
 To "move" a game:
 
-1. **Delete the game** from the league calendar on the website, **before its start time**. The game credit is automatically returned to you.
+1. **Delete the game** from the league calendar, **before its start time**. The game credit is automatically returned to you.
 2. **Create a new game** at the new date and time.
 
 ## Cancelled or rained-out games

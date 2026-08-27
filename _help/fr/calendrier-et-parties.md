@@ -9,7 +9,7 @@ redirect_from:
   - /calendrier-de-parties-ameliore/
 ---
 
-Le calendrier de la ligue est l'endroit où vous créez et gérez vos parties. Gérez les parties à partir du calendrier de la ligue sur le **site web** [league2go.com](https://league2go.com) — il n'est pas possible de créer des parties à partir de l'application mobile.
+Le calendrier de la ligue est l'endroit où vous créez et gérez vos parties, sur le site web ou dans l'application mobile. Chaque partie utilise un crédit de partie; si vous n'en avez plus, achetez-en en vous connectant sur le **site web** — l'achat de crédits de partie n'est pas possible dans l'application. Consultez [prix et crédits de partie](/prix-et-credits-de-partie/).
 
 ## Créer des parties
 
@@ -37,7 +37,7 @@ La date et l'heure d'une partie **ne peuvent pas être modifiées**. Les recherc
 
 Pour « déplacer » une partie :
 
-1. **Supprimez la partie** à partir du calendrier de la ligue sur le site web, **avant son heure de début**. Le crédit de partie vous est automatiquement remboursé.
+1. **Supprimez la partie** à partir du calendrier de la ligue, **avant son heure de début**. Le crédit de partie vous est automatiquement remboursé.
 2. **Créez une nouvelle partie** à la nouvelle date et heure.
 
 ## Parties annulées

@@ -11,7 +11,7 @@ redirect_from:
 
 When you [create your league](/create-your-league/), you choose one of two league types. The type determines how teams and rosters work.
 
-**The league type is chosen at creation and cannot be changed afterwards.** If you picked the wrong type, create a new league with the right one.
+You choose the type at creation, and you can change it later in league settings, under **General > Type**. Switching to pick-up requires exactly two active teams — archive the other teams first. When you switch, League2GO migrates your league automatically: players are merged into the pick-up pool, team substitutes become league substitutes, and team captains become league managers.
 
 ## Fixed teams
 
