@@ -15,11 +15,11 @@ Chaque ligue commence avec **15 parties gratuites**. C'est généralement suffis
 
 ## Acheter des crédits de partie
 
-Quand vos parties gratuites sont épuisées, achetez un forfait de crédits :
+Quand vos parties gratuites sont épuisées, achetez des crédits de partie :
 
 * Seul le **propriétaire de la ligue** peut acheter des crédits.
 * Les crédits s'achètent **sur le site web** [league2go.com](https://league2go.com) — les règles des magasins d'applications ne permettent pas de les acheter dans l'application mobile.
-* Les crédits sont vendus en forfaits ; plus le forfait est gros, plus le prix par partie est bas. Consultez la page d'achat sur [league2go.com](https://league2go.com) pour les prix en vigueur.
+* Achetez exactement le nombre de crédits dont vous avez besoin — plus vous en achetez à la fois, plus le prix par partie est bas. Consultez la page d'achat sur [league2go.com](https://league2go.com) pour les prix courants.
 
 {% include image.html src="help/purchase-game-credits.fr.png" caption="La page d'achat de crédits de partie : votre solde de crédits restant, le curseur de quantité avec les paliers de rabais de volume, et le sommaire du prix avant taxes." %}
 
