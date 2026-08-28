@@ -39,6 +39,6 @@ Before a game starts, open the game details and click Create lineup. Assign play
 Once satisfied, select Send lineup to players to notify everyone, or print the lineup to post at the arena.
 
 
-Even in a pick-up league, the two teams have a name, a color and a logo you can customize in the Teams tab. See [teams and team settings](/teams-and-team-settings/).
+Even in a pick-up league, the two teams have a name, a color and a logo — customize them under **Settings > Teams**. (Pick-up leagues have a Players tab instead of a top-level Teams tab.) See [teams and team settings](/teams-and-team-settings/).
 
 Questions? Contact us at [info@league2go.com](mailto:info@league2go.com).

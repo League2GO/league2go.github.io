@@ -39,6 +39,6 @@ Avant le début d'une partie, ouvrez le détail de la partie puis cliquez sur Cr
 Une fois satisfait, cochez Envoyer l'alignement aux joueurs pour aviser tout le monde, ou imprimez l'alignement pour l'afficher à l'aréna.
 
 
-Même dans une ligue pick-up, les deux équipes ont un nom, une couleur et un logo que vous pouvez personnaliser dans l'onglet Équipes. Consultez [équipes et paramètres](/equipes-et-parametres/).
+Même dans une ligue pick-up, les deux équipes ont un nom, une couleur et un logo — personnalisez-les sous **Paramètres > Équipes**. (Les ligues pick-up ont un onglet Joueurs plutôt qu'un onglet Équipes de premier niveau.) Consultez [équipes et paramètres](/equipes-et-parametres/).
 
 Des questions ? Écrivez-nous à [info@league2go.com](mailto:info@league2go.com).
