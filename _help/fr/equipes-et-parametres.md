@@ -12,7 +12,7 @@ redirect_from:
   - /alignement-equipe-complet/
 ---
 
-Les équipes et leurs joueurs réguliers se gèrent à partir de l'onglet **Équipes** de votre ligue. Les remplaçants ont leur propre onglet — l'onglet **Remplaçants** permet de gérer la banque de remplaçants de la ligue et de chaque équipe (voir la [recherche de remplaçants](/recherche-de-remplacants/)).
+Les équipes et leurs joueurs réguliers se gèrent à partir de l'onglet **Équipes** de votre ligue. Les remplaçants ont leur propre onglet : l'onglet **Remplaçants** permet de gérer la banque de remplaçants de la ligue et de chaque équipe (voir la [recherche de remplaçants](/recherche-de-remplacants/)).
 
 ## Créer des équipes
 
@@ -45,7 +45,7 @@ Pour savoir comment les recherches contactent les remplaçants (favoris, délais
 
 ## Notifications d'équipe
 
-Par défaut, les gestionnaires de la ligue sont notifiés des absences et des remplacements. Les paramètres de chaque équipe permettent de diriger ces notifications vers le **capitaine de l'équipe seulement** — le capitaine est averti lorsqu'un joueur de son équipe est absent, est remplacé ou qu'aucun remplaçant n'a été trouvé, au lieu du gestionnaire de la ligue. Les gestionnaires peuvent tout de même choisir de recevoir ces notifications pour toute la ligue dans l'onglet **Notifications** des paramètres de la ligue.
+Par défaut, les gestionnaires de la ligue sont notifiés des absences et des remplacements. Les paramètres de chaque équipe permettent de diriger ces notifications vers le **capitaine de l'équipe seulement** : le capitaine est averti lorsqu'un joueur de son équipe est absent, est remplacé ou qu'aucun remplaçant n'a été trouvé, au lieu du gestionnaire de la ligue. Les gestionnaires peuvent tout de même choisir de recevoir ces notifications pour toute la ligue dans l'onglet **Notifications** des paramètres de la ligue.
 
 Voir [rôles et accès](/roles-et-acces/) pour ce que les capitaines et les gestionnaires peuvent faire.
 

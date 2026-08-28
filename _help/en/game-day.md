@@ -19,7 +19,7 @@ This guide covers what managers do around a single game: reviewing the lineup, m
 
 Open a game to see its lineup: each team's players, their positions, and their status for that game. Regular players are presumed present unless they declare an absence (see [presence confirmation](/presence-confirmation/) for the alternative model where players confirm their presence instead).
 
-{% include image.html src="help/game-day-lineups.en.png" caption="The game page shows both teams' lineups — every spot with its player's name, number and position, and an open spot left by a declared absence right in the lineup." %}
+{% include image.html src="help/game-day-lineups.en.png" caption="The game page shows both teams' lineups: every spot with its player's name, number and position, and an open spot left by a declared absence right in the lineup." %}
 
 ## Game spots
 
@@ -41,7 +41,7 @@ You can rearrange a lineup around an absence. For example, if your pitcher is ab
 To replace an absent player yourself instead of using the automatic search, open the game spot menu and choose to replace the player. In the substitution window you can pick:
 
 * a player from the same team,
-* a player from **another team** of the league — select the other team first, then the player, or
+* a player from **another team** of the league (select the other team first, then the player), or
 * one of your league's substitutes (see [managing substitutes](/managing-substitutes/)).
 
 {% include image.html src="help/game-day-replace-player-dialog.en.png" caption="The replace-player window: pick the replacement from the substitute pool, or expand any other team of the league to pull a player from its roster." %}
@@ -54,8 +54,8 @@ For how automatic searches work, see the [substitute search overview](/substitut
 
 The lineup can be displayed in two modes:
 
-* **Simple lineup** — a flat list of players and positions.
-* **Lines (trios)** — players grouped into forward lines and pairings.
+* **Simple lineup**: a flat list of players and positions.
+* **Lines (trios)**: players grouped into forward lines and pairings.
 
 A toggle lets you switch between the two modes, so leagues that do not organize lines can keep the simple view. <!-- TODO: verify exact toggle label and location -->
 
@@ -69,6 +69,6 @@ To print a game lineup, go to the game details and click the **Print Lineup** bu
 
 ## Exporting the lineup to CSV
 
-To note game statistics on paper or in a spreadsheet, open the game's page and click the **Export Alignment** button. A CSV file downloads with each player's team, jersey number, name, position, and ranking. Open it in a spreadsheet to record the game's information, then enter the results in League2GO — see [results, standings, and statistics](/results-standings-statistics/).
+To note game statistics on paper or in a spreadsheet, open the game's page and click the **Export Alignment** button. A CSV file downloads with each player's team, jersey number, name, position, and ranking. Open it in a spreadsheet to record the game's information, then enter the results in League2GO. See [results, standings, and statistics](/results-standings-statistics/).
 
 Questions? Contact us at [info@league2go.com](mailto:info@league2go.com).

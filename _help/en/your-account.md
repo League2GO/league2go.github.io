@@ -15,14 +15,14 @@ There are no invitation links. Your league manager adds you by entering your **e
 
 That means:
 
-* **Sign up with the exact email and cell number your manager has on file.** Not your other email, not your work email from years ago — the exact ones.
-* If either one differs — a typo, an old address, a different number — the link is not made and you won't see your league.
+* **Sign up with the exact email and cell number your manager has on file.** Not your other email, not your work email from years ago: the exact ones.
+* If either one differs (a typo, an old address, a different number), the link is not made and you won't see your league.
 
 Not sure what the manager entered? **Ask them.** They can read you the email and number they typed.
 
 ## "This email (or phone number) is already in use"
 
-This message means an account with that email or number **already exists** — usually one you (or a teammate, or a manager) created earlier and forgot about.
+This message means an account with that email or number **already exists**, usually one you (or a teammate, or a manager) created earlier and forgot about.
 
 Do not create a second account with different coordinates: it won't be linked to your league. Instead, contact us at [info@league2go.com](mailto:info@league2go.com) and we will merge the duplicate accounts for you.
 
@@ -38,17 +38,17 @@ If you can log in but your league or schedule is missing, your account coordinat
 
 ## Resetting your password
 
-Password reset happens on the **website** at https://league2go.com — use the "forgot password" link on the login page. <!-- TODO: verify exact link label -->
+Password reset happens on the **website** at https://league2go.com. Use the "forgot password" link on the login page. <!-- TODO: verify exact link label -->
 
 * The reset email can land in your **spam folder**.
-* The reset link is **time-limited** — use it soon after it arrives, or request a new one.
+* The reset link is **time-limited**; use it soon after it arrives, or request a new one.
 * Your new password needs **at least 8 characters**.
 
 Once your password is changed, use it to sign in on the website and the mobile app.
 
 ## Changing your email or phone number
 
-Once you are registered, **only you** can edit your contact info — your manager can't change it for you. Update your email or cell number in your **profile**; your leagues stay linked, and your manager sees the updated coordinates.
+Once you are registered, **only you** can edit your contact info; your manager can't change it for you. Update your email or cell number in your **profile**; your leagues stay linked, and your manager sees the updated coordinates.
 
 ## Joining a second league
 

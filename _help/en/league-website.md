@@ -11,7 +11,7 @@ redirect_from:
   - /embed-league-pages/
 ---
 
-League2GO can publish a public website for your league — news, rules, schedule, standings, and statistics — with no computer skills required. You can also embed those pages in a website you already own.
+League2GO can publish a public website for your league (news, rules, schedule, standings, and statistics) with no computer skills required. You can also embed those pages in a website you already own.
 
 See a live example at [https://league2go.com/demoen](https://league2go.com/demoen).
 
@@ -23,7 +23,7 @@ Enter the keyword that identifies your league in your site address. For example,
 
 {% include image.html src="help/website-activation.en.png" caption="League settings > Website tab: the site activation toggle turned on and the league keyword field that forms your public web address." %}
 
-**If your website seems to have disappeared**, check this activation toggle first — the site is only published while it is turned on.
+**If your website seems to have disappeared**, check this activation toggle first: the site is only published while it is turned on.
 
 ## Choosing and editing pages
 
@@ -41,7 +41,7 @@ You can also change the website's **background image** from the settings: pick o
 
 ## The registration form
 
-Your league website can include a registration form so interested players can sign up for your league. Submitted registrations are **sent by email to the league managers**, who then follow up and add the players — see [adding players](/adding-players/). <!-- TODO: verify how the registration form is activated -->
+Your league website can include a registration form so interested players can sign up for your league. Submitted registrations are **sent by email to the league managers**, who then follow up and add the players. See [adding players](/adding-players/). <!-- TODO: verify how the registration form is activated -->
 
 {% include image.html src="help/website-registration-page.en.png" caption="The public league website's registration page, as a visitor sees it. Submitted forms are emailed to the league managers." %}
 

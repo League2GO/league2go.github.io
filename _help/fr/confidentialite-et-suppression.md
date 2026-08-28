@@ -18,7 +18,7 @@ League2GO conserve les coordonnées utilisées pour faire fonctionner vos ligues
 
 Vous n'avez pas besoin de supprimer votre compte pour ne plus être contacté :
 
-* **Désactivez les notifications dans votre profil.** Vos préférences de notification sont sous votre contrôle — voir [notifications et rappels](/notifications-et-rappels/).
+* **Désactivez les notifications dans votre profil.** Vos préférences de notification sont sous votre contrôle; voir [notifications et rappels](/notifications-et-rappels/).
 * **Demandez à votre gestionnaire de ligue de vous retirer de la ligue.** Dès que vous n'êtes plus dans un alignement ni dans une liste de remplaçants, la ligue cesse de générer des notifications pour vous. Voir aussi le [guide du joueur](/guide-du-joueur/) sur la façon de quitter une ligue.
 
 Si vous avez été ajouté à une ligue mais ne vous êtes jamais inscrit, les invitations automatisées cessent d'elles-mêmes après environ un mois.

@@ -24,9 +24,9 @@ Leagues are created **on the website** at [league2go.com](https://league2go.com)
 
 From the Leagues menu, click Create a league and enter the requested information:
 
-* **Sport** — defines the available position configurations and the statistics that can be calculated after each game.
-* **League type** — fixed teams or pick-up. You can change the type later in league settings if needed (switching to pick-up requires exactly two active teams). See [league types](/league-types/).
-* **Positions** — the positions players occupy in your sport. For hockey, that's typically goalie, defense and forward (or center and wingers). Positions drive a lot of League2GO: the automatic substitute search only contacts substitutes who play the absent player's position — a missing goalie is replaced by a goalie — and when you build your game lineups later, players are placed by position, including forward lines and defense pairs if you use them. See [game day](/game-day/).
+* **Sport**: defines the available position configurations and the statistics that can be calculated after each game.
+* **League type**: fixed teams or pick-up. You can change the type later in league settings if needed (switching to pick-up requires exactly two active teams). See [league types](/league-types/).
+* **Positions**: the positions players occupy in your sport. For hockey, that's typically goalie, defense and forward (or center and wingers). Positions drive a lot of League2GO: the automatic substitute search only contacts substitutes who play the absent player's position (a missing goalie is replaced by a goalie), and when you build your game lineups later, players are placed by position, including forward lines and defense pairs if you use them. See [game day](/game-day/).
 
 ## 3. Add your teams
 
@@ -54,7 +54,7 @@ See [managing substitutes](/managing-substitutes/) and, to understand how the au
 
 ## 6. Create your schedule
 
-From the league calendar, click Add and enter the game information. If your games are weekly, use the repeat option to create multiple games with the same parameters in one step. Each game uses one game credit; if you run out, you can purchase more by logging in **on the website** — purchasing game credits is not possible in the app. See [pricing and game credits](/pricing-and-game-credits/).
+From the league calendar, click Add and enter the game information. If your games are weekly, use the repeat option to create multiple games with the same parameters in one step. Each game uses one game credit; if you run out, you can purchase more by logging in **on the website**. Purchasing game credits is not possible in the app. See [pricing and game credits](/pricing-and-game-credits/).
 
 {% include image.html src="help/schedule-calendar.en.png" caption="The league calendar" %}
 

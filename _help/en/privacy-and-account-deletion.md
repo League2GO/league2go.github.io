@@ -18,7 +18,7 @@ League2GO stores the contact information used to run your leagues: your name, em
 
 You don't need to delete your account to stop being contacted:
 
-* **Disable notifications in your profile.** Your notification preferences are under your control — see [notifications and reminders](/notifications/).
+* **Disable notifications in your profile.** Your notification preferences are under your control. See [notifications and reminders](/notifications/).
 * **Ask your league manager to remove you from the league.** Once you are no longer on a roster or substitute list, the league stops generating notifications for you. See also the [player's guide](/player-guide/) on leaving a league.
 
 If you were added to a league but never registered, the automated invitations stop by themselves after about a month.

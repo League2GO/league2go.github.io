@@ -24,9 +24,9 @@ Les ligues se créent **sur le site web** [league2go.com](https://league2go.com)
 
 À partir du menu Ligues, cliquez sur Créer une ligue puis entrez l'information demandée :
 
-* **Sport** — définit les configurations de positions disponibles ainsi que les statistiques pouvant être calculées après chaque partie.
-* **Type de ligue** — équipes fixes ou sans équipe fixe (pick-up). Vous pourrez changer le type plus tard dans les paramètres de la ligue au besoin (le passage en pick-up exige exactement deux équipes actives). Consultez [types de ligue](/types-de-ligue/).
-* **Positions** — les positions que vos joueurs occupent dans votre sport. Au hockey, ce sont typiquement gardien, défenseur et attaquant (ou centre et ailiers). Les positions sont utilisées partout dans League2GO : la recherche automatique de remplaçants ne contacte que des remplaçants jouant la position du joueur absent — un gardien absent est remplacé par un gardien — et lorsque vous préparez vos alignements, les joueurs sont placés selon leur position, y compris les trios d'attaque et les paires de défenseurs si vous les utilisez. Consultez [jour de partie](/jour-de-partie/).
+* **Sport** : définit les configurations de positions disponibles ainsi que les statistiques pouvant être calculées après chaque partie.
+* **Type de ligue** : équipes fixes ou sans équipe fixe (pick-up). Vous pourrez changer le type plus tard dans les paramètres de la ligue au besoin (le passage en pick-up exige exactement deux équipes actives). Consultez [types de ligue](/types-de-ligue/).
+* **Positions** : les positions que vos joueurs occupent dans votre sport. Au hockey, ce sont typiquement gardien, défenseur et attaquant (ou centre et ailiers). Les positions sont utilisées partout dans League2GO : la recherche automatique de remplaçants ne contacte que des remplaçants jouant la position du joueur absent (un gardien absent est remplacé par un gardien) et lorsque vous préparez vos alignements, les joueurs sont placés selon leur position, y compris les trios d'attaque et les paires de défenseurs si vous les utilisez. Consultez [jour de partie](/jour-de-partie/).
 
 ## 3. Ajouter vos équipes
 
@@ -54,7 +54,7 @@ Consultez [gérer les remplaçants](/gerer-les-remplacants/) et, pour comprendre
 
 ## 6. Créer votre calendrier
 
-À partir du calendrier de la ligue, cliquez sur Ajouter et entrez l'information de la partie. Si vos parties sont hebdomadaires, utilisez l'option de répétition pour créer plusieurs parties avec les mêmes paramètres en une seule étape. Chaque partie utilise un crédit de partie; si vous n'en avez plus, vous pouvez en acheter en vous connectant **sur le site web** — l'achat de crédits de partie n'est pas possible dans l'application. Consultez [prix et crédits de partie](/prix-et-credits-de-partie/).
+À partir du calendrier de la ligue, cliquez sur Ajouter et entrez l'information de la partie. Si vos parties sont hebdomadaires, utilisez l'option de répétition pour créer plusieurs parties avec les mêmes paramètres en une seule étape. Chaque partie utilise un crédit de partie; si vous n'en avez plus, vous pouvez en acheter en vous connectant **sur le site web**; l'achat de crédits de partie n'est pas possible dans l'application. Consultez [prix et crédits de partie](/prix-et-credits-de-partie/).
 
 {% include image.html src="help/schedule-calendar.fr.png" caption="Le calendrier de la ligue" %}
 

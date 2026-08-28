@@ -19,7 +19,7 @@ Ce guide couvre ce que les gestionnaires font autour d'une partie : consulter l'
 
 Ouvrez une partie pour voir son alignement : les joueurs de chaque équipe, leur position et leur statut pour cette partie. Les joueurs réguliers sont présumés présents à moins de déclarer une absence (voir [confirmation de présence](/confirmation-de-presence/) pour le mode où les joueurs confirment plutôt leur présence).
 
-{% include image.html src="help/game-day-lineups.fr.png" caption="La page de la partie montre l'alignement des deux équipes — chaque emplacement avec le nom, le numéro et la position du joueur, et un emplacement laissé libre par une absence déclarée directement dans l'alignement." %}
+{% include image.html src="help/game-day-lineups.fr.png" caption="La page de la partie montre l'alignement des deux équipes : chaque emplacement avec le nom, le numéro et la position du joueur, et un emplacement laissé libre par une absence déclarée directement dans l'alignement." %}
 
 ## Les emplacements
 
@@ -41,7 +41,7 @@ Vous pouvez réorganiser un alignement autour d'une absence. Par exemple, si vot
 Pour remplacer vous-même un joueur absent au lieu d'utiliser la recherche automatique, ouvrez le menu de l'emplacement et choisissez de remplacer le joueur. Dans la fenêtre de remplacement, vous pouvez sélectionner :
 
 * un joueur de la même équipe,
-* un joueur d'**une autre équipe** de la ligue — sélectionnez d'abord l'autre équipe, puis le joueur, ou
+* un joueur d'**une autre équipe** de la ligue : sélectionnez d'abord l'autre équipe, puis le joueur, ou
 * un des remplaçants de votre ligue (voir [gérer les remplaçants](/gerer-les-remplacants/)).
 
 {% include image.html src="help/game-day-replace-player-dialog.fr.png" caption="La fenêtre de remplacement : choisissez le remplaçant dans la banque de remplaçants, ou déployez n'importe quelle autre équipe de la ligue pour prendre un joueur dans son effectif." %}
@@ -54,8 +54,8 @@ Pour le fonctionnement des recherches automatiques, consultez la [recherche de r
 
 L'alignement peut être affiché de deux façons :
 
-* **Alignement simple** — une liste de joueurs et de positions.
-* **Trios** — les joueurs regroupés en trios d'attaque et en paires.
+* **Alignement simple** : une liste de joueurs et de positions.
+* **Trios** : les joueurs regroupés en trios d'attaque et en paires.
 
 Une option permet de basculer entre les deux modes, pour que les ligues qui n'organisent pas de trios conservent l'affichage simple. <!-- TODO: vérifier le libellé exact et l'emplacement de l'option -->
 
@@ -69,6 +69,6 @@ Pour imprimer l'alignement d'une partie, allez dans le détail de la partie et c
 
 ## Exporter l'alignement en CSV
 
-Pour noter les statistiques d'une partie sur papier ou dans un tableur, ouvrez la page de la partie et cliquez sur le bouton **« Exporter l'alignement »**. Un fichier CSV est téléchargé avec, pour chaque joueur, l'équipe, le numéro de chandail, le nom, la position et le classement. Ouvrez-le dans un tableur pour noter l'information de la partie, puis saisissez les résultats dans League2GO — voir [résultats, classement et statistiques](/resultats-classement-statistiques/).
+Pour noter les statistiques d'une partie sur papier ou dans un tableur, ouvrez la page de la partie et cliquez sur le bouton **« Exporter l'alignement »**. Un fichier CSV est téléchargé avec, pour chaque joueur, l'équipe, le numéro de chandail, le nom, la position et le classement. Ouvrez-le dans un tableur pour noter l'information de la partie, puis saisissez les résultats dans League2GO; voir [résultats, classement et statistiques](/resultats-classement-statistiques/).
 
 Des questions ? Écrivez-nous à [info@league2go.com](mailto:info@league2go.com).

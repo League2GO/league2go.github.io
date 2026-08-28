@@ -15,14 +15,14 @@ Il n'y a pas de lien d'invitation. Votre gestionnaire de ligue vous ajoute en en
 
 Concrètement :
 
-* **Inscrivez-vous avec le courriel et le numéro de cellulaire exacts que votre gestionnaire a au dossier.** Pas votre autre courriel, pas votre vieux courriel de travail — exactement ceux-là.
-* Si l'un des deux diffère — une faute de frappe, une ancienne adresse, un autre numéro — le lien ne se fait pas et vous ne verrez pas votre ligue.
+* **Inscrivez-vous avec le courriel et le numéro de cellulaire exacts que votre gestionnaire a au dossier.** Pas votre autre courriel, pas votre vieux courriel de travail : exactement ceux-là.
+* Si l'un des deux diffère (une faute de frappe, une ancienne adresse, un autre numéro), le lien ne se fait pas et vous ne verrez pas votre ligue.
 
 Vous ne savez pas ce que le gestionnaire a entré ? **Demandez-lui.** Il peut vous lire le courriel et le numéro qu'il a tapés.
 
 ## « Ce courriel (ou ce numéro) est déjà utilisé »
 
-Ce message signifie qu'un compte avec ce courriel ou ce numéro **existe déjà** — habituellement un compte que vous (ou un coéquipier, ou un gestionnaire) avez créé auparavant et oublié.
+Ce message signifie qu'un compte avec ce courriel ou ce numéro **existe déjà**, habituellement un compte que vous (ou un coéquipier, ou un gestionnaire) avez créé auparavant et oublié.
 
 Ne créez pas un deuxième compte avec d'autres coordonnées : il ne sera pas lié à votre ligue. Écrivez-nous plutôt à [info@league2go.com](mailto:info@league2go.com) et nous fusionnerons les comptes en double pour vous.
 
@@ -38,17 +38,17 @@ Si vous pouvez vous connecter mais que votre ligue ou votre horaire est absent, 
 
 ## Réinitialiser votre mot de passe
 
-La réinitialisation du mot de passe se fait sur le **site web** à https://league2go.com — utilisez le lien « mot de passe oublié » sur la page de connexion. <!-- TODO: verify exact link label -->
+La réinitialisation du mot de passe se fait sur le **site web** à https://league2go.com : utilisez le lien « mot de passe oublié » sur la page de connexion. <!-- TODO: verify exact link label -->
 
 * Le courriel de réinitialisation peut tomber dans vos **indésirables**.
-* Le lien de réinitialisation a une **durée limitée** — utilisez-le rapidement, ou demandez-en un nouveau.
+* Le lien de réinitialisation a une **durée limitée** : utilisez-le rapidement, ou demandez-en un nouveau.
 * Votre nouveau mot de passe doit compter **au moins 8 caractères**.
 
 Une fois votre mot de passe changé, utilisez-le pour vous connecter sur le site web et sur l'application mobile.
 
 ## Changer votre courriel ou votre numéro de cellulaire
 
-Une fois inscrit, **vous seul** pouvez modifier vos coordonnées — votre gestionnaire ne peut pas les changer pour vous. Mettez à jour votre courriel ou votre numéro de cellulaire dans votre **profil**; vos ligues restent liées, et votre gestionnaire voit les coordonnées à jour.
+Une fois inscrit, **vous seul** pouvez modifier vos coordonnées; votre gestionnaire ne peut pas les changer pour vous. Mettez à jour votre courriel ou votre numéro de cellulaire dans votre **profil**; vos ligues restent liées, et votre gestionnaire voit les coordonnées à jour.
 
 ## Joindre une deuxième ligue
 

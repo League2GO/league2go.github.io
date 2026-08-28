@@ -16,12 +16,12 @@ League2GO lets you share the work of running a league. This guide explains what 
 
 Every league has exactly one owner: the person who created it (or received it through an ownership transfer). The owner can do everything a manager can, plus:
 
-* **Buy game credits** — only the owner can purchase credits, and only on the [league2go.com](https://league2go.com) website (see [pricing and game credits](/pricing-and-game-credits/)).
+* **Buy game credits**: only the owner can purchase credits, and only on the [league2go.com](https://league2go.com) website (see [pricing and game credits](/pricing-and-game-credits/)).
 * **Transfer the league** to a new owner.
 
 ### Managers
 
-Managers (co-managers) have the same permissions as the owner for day-to-day management — teams, players, schedule, settings, results — except that they cannot transfer the league to a new owner.
+Managers (co-managers) have the same permissions as the owner for day-to-day management (teams, players, schedule, settings, results), except that they cannot transfer the league to a new owner.
 
 ### Captains
 
@@ -47,7 +47,7 @@ If the person doesn't have an account yet, ask them to sign up at [league2go.com
 
 ## Use individual accounts, not a shared login
 
-Give each manager, captain and scorekeeper their own account instead of sharing one login. Individual accounts let everyone receive their own notifications, keep their own contact information, and can be added or removed from the **Access** tab at any time — without resetting a shared password when someone leaves.
+Give each manager, captain and scorekeeper their own account instead of sharing one login. Individual accounts let everyone receive their own notifications, keep their own contact information, and can be added or removed from the **Access** tab at any time, without resetting a shared password when someone leaves.
 
 ## Transferring league ownership
 
@@ -55,7 +55,7 @@ To hand your league over to a new owner, go to the **Access** tab of your league
 
 {% include image.html src="help/access-transfer-ownership-dialog.en.png" caption="The transfer-ownership confirmation dialog: the irreversible-action warning, the league name to retype, and the new owner's email." %}
 
-**Warning about game credits**: game credits belong to the person who bought them, not to the league. They do **not** follow the league to the new owner — unused credits stay with the previous owner. Before transferring:
+**Warning about game credits**: game credits belong to the person who bought them, not to the league. They do **not** follow the league to the new owner; unused credits stay with the previous owner. Before transferring:
 
 * Use up the remaining credits first, or
 * Contact us at [info@league2go.com](mailto:info@league2go.com) to arrange moving the credits to the new owner.

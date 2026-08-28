@@ -21,7 +21,7 @@ Ce modèle convient à la plupart des ligues : la présence est la norme, et seu
 
 Certaines ligues préfèrent l'inverse : ne compter sur aucun joueur tant qu'il n'a pas **confirmé** sa présence. En mode confirmation de présence, les joueurs sont invités à confirmer leur présence à chaque partie au lieu de seulement déclarer leurs absences.
 
-Choisissez ce modèle si vos présences sont imprévisibles — par exemple lorsque le silence d'un joueur signifie plus souvent « je ne viens pas » que « je viens » — et que vous préférez relancer des confirmations plutôt que de découvrir des absences au moment de la partie.
+Choisissez ce modèle si vos présences sont imprévisibles (par exemple lorsque le silence d'un joueur signifie plus souvent « je ne viens pas » que « je viens ») et que vous préférez relancer des confirmations plutôt que de découvrir des absences au moment de la partie.
 
 {% include image.html src="help/presence-confirmation-request.fr.png" caption="Avec la confirmation de présence activée, la page de la partie demande au joueur de confirmer à l'approche de la partie : « Je serai présent » en vert ou « Je ne serai pas présent » en rouge." %}
 

@@ -11,7 +11,7 @@ redirect_from:
 
 When you [create your league](/create-your-league/), you choose one of two league types. The type determines how teams and rosters work.
 
-You choose the type at creation, and you can change it later in league settings, under **General > Type**. Switching to pick-up requires exactly two active teams — archive the other teams first. When you switch, League2GO migrates your league automatically: players are merged into the pick-up pool, team substitutes become league substitutes, and team captains become league managers.
+You choose the type at creation, and you can change it later in league settings, under **General > Type**. Switching to pick-up requires exactly two active teams; archive the other teams first. When you switch, League2GO migrates your league automatically: players are merged into the pick-up pool, team substitutes become league substitutes, and team captains become league managers.
 
 ## Fixed teams
 
@@ -34,11 +34,11 @@ Designed for smaller groups that redraw the teams at every game:
 
 Before a game starts, open the game details and click Create lineup. Assign players to the two teams manually, or click Generate random lineup. Not satisfied with a random lineup? Click the button again for a new one, or make the final adjustments by hand.
 
-{% include image.html src="help/league-types-pickup-create-lineup.en.png" caption="A pick-up game's Create Lineup view: the league's player pool split into two generated teams — Generate Lineup reshuffles them into balanced sides." %}
+{% include image.html src="help/league-types-pickup-create-lineup.en.png" caption="A pick-up game's Create Lineup view: the league's player pool split into two generated teams; Generate Lineup reshuffles them into balanced sides." %}
 
 Once satisfied, select Send lineup to players to notify everyone, or print the lineup to post at the arena.
 
 
-Even in a pick-up league, the two teams have a name, a color and a logo — customize them under **Settings > Teams**.
+Even in a pick-up league, the two teams have a name, a color and a logo; customize them under **Settings > Teams**.
 
 Questions? Contact us at [info@league2go.com](mailto:info@league2go.com).

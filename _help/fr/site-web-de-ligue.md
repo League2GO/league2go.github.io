@@ -11,7 +11,7 @@ redirect_from:
   - /integre-pages-ligue/
 ---
 
-League2GO peut publier un site web public pour votre ligue — nouvelles, règlements, calendrier, classement et statistiques — sans connaissance avancée en informatique. Vous pouvez aussi intégrer ces pages à un site web que vous possédez déjà.
+League2GO peut publier un site web public pour votre ligue (nouvelles, règlements, calendrier, classement et statistiques), sans connaissance avancée en informatique. Vous pouvez aussi intégrer ces pages à un site web que vous possédez déjà.
 
 Voyez un exemple en ligne au [https://league2go.com/demofr](https://league2go.com/demofr).
 
@@ -23,7 +23,7 @@ Entrez le mot-clé qui identifiera votre ligue dans l'adresse de votre site. Par
 
 {% include image.html src="help/website-activation.fr.png" caption="Paramètres de la ligue > onglet Site web : l'option d'activation du site activée et le champ du mot-clé de la ligue qui forme l'adresse web publique." %}
 
-**Si votre site web semble avoir disparu**, vérifiez d'abord cette option d'activation — le site n'est publié que lorsqu'elle est activée.
+**Si votre site web semble avoir disparu**, vérifiez d'abord cette option d'activation : le site n'est publié que lorsqu'elle est activée.
 
 ## Choisir et modifier les pages
 
@@ -41,7 +41,7 @@ Vous pouvez aussi changer l'**image de fond** du site web à partir des paramèt
 
 ## Le formulaire d'inscription
 
-Le site web de votre ligue peut inclure un formulaire d'inscription pour que les joueurs intéressés s'inscrivent à votre ligue. Les inscriptions soumises sont **envoyées par courriel aux gestionnaires de la ligue**, qui font ensuite le suivi et ajoutent les joueurs — voir [ajouter des joueurs](/ajouter-des-joueurs/). <!-- TODO: vérifier comment le formulaire d'inscription est activé -->
+Le site web de votre ligue peut inclure un formulaire d'inscription pour que les joueurs intéressés s'inscrivent à votre ligue. Les inscriptions soumises sont **envoyées par courriel aux gestionnaires de la ligue**, qui font ensuite le suivi et ajoutent les joueurs; voir [ajouter des joueurs](/ajouter-des-joueurs/). <!-- TODO: vérifier comment le formulaire d'inscription est activé -->
 
 {% include image.html src="help/website-registration-page.fr.png" caption="La page d'inscription du site web public de la ligue, telle qu'un visiteur la voit. Les formulaires soumis sont envoyés par courriel aux gestionnaires de la ligue." %}
 

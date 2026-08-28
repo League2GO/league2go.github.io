@@ -16,12 +16,12 @@ League2GO vous permet de partager le travail de gestion d'une ligue. Ce guide ex
 
 Chaque ligue a exactement un propriétaire : la personne qui l'a créée (ou qui l'a reçue par un transfert de possession). Le propriétaire peut faire tout ce qu'un gestionnaire peut faire, en plus de :
 
-* **Acheter des crédits de partie** — seul le propriétaire peut acheter des crédits, et seulement sur le site web [league2go.com](https://league2go.com) (voir [prix et crédits de partie](/prix-et-credits-de-partie/)).
+* **Acheter des crédits de partie** : seul le propriétaire peut acheter des crédits, et seulement sur le site web [league2go.com](https://league2go.com) (voir [prix et crédits de partie](/prix-et-credits-de-partie/)).
 * **Transférer la ligue** à un nouveau propriétaire.
 
 ### Gestionnaires
 
-Les gestionnaires (cogestionnaires) ont les mêmes permissions que le propriétaire pour la gestion quotidienne — équipes, joueurs, calendrier, paramètres, résultats — sauf qu'ils ne peuvent pas transférer la ligue à un nouveau propriétaire.
+Les gestionnaires (cogestionnaires) ont les mêmes permissions que le propriétaire pour la gestion quotidienne (équipes, joueurs, calendrier, paramètres, résultats), sauf qu'ils ne peuvent pas transférer la ligue à un nouveau propriétaire.
 
 ### Capitaines
 
@@ -47,7 +47,7 @@ Si la personne n'a pas encore de compte, demandez-lui de s'inscrire d'abord sur 
 
 ## Privilégiez les comptes individuels plutôt qu'un compte partagé
 
-Donnez à chaque gestionnaire, capitaine et marqueur son propre compte plutôt que de partager un même identifiant. Les comptes individuels permettent à chacun de recevoir ses propres notifications et de conserver ses propres coordonnées, et vous pouvez les ajouter ou les retirer de l'onglet **Accès** à tout moment — sans devoir changer un mot de passe partagé quand quelqu'un quitte.
+Donnez à chaque gestionnaire, capitaine et marqueur son propre compte plutôt que de partager un même identifiant. Les comptes individuels permettent à chacun de recevoir ses propres notifications et de conserver ses propres coordonnées, et vous pouvez les ajouter ou les retirer de l'onglet **Accès** à tout moment, sans devoir changer un mot de passe partagé quand quelqu'un quitte.
 
 ## Transférer la possession de la ligue
 
@@ -55,7 +55,7 @@ Pour céder votre ligue à un nouveau propriétaire, allez dans l'onglet **Accè
 
 {% include image.html src="help/access-transfer-ownership-dialog.fr.png" caption="La boîte de confirmation du transfert de possession : l'avertissement d'action irréversible, le nom de la ligue à retaper et le courriel du nouveau propriétaire." %}
 
-**Avertissement au sujet des crédits de partie** : les crédits de partie appartiennent à la personne qui les a achetés, pas à la ligue. Ils ne suivent **pas** la ligue vers le nouveau propriétaire — les crédits inutilisés restent à l'ancien propriétaire. Avant de transférer :
+**Avertissement au sujet des crédits de partie** : les crédits de partie appartiennent à la personne qui les a achetés, pas à la ligue. Ils ne suivent **pas** la ligue vers le nouveau propriétaire : les crédits inutilisés restent à l'ancien propriétaire. Avant de transférer :
 
 * Utilisez d'abord les crédits restants, ou
 * Écrivez-nous à [info@league2go.com](mailto:info@league2go.com) pour organiser le transfert des crédits au nouveau propriétaire.

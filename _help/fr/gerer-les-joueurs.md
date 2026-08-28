@@ -17,7 +17,7 @@ Pour attribuer un numéro de chandail, modifiez le joueur à partir de l'onglet 
 
 {% include image.html src="help/player-edit-jersey-number.fr.png" caption="Le formulaire de modification d'un joueur avec le numéro de chandail rempli." %}
 
-Vous pouvez aussi changer le numéro d'un joueur **pour une seule partie** à partir des menus d'actions dans le détail de la partie — pratique quand un joueur emprunte un chandail. Ces menus permettent aussi de saisir le numéro des remplaçants.
+Vous pouvez aussi changer le numéro d'un joueur **pour une seule partie** à partir des menus d'actions dans le détail de la partie, pratique quand un joueur emprunte un chandail. Ces menus permettent aussi de saisir le numéro des remplaçants.
 
 {% include image.html src="help/game-set-jersey-menu.fr.png" caption="Le menu d'actions d'un joueur sur la page d'une partie, avec l'action assigner un numéro de chandail pour cette partie." %}
 
@@ -47,17 +47,17 @@ Dans les onglets **Équipes** et **Remplaçants**, assignez une force à chaque 
 
 {% include image.html src="help/player-skill-ratings.fr.png" caption="L'alignement avec la force de chaque joueur à côté de son nom, et l'avertissement sur un joueur dont la force est manquante." %}
 
-Les forces sont visibles seulement par les gestionnaires de la ligue et les capitaines d'équipe — les joueurs ne voient pas comment vous les avez évalués. <!-- TODO: verify -->
+Les forces sont visibles seulement par les gestionnaires de la ligue et les capitaines d'équipe : les joueurs ne voient pas comment vous les avez évalués. <!-- TODO: verify -->
 
 ### À quoi servent les forces
 
-* **Recherche automatique de remplaçants** : quand un joueur déclare une absence, League2GO contacte les remplaçants dont la force se situe dans une plage relative à celle du joueur absent. Vous contrôlez à quel point cette plage est stricte ou flexible — voir les [options de recherche de remplaçants](/options-de-recherche-de-remplacants/).
+* **Recherche automatique de remplaçants** : quand un joueur déclare une absence, League2GO contacte les remplaçants dont la force se situe dans une plage relative à celle du joueur absent. Vous contrôlez à quel point cette plage est stricte ou flexible; voir les [options de recherche de remplaçants](/options-de-recherche-de-remplacants/).
 * **Sélection manuelle** : les forces sont affichées dans le détail des parties, ce qui vous permet de choisir vous-même un remplaçant d'un niveau similaire. Quand vous ajoutez un emplacement à une partie, vous pouvez aussi spécifier la force requise pour le combler automatiquement avec un joueur du bon niveau.
 
 ## Notes privées sur les joueurs
 
-Vous pouvez rédiger des notes au sujet de chaque joueur ou remplaçant de votre ligue — par exemple des rappels de paiement, des disponibilités particulières ou toute information utile à votre gestion. Les notes sont visibles seulement par les gestionnaires de la ligue et les capitaines de l'équipe du joueur ; les joueurs ne les voient jamais.
+Vous pouvez rédiger des notes au sujet de chaque joueur ou remplaçant de votre ligue : par exemple des rappels de paiement, des disponibilités particulières ou toute information utile à votre gestion. Les notes sont visibles seulement par les gestionnaires de la ligue et les capitaines de l'équipe du joueur ; les joueurs ne les voient jamais.
 
-{% include image.html src="help/player-notes-field.fr.png" caption="Le champ notes du formulaire de modification d'un joueur — les notes ne sont visibles que par les gestionnaires et les capitaines." %}
+{% include image.html src="help/player-notes-field.fr.png" caption="Le champ notes du formulaire de modification d'un joueur; les notes ne sont visibles que par les gestionnaires et les capitaines." %}
 
 Des questions ? Écrivez-nous à [info@league2go.com](mailto:info@league2go.com).

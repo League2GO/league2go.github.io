@@ -9,11 +9,11 @@ redirect_from:
   - /improved-game-calendar/
 ---
 
-The league calendar is where you create and manage your games, on the website or in the mobile app. Each game uses one game credit; if you run out, purchase more by logging in on the **website** — purchasing game credits is not possible in the app. See [pricing and game credits](/pricing-and-game-credits/).
+The league calendar is where you create and manage your games, on the website or in the mobile app. Each game uses one game credit; if you run out, purchase more by logging in on the **website**. Purchasing game credits is not possible in the app. See [pricing and game credits](/pricing-and-game-credits/).
 
 ## Creating games
 
-From your league's calendar tab, click the **Add game** button and enter the requested information. Each game consumes one game credit — see [pricing and game credits](/pricing-and-game-credits/).
+From your league's calendar tab, click the **Add game** button and enter the requested information. Each game consumes one game credit. See [pricing and game credits](/pricing-and-game-credits/).
 
 If your games are weekly, use the **Repeat game schedule** option to automatically create multiple games with the same settings.
 
@@ -23,13 +23,13 @@ If your games are weekly, use the **Repeat game schedule** option to automatical
 
 Color codes help you distinguish games at a glance:
 
-* **Blue** — the next game.
-* **Red** — games where players are currently missing.
-* **Yellow** — past games waiting for their results to be entered.
+* **Blue**: the next game.
+* **Red**: games where players are currently missing.
+* **Yellow**: past games waiting for their results to be entered.
 
 {% include image.html src="help/schedule-color-codes.en.png" caption="The month calendar's color codes: upcoming games carry a blue accent, a past game still waiting for its score is red, and completed games turn gray with the final score inline." %}
 
-To see a game's details, click the game in the calendar. Managers run game-day actions from there — see [game day](/game-day/).
+To see a game's details, click the game in the calendar. Managers run game-day actions from there. See [game day](/game-day/).
 
 ## Moving or rescheduling a game
 
@@ -44,7 +44,7 @@ To "move" a game:
 
 The same rule applies to a cancelled game (bad weather, arena closed, holiday): delete it before its start time and the credit is refunded. If the game is rescheduled, create a new game at the new date.
 
-Note that deleting a game does not notify players by itself — use [messaging](/messaging/) to tell them about the cancellation.
+Note that deleting a game does not notify players by itself; use [messaging](/messaging/) to tell them about the cancellation.
 
 ## Games in the past
 

@@ -9,11 +9,11 @@ redirect_from:
   - /calendrier-de-parties-ameliore/
 ---
 
-Le calendrier de la ligue est l'endroit où vous créez et gérez vos parties, sur le site web ou dans l'application mobile. Chaque partie utilise un crédit de partie; si vous n'en avez plus, achetez-en en vous connectant sur le **site web** — l'achat de crédits de partie n'est pas possible dans l'application. Consultez [prix et crédits de partie](/prix-et-credits-de-partie/).
+Le calendrier de la ligue est l'endroit où vous créez et gérez vos parties, sur le site web ou dans l'application mobile. Chaque partie utilise un crédit de partie; si vous n'en avez plus, achetez-en en vous connectant sur le **site web**; l'achat de crédits de partie n'est pas possible dans l'application. Consultez [prix et crédits de partie](/prix-et-credits-de-partie/).
 
 ## Créer des parties
 
-À partir de l'onglet Calendrier de votre ligue, cliquez sur le bouton **Ajouter une partie** et entrez l'information demandée. Chaque partie consomme un crédit de partie — voir [prix et crédits de partie](/prix-et-credits-de-partie/).
+À partir de l'onglet Calendrier de votre ligue, cliquez sur le bouton **Ajouter une partie** et entrez l'information demandée. Chaque partie consomme un crédit de partie (voir [prix et crédits de partie](/prix-et-credits-de-partie/)).
 
 Si vos parties sont hebdomadaires, utilisez l'option **Répéter l'horaire des parties** pour automatiquement créer plusieurs parties avec les mêmes paramètres.
 
@@ -23,13 +23,13 @@ Si vos parties sont hebdomadaires, utilisez l'option **Répéter l'horaire des p
 
 Des codes de couleur permettent de distinguer les parties en un coup d'œil :
 
-* **Bleu** — la prochaine partie.
-* **Rouge** — les parties dans lesquelles il manque présentement des joueurs.
-* **Jaune** — les parties passées dont les résultats restent à entrer.
+* **Bleu** : la prochaine partie.
+* **Rouge** : les parties dans lesquelles il manque présentement des joueurs.
+* **Jaune** : les parties passées dont les résultats restent à entrer.
 
 {% include image.html src="help/schedule-color-codes.fr.png" caption="Les codes de couleur du calendrier mensuel : les parties à venir portent un accent bleu, une partie passée sans résultats est en rouge, et les parties complétées deviennent grises avec le pointage final." %}
 
-Pour voir le détail d'une partie, cliquez sur la partie dans le calendrier. C'est de là que les gestionnaires effectuent les actions du jour de partie — voir [jour de partie](/jour-de-partie/).
+Pour voir le détail d'une partie, cliquez sur la partie dans le calendrier. C'est de là que les gestionnaires effectuent les actions du jour de partie (voir [jour de partie](/jour-de-partie/)).
 
 ## Déplacer une partie
 
@@ -44,7 +44,7 @@ Pour « déplacer » une partie :
 
 La même règle s'applique à une partie annulée (mauvais temps, aréna fermé, congé) : supprimez-la avant son heure de début et le crédit est remboursé. Si la partie est remise, créez une nouvelle partie à la nouvelle date.
 
-Notez que la suppression d'une partie n'avertit pas les joueurs par elle-même — utilisez la [messagerie](/messagerie/) pour les informer de l'annulation.
+Notez que la suppression d'une partie n'avertit pas les joueurs par elle-même; utilisez la [messagerie](/messagerie/) pour les informer de l'annulation.
 
 ## Parties passées
 

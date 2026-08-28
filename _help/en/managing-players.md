@@ -17,7 +17,7 @@ To assign a jersey number, edit the player from the **Teams** tab and enter the 
 
 {% include image.html src="help/player-edit-jersey-number.en.png" caption="The edit-player form with the jersey number filled in." %}
 
-You can also override a player's number **for a single game** from the action menus in the game details — useful when a player borrows a jersey. These menus also let you enter jersey numbers for substitutes.
+You can also override a player's number **for a single game** from the action menus in the game details, useful when a player borrows a jersey. These menus also let you enter jersey numbers for substitutes.
 
 {% include image.html src="help/game-set-jersey-menu.en.png" caption="A player's action menu on the game page, with the set-jersey-number-for-this-game action." %}
 
@@ -47,17 +47,17 @@ In the **Teams** and **Substitutes** tabs, assign a skill to each player. You mu
 
 {% include image.html src="help/player-skill-ratings.en.png" caption="The roster with each player's skill beside their name, and the warning on a player whose skill is missing." %}
 
-Skill ratings are visible only to league managers and team captains — players do not see how you rated them. <!-- TODO: verify -->
+Skill ratings are visible only to league managers and team captains; players do not see how you rated them. <!-- TODO: verify -->
 
 ### What skills are used for
 
-* **Automatic substitute search**: when a player declares an absence, League2GO contacts substitutes whose skill falls within a range relative to the absent player. You control how strict or flexible that range is — see the [substitute search settings](/substitute-search-settings/).
+* **Automatic substitute search**: when a player declares an absence, League2GO contacts substitutes whose skill falls within a range relative to the absent player. You control how strict or flexible that range is. See the [substitute search settings](/substitute-search-settings/).
 * **Manual selection**: skills are displayed in the game details, so you can hand-pick a substitute of a similar level. When you add a spot to a game, you can also specify the skill required to fill it automatically with a player of the right level.
 
 ## Private notes on players
 
-You can write notes on each player or substitute in your league — for example payment reminders, availability quirks, or anything useful to your management. Notes are visible only to league managers and to the captains of the player's team; players never see them.
+You can write notes on each player or substitute in your league: for example payment reminders, availability quirks, or anything useful to your management. Notes are visible only to league managers and to the captains of the player's team; players never see them.
 
-{% include image.html src="help/player-notes-field.en.png" caption="The notes field on the edit-player form — notes are visible to managers and captains only." %}
+{% include image.html src="help/player-notes-field.en.png" caption="The notes field on the edit-player form; notes are visible to managers and captains only." %}
 
 Questions? Contact us at [info@league2go.com](mailto:info@league2go.com).

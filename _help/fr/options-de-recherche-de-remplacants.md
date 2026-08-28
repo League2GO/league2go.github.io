@@ -9,7 +9,7 @@ redirect_from:
   - /fonctionnalites-moins-connues-partie2/
 ---
 
-Voici la référence de chaque option qui contrôle la [recherche automatique de remplaçants](/recherche-de-remplacants/). Sauf indication contraire, toutes les options se trouvent dans les **paramètres de votre ligue, onglet Remplaçants**. Les listes de remplaçants elles-mêmes se gèrent ailleurs — consultez [gérer les remplaçants](/gerer-les-remplacants/).
+Voici la référence de chaque option qui contrôle la [recherche automatique de remplaçants](/recherche-de-remplacants/). Sauf indication contraire, toutes les options se trouvent dans les **paramètres de votre ligue, onglet Remplaçants**. Les listes de remplaçants elles-mêmes se gèrent ailleurs; consultez [gérer les remplaçants](/gerer-les-remplacants/).
 
 {% include image.html src="help/substitute-settings-options.fr.png" caption="Paramètres de la ligue > Remplaçants : le moment où la recherche démarre (jours avant la partie) et la séquence de recherche étape par étape avec ses délais." %}
 
@@ -33,23 +33,23 @@ Voici la référence de chaque option qui contrôle la [recherche automatique de
 
 ## Nombre de joueurs cible par équipe
 
-**Ce que ça fait :** détermine combien de joueurs vous voulez dans l'alignement de chaque équipe, par position. Une recherche ne démarre que lorsqu'une absence fait descendre l'alignement **sous** la cible — si vous avez plus de réguliers que la cible, les premières absences ne déclenchent rien.
+**Ce que ça fait :** détermine combien de joueurs vous voulez dans l'alignement de chaque équipe, par position. Une recherche ne démarre que lorsqu'une absence fait descendre l'alignement **sous** la cible. Si vous avez plus de réguliers que la cible, les premières absences ne déclenchent rien.
 
 **Quand l'ajuster :** faites-le correspondre au nombre de joueurs qui jouent réellement dans votre ligue.
 
-**Exemple :** cible de 10 joueurs, équipe de 11 réguliers. La première absence déclarée laisse 10 joueurs disponibles — aucune recherche. La deuxième absence fait descendre l'alignement à 9 et démarre une recherche pour un remplaçant.
+**Exemple :** cible de 10 joueurs, équipe de 11 réguliers. La première absence déclarée laisse 10 joueurs disponibles : aucune recherche. La deuxième absence fait descendre l'alignement à 9 et démarre une recherche pour un remplaçant.
 
 ## Forces et plages de force
 
 Les forces permettent à la recherche de proposer des remplaçants de calibre comparable au joueur absent.
 
-**Choisir l'échelle :** dans l'onglet **Général** des paramètres de votre ligue, choisissez des lettres (« AAA », « AA », « BB », « CC », « A », « B », « C », « D ») ou des nombres (de 1 à 1000 — utilisez de 1 à 100 si c'est votre besoin) comme échelle de force. Les forces sont visibles seulement par les capitaines des équipes et les gestionnaires de la ligue. Vous assignez ensuite une force à chaque joueur et remplaçant, pour chacune de ses positions — consultez [gérer les remplaçants](/gerer-les-remplacants/).
+**Choisir l'échelle :** dans l'onglet **Général** des paramètres de votre ligue, choisissez des lettres (« AAA », « AA », « BB », « CC », « A », « B », « C », « D ») ou des nombres (de 1 à 1000; utilisez de 1 à 100 si c'est votre besoin) comme échelle de force. Les forces sont visibles seulement par les capitaines des équipes et les gestionnaires de la ligue. Vous assignez ensuite une force à chaque joueur et remplaçant, pour chacune de ses positions; consultez [gérer les remplaçants](/gerer-les-remplacants/).
 
 **La plage est toujours relative au joueur absent.** Lorsqu'un joueur est absent, seuls les remplaçants dont la force se situe dans la plage configurée autour de la force de ce joueur sont contactés. Trois façons de la configurer :
 
 * **Aucun critère de force :** vous voulez noter les forces pour votre propre référence, mais n'importe quel remplaçant peut remplacer n'importe qui. Étendez la plage au maximum (-1000 à 1000) et assurez-vous que l'option « Étendre les forces progressivement » est **désactivée**.
 * **Stricte :** configurez la plage requise et n'activez pas « Étendre les forces progressivement ». Les remplaçants hors de la plage ne sont jamais contactés pour cette absence.
-* **Flexible :** configurez une **plage initiale**, activez « Étendre les forces progressivement », configurez la **plage finale**, puis entrez le nombre d'heures pour élargir la plage progressivement. La recherche commence par les remplaçants les plus proches, puis accepte graduellement des remplaçants plus éloignés de la force du joueur absent — utile si un alignement complet compte plus qu'une correspondance parfaite.
+* **Flexible :** configurez une **plage initiale**, activez « Étendre les forces progressivement », configurez la **plage finale**, puis entrez le nombre d'heures pour élargir la plage progressivement. La recherche commence par les remplaçants les plus proches, puis accepte graduellement des remplaçants plus éloignés de la force du joueur absent, utile si un alignement complet compte plus qu'une correspondance parfaite.
 
 {% include image.html src="help/substitute-settings-rating-range.fr.png" caption="La section des plages de force : la plage initiale, l'option Étendre les forces progressivement activée, le nombre de minutes pour atteindre la plage finale, et la plage finale." %}
 
@@ -57,7 +57,7 @@ Les forces permettent à la recherche de proposer des remplaçants de calibre co
 
 ## Favoris et ordre de contact
 
-**Ce que ça fait :** la recherche contacte les remplaçants par niveaux, les favoris d'abord : **favoris de l'équipe, puis remplaçants de l'équipe, puis favoris de la ligue, puis remplaçants de la ligue**. Vous configurez le délai entre chaque niveau; le niveau suivant n'est contacté qu'après ce délai, si la place est toujours libre. Les favoris sont marqués avec l'étoile à droite de chaque remplaçant — consultez [gérer les remplaçants](/gerer-les-remplacants/).
+**Ce que ça fait :** la recherche contacte les remplaçants par niveaux, les favoris d'abord : **favoris de l'équipe, puis remplaçants de l'équipe, puis favoris de la ligue, puis remplaçants de la ligue**. Vous configurez le délai entre chaque niveau; le niveau suivant n'est contacté qu'après ce délai, si la place est toujours libre. Les favoris sont marqués avec l'étoile à droite de chaque remplaçant; consultez [gérer les remplaçants](/gerer-les-remplacants/).
 
 **Quand l'ajuster :** utilisez des délais courts si combler la place rapidement compte plus que l'identité du remplaçant; utilisez des délais plus longs pour donner une vraie longueur d'avance à vos remplaçants les plus fiables.
 
@@ -73,7 +73,7 @@ Les forces permettent à la recherche de proposer des remplaçants de calibre co
 
 ## Plage ne pas déranger
 
-**Ce que ça fait :** définit une plage de temps durant laquelle aucun message automatisé n'est envoyé à vos joueurs. Les demandes qui tomberaient dans la plage sont retenues puis envoyées lorsqu'elle se termine — jamais annulées. Les délais configurés entre les remplaçants favoris et les autres remplaçants sont respectés.
+**Ce que ça fait :** définit une plage de temps durant laquelle aucun message automatisé n'est envoyé à vos joueurs. Les demandes qui tomberaient dans la plage sont retenues puis envoyées lorsqu'elle se termine, jamais annulées. Les délais configurés entre les remplaçants favoris et les autres remplaçants sont respectés.
 
 **Quand l'ajuster :** activez-la pour qu'une absence déclarée à minuit ne réveille pas votre liste de remplaçants.
 
@@ -81,7 +81,7 @@ Les forces permettent à la recherche de proposer des remplaçants de calibre co
 
 ## Prix dans les demandes de remplacement
 
-**Ce que ça fait :** lorsque vous cochez **Inclure les prix dans les demandes de remplacement**, le montant que le remplaçant paie pour jouer est inclus dans chaque demande, ainsi que dans le message envoyé à un remplaçant que vous assignez manuellement. Vous entrez un montant par position, et les positions peuvent différer — par exemple 20 $ pour un défenseur ou un attaquant, mais gratuit pour un gardien de but.
+**Ce que ça fait :** lorsque vous cochez **Inclure les prix dans les demandes de remplacement**, le montant que le remplaçant paie pour jouer est inclus dans chaque demande, ainsi que dans le message envoyé à un remplaçant que vous assignez manuellement. Vous entrez un montant par position, et les positions peuvent différer : par exemple 20 $ pour un défenseur ou un attaquant, mais gratuit pour un gardien de but.
 
 **Quand l'ajuster :** activez l'option pour que les remplaçants se présentent en sachant ce qu'ils doivent. Pour percevoir le montant en ligne plutôt qu'en argent comptant, consultez [les paiements en ligne](/configurer-les-paiements-en-ligne/).
 
@@ -89,6 +89,6 @@ Les forces permettent à la recherche de proposer des remplaçants de calibre co
 
 ## Correspondance des positions
 
-La correspondance des positions est toujours active : un remplaçant n'est contacté que pour remplacer un joueur dont il joue la position. Les positions proviennent de la configuration de votre ligue, et vous cochez les positions que chaque remplaçant peut jouer dans son profil — cochez toutes celles qu'il peut couvrir pour qu'il soit contacté le plus souvent possible. Consultez [gérer les remplaçants](/gerer-les-remplacants/).
+La correspondance des positions est toujours active : un remplaçant n'est contacté que pour remplacer un joueur dont il joue la position. Les positions proviennent de la configuration de votre ligue, et vous cochez les positions que chaque remplaçant peut jouer dans son profil. Cochez toutes celles qu'il peut couvrir pour qu'il soit contacté le plus souvent possible. Consultez [gérer les remplaçants](/gerer-les-remplacants/).
 
 Des questions ? Écrivez-nous à [info@league2go.com](mailto:info@league2go.com).

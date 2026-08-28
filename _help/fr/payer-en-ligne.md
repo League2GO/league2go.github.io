@@ -7,19 +7,19 @@ order: 20
 description: "Payez votre frais de saison ou votre frais de remplaçant par carte de crédit, consultez votre solde et sachez à qui demander un remboursement."
 ---
 
-Si votre ligue a activé les paiements en ligne, vous pouvez payer votre frais de saison — ou votre frais comme remplaçant — par carte de crédit, à partir du site web League2GO ou de l'application mobile.
+Si votre ligue a activé les paiements en ligne, vous pouvez payer votre frais de saison (ou votre frais comme remplaçant) par carte de crédit, à partir du site web League2GO ou de l'application mobile.
 
 ## Payer votre frais de saison
 
 Lorsque votre ligue vous facture un frais de saison, il apparaît **en haut de votre horaire**, sur le site web et dans l'application mobile.
 
-{% include image.html src="help/player-pay-schedule-fee.fr.png" caption="L'horaire du joueur avec le frais de saison dû affiché en haut — toucher la ligne ouvre la page de paiement." %}
+{% include image.html src="help/player-pay-schedule-fee.fr.png" caption="L'horaire du joueur avec le frais de saison dû affiché en haut; toucher la ligne ouvre la page de paiement." %}
 
-Touchez le frais pour en voir les détails — le montant, ainsi que la date d'échéance et la note si votre ligue en a ajouté — puis touchez **Payer maintenant**, entrez les informations de votre carte de crédit et touchez **Payer**.
+Touchez le frais pour en voir les détails (le montant, ainsi que la date d'échéance et la note si votre ligue en a ajouté), puis touchez **Payer maintenant**, entrez les informations de votre carte de crédit et touchez **Payer**.
 
-{% include image.html src="help/player-pay-card-form.fr.png" caption="La fenêtre de paiement ouverte à partir du frais de saison : le montant, le formulaire de saisie de la carte de crédit et le bouton Payer — Stripe traite la transaction." %}
+{% include image.html src="help/player-pay-card-form.fr.png" caption="La fenêtre de paiement ouverte à partir du frais de saison : le montant, le formulaire de saisie de la carte de crédit et le bouton Payer; Stripe traite la transaction." %}
 
-C'est tout. Votre gestionnaire de ligue voit automatiquement votre paiement comme payé — pas besoin d'avertir qui que ce soit.
+C'est tout. Votre gestionnaire de ligue voit automatiquement votre paiement comme payé : pas besoin d'avertir qui que ce soit.
 
 ## Payer comme remplaçant
 
@@ -27,7 +27,7 @@ Si votre ligue facture les remplaçants, une fenêtre de paiement apparaît lors
 
 {% include image.html src="help/player-pay-substitute-confirm.fr.png" caption="Acceptation d'un remplacement payant : la fenêtre de confirmation de paiement montre le montant et le formulaire de carte. Une fois une carte utilisée, elle peut être réutilisée comme carte enregistrée." %}
 
-Si vous préférez payer plus tard, vous pouvez réafficher le formulaire de paiement à partir de la page de la partie — ou payer le gestionnaire comptant à la partie. D'ici là, le montant impayé reste visible sur la page de la partie.
+Si vous préférez payer plus tard, vous pouvez réafficher le formulaire de paiement à partir de la page de la partie, ou payer le gestionnaire comptant à la partie. D'ici là, le montant impayé reste visible sur la page de la partie.
 
 ## Votre solde
 
@@ -35,7 +35,7 @@ Tout frais impayé reste visible là où il a été créé : un frais de saison 
 
 ## Changer de carte de crédit
 
-Votre carte est enregistrée pour que vous n'ayez pas à la retaper. Pour utiliser une autre carte, entrez simplement la nouvelle carte lors de votre **prochain paiement** — elle remplace la carte enregistrée. <!-- TODO: verify there is no separate card-management screen -->
+Votre carte est enregistrée pour que vous n'ayez pas à la retaper. Pour utiliser une autre carte, entrez simplement la nouvelle carte lors de votre **prochain paiement** : elle remplace la carte enregistrée. <!-- TODO: verify there is no separate card-management screen -->
 
 ## Les remboursements
 

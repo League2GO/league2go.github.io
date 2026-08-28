@@ -7,26 +7,26 @@ order: 120
 description: "Track season fees, payments, credits, and refunds per player, and see who still owes the league money."
 ---
 
-Billing is the league's ledger of what each player owes and has paid — no more paperwork to figure out who still owes you money. It tracks amounts inside League2GO; to actually collect money online, connect it with [online payments](/online-payments-setup/).
+Billing is the league's ledger of what each player owes and has paid: no more paperwork to figure out who still owes you money. It tracks amounts inside League2GO; to actually collect money online, connect it with [online payments](/online-payments-setup/).
 
 ## Setting the season fee
 
 Start by recording a **season fee**. This fee is added to every player of the season. Each player's balance shows where they stand: **green** when the player owes nothing, **red** when they still owe money.
 
-{% include image.html src="help/billing-player-balances.en.png" caption="The league billing page: every player with their balance — red when they still owe money, green when their account is settled — with the season selector and the season fee action above the list." %}
+{% include image.html src="help/billing-player-balances.en.png" caption="The league billing page: every player with their balance (red when they still owe money, green when their account is settled), with the season selector and the season fee action above the list." %}
 
 ## Recording transactions per player
 
 Use the menu to the right of each player to record individual transactions:
 
-* **Fees** — the player owes you money, which increases their balance.
-* **Payments** — the player gives you money, which decreases their balance.
-* **Credits** — you grant the player a credit, which decreases their balance.
-* **Refunds** — you give money back to the player, which increases their balance.
+* **Fees**: the player owes you money, which increases their balance.
+* **Payments**: the player gives you money, which decreases their balance.
+* **Credits**: you grant the player a credit, which decreases their balance.
+* **Refunds**: you give money back to the player, which increases their balance.
 
-{% include image.html src="help/billing-transaction-types.en.png" caption="Registering a transaction on a player: the type list explains each of the four types — fee, payment, refund and credit — and how it moves the player's balance." %}
+{% include image.html src="help/billing-transaction-types.en.png" caption="Registering a transaction on a player: the type list explains each of the four types (fee, payment, refund and credit) and how it moves the player's balance." %}
 
-To record a transaction for **all players at once**, use the **Save a transaction** button in the menu at the top of the table — useful, for example, when a game is cancelled.
+To record a transaction for **all players at once**, use the **Save a transaction** button in the menu at the top of the table (useful, for example, when a game is cancelled).
 
 ## Tracking who owes what
 
@@ -34,7 +34,7 @@ The billing table gives you the live picture: every player's fees, payments, and
 
 ## Seasons and balances
 
-Billing is specific to each season you configure. When you start a new season, player balances reset and you record that season's fee — see [seasons](/seasons/).
+Billing is specific to each season you configure. When you start a new season, player balances reset and you record that season's fee. See [seasons](/seasons/).
 
 ## Collecting payments online
 

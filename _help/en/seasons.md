@@ -4,21 +4,21 @@ lang: en
 localization: seasons
 category: managers
 order: 40
-description: "Organize games, standings, and statistics by season — and find games hidden by the season filter."
+description: "Organize games, standings, and statistics by season, and find games hidden by the season filter."
 ---
 
 Seasons group your league's games, standings, and statistics. Each season has a start and end date, and the selected season acts as a filter: the calendar, standings, and statistics only show what falls inside its date range. This keeps players focused on the current schedule instead of years of history.
 
 ## "My games disappeared"
 
-If games are missing from your calendar, the season filter is almost always the reason: the games fall outside the date range of the currently selected season. Nothing is deleted — the games are only hidden.
+If games are missing from your calendar, the season filter is almost always the reason: the games fall outside the date range of the currently selected season. Nothing is deleted; the games are only hidden.
 
 To see them again, do one of the following:
 
 * **Clear the filter**: click the **X** beside the season name above the calendar. All games are shown again, regardless of season.
 * **Extend the season dates**: in your league settings, edit the season so its start and end dates cover the games' dates.
 
-{% include image.html src="help/seasons-schedule-filter.en.png" caption="The league schedule with the current season selected in the Season filter — the X beside the season name clears the filter and shows every season's games." %}
+{% include image.html src="help/seasons-schedule-filter.en.png" caption="The league schedule with the current season selected in the Season filter; the X beside the season name clears the filter and shows every season's games." %}
 
 This also explains games that seem to appear out of nowhere, or players reporting they cannot see their schedule: check which season is selected and what its dates are.
 
@@ -28,7 +28,7 @@ To create a season, go to the **Seasons** tab of your league settings. Add a sea
 
 {% include image.html src="help/seasons-settings.en.png" caption="League settings > Seasons: every season is listed with its start and end dates, and the Add season button creates the next one." %}
 
-Make sure the date range actually covers all the games you plan to schedule — see ["My games disappeared"](#my-games-disappeared) above.
+Make sure the date range actually covers all the games you plan to schedule. See ["My games disappeared"](#my-games-disappeared) above.
 
 ## Starting a new season each year
 

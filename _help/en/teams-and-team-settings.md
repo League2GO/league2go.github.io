@@ -12,7 +12,7 @@ redirect_from:
   - /complete-team-lineup/
 ---
 
-Teams and their regular players are managed from the **Teams** tab of your league. Substitutes have their own tab — the **Substitutes** tab manages the substitute bank of the league and of each team (see [substitutes overview](/substitutes-overview/)).
+Teams and their regular players are managed from the **Teams** tab of your league. Substitutes have their own tab: the **Substitutes** tab manages the substitute bank of the league and of each team (see [substitutes overview](/substitutes-overview/)).
 
 ## Creating teams
 
@@ -45,7 +45,7 @@ For how searches contact substitutes (favorites, delays, rating ranges), see [su
 
 ## Team notifications
 
-By default, league managers are notified about absences and substitutions. Each team's settings let you route these notifications to the **team captain only** — the captain is informed when a player of that team is absent, is replaced, or when no substitute was found, instead of the league manager. Managers can still choose to receive these notifications for the whole league in the **Notifications** tab of the league settings.
+By default, league managers are notified about absences and substitutions. Each team's settings let you route these notifications to the **team captain only**: the captain is informed when a player of that team is absent, is replaced, or when no substitute was found, instead of the league manager. Managers can still choose to receive these notifications for the whole league in the **Notifications** tab of the league settings.
 
 See [roles and access](/roles-and-access/) for what captains and managers can do.
 

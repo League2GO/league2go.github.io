@@ -13,9 +13,9 @@ League2GO vous avise des demandes de remplacement, des absences, des messages et
 
 ## Les trois canaux
 
-* **Notifications push** — envoyées par l'[application mobile](/notifications-mobile/). Le push est le canal le plus rapide : puisque la place disponible va au premier remplaçant qui accepte, le push vous donne la meilleure chance d'obtenir la place dans la prochaine partie que vous voulez jouer.
-* **SMS (messages texte)** — utilisés pour les joueurs qui n'ont pas installé l'app, incluant l'invitation automatisée envoyée lorsqu'un gestionnaire vous ajoute à une ligue.
-* **Courriel** — utilisé selon vos préférences, et pour les messages qui nécessitent un contenu complet (messages de ligue, invitations).
+* **Notifications push** : envoyées par l'[application mobile](/notifications-mobile/). Le push est le canal le plus rapide : puisque la place disponible va au premier remplaçant qui accepte, le push vous donne la meilleure chance d'obtenir la place dans la prochaine partie que vous voulez jouer.
+* **SMS (messages texte)** : utilisés pour les joueurs qui n'ont pas installé l'app, incluant l'invitation automatisée envoyée lorsqu'un gestionnaire vous ajoute à une ligue.
+* **Courriel** : utilisé selon vos préférences, et pour les messages qui nécessitent un contenu complet (messages de ligue, invitations).
 
 {% include screenshot.html description="Une demande de remplacement reçue comme notification push sur l'écran verrouillé d'un téléphone" %}
 
@@ -31,13 +31,13 @@ Votre ligue peut envoyer un rappel automatique avant chaque partie. Le gestionna
 
 {% include image.html src="help/notifications-league-reminders.fr.png" caption="Paramètres de la ligue > Notifications : activez les rappels de partie et choisissez combien d'heures avant chaque partie les joueurs sont avisés." %}
 
-Si vous ne recevez pas de rappels, votre ligue ne les a peut-être simplement pas activés — demandez à votre gestionnaire de ligue.
+Si vous ne recevez pas de rappels, votre ligue ne les a peut-être simplement pas activés; demandez à votre gestionnaire de ligue.
 
 ## Vos préférences de notification
 
 Vous contrôlez comment League2GO vous contacte depuis votre propre profil : ouvrez votre profil et ajustez vos préférences de notification. Les gestionnaires ne peuvent pas les changer pour vous. Consultez [votre compte](/votre-compte/) pour tout ce que vous pouvez gérer dans votre profil.
 
-{% include image.html src="help/notifications-profile-preferences.fr.png" caption="Chaque joueur choisit comment le joindre — courriel, SMS ou notification mobile (push) — dans les préférences de communication de son profil." %}
+{% include image.html src="help/notifications-profile-preferences.fr.png" caption="Chaque joueur choisit comment le joindre dans les préférences de communication de son profil : courriel, SMS ou notification mobile (push)." %}
 
 ## Les notifications push ne fonctionnent pas ?
 

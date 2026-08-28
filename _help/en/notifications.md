@@ -13,9 +13,9 @@ League2GO notifies you about substitution requests, absences, messages and game 
 
 ## The three channels
 
-* **Push notifications** — sent by the [mobile app](/mobile-notifications/). Push is the fastest channel: since substitution spots go to the first substitute who accepts, push gives you the best chance of getting the available spot in the next game you want to play.
-* **SMS (text messages)** — used for players who have not installed the app, including the automated invitation sent when a manager adds you to a league.
-* **Email** — used according to your preferences, and for messages that need full content (league messages, invitations).
+* **Push notifications**: sent by the [mobile app](/mobile-notifications/). Push is the fastest channel: since substitution spots go to the first substitute who accepts, push gives you the best chance of getting the available spot in the next game you want to play.
+* **SMS (text messages)**: used for players who have not installed the app, including the automated invitation sent when a manager adds you to a league.
+* **Email**: used according to your preferences, and for messages that need full content (league messages, invitations).
 
 {% include screenshot.html description="A substitution request received as a push notification on a phone's lock screen" %}
 
@@ -31,13 +31,13 @@ Your league can send an automatic reminder before each game. The league manager 
 
 {% include image.html src="help/notifications-league-reminders.en.png" caption="League settings > Notifications: enable game reminders and choose how many hours before each game players are notified." %}
 
-If you are not receiving reminders, your league may simply not have them enabled — ask your league manager.
+If you are not receiving reminders, your league may simply not have them enabled. Ask your league manager.
 
 ## Your notification preferences
 
 You control how League2GO contacts you from your own profile: open your profile and adjust your notification preferences. Managers cannot change them for you. See [your account](/your-account/) for everything else you can manage in your profile.
 
-{% include image.html src="help/notifications-profile-preferences.en.png" caption="Each player picks how they are reached — email, SMS or mobile push — in the communication preferences of their profile." %}
+{% include image.html src="help/notifications-profile-preferences.en.png" caption="Each player picks how they are reached (email, SMS or mobile push) in the communication preferences of their profile." %}
 
 ## Push notifications not working?
 
