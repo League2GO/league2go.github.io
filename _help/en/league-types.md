@@ -38,7 +38,6 @@ Before a game starts, open the game details and click Create lineup. Assign play
 
 Once satisfied, select Send lineup to players to notify everyone, or print the lineup to post at the arena.
 
-{% include screenshot.html description="Lineup email received by a player, showing both generated teams for an upcoming pick-up game" %}
 
 Even in a pick-up league, the two teams have a name, a color and a logo you can customize in the Teams tab. See [teams and team settings](/teams-and-team-settings/).
 

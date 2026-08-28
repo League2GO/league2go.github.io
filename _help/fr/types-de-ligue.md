@@ -38,7 +38,6 @@ Avant le début d'une partie, ouvrez le détail de la partie puis cliquez sur Cr
 
 Une fois satisfait, cochez Envoyer l'alignement aux joueurs pour aviser tout le monde, ou imprimez l'alignement pour l'afficher à l'aréna.
 
-{% include screenshot.html description="Courriel d'alignement reçu par un joueur, montrant les deux équipes générées pour une partie pick-up à venir" %}
 
 Même dans une ligue pick-up, les deux équipes ont un nom, une couleur et un logo que vous pouvez personnaliser dans l'onglet Équipes. Consultez [équipes et paramètres](/equipes-et-parametres/).
 
