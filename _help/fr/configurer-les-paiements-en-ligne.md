@@ -43,9 +43,9 @@ Finalement, entrez une adresse courriel et un mot de passe pour votre compte Str
 Pour chaque montant que vous facturez, vous entrez le **revenu désiré pour la ligue**, et les frais de traitement sont ajoutés par-dessus au paiement du joueur : la ligue reçoit le montant complet que vous avez entré.
 
 * **Frais Stripe** : 2,9 % + 0,30 $ par transaction (sur chaque paiement).
-* **Frais League2GO** : 1,00 $ par paiement de **remplaçant**. Les paiements des joueurs réguliers (frais de saison) n'ont **aucun frais League2GO**.
+* **Frais League2GO** : un montant fixe par paiement de **remplaçant**. Les paiements des joueurs réguliers (frais de saison) n'ont **aucuns frais League2GO**.
 
-Le montant réellement chargé au joueur, frais inclus, est affiché lorsque vous configurez le prix.
+Vous n'avez pas à faire ce calcul : le tableau des prix affiche le montant exact facturé au joueur à côté de chaque prix que vous entrez, et les frais courants sont détaillés juste en dessous.
 
 ## Facturer les remplaçants par partie
 

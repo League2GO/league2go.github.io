@@ -23,7 +23,7 @@ Then, in the **Statistics** tab of your league settings, decide which statistics
 
 Each game has a **Results** tab. From there, enter the score, goals, penalties, and each player's statistics. You can enter the information live during the game from a tablet or a phone. Once a game's data is entered, players in the game can open the Results tab to consult it.
 
-{% include image.html src="help/results-entry.en.png" caption="A game's Results tab in edit mode: the score entry at the top and the per-player statistics grid below, with goals and assists being filled in for each player." %}
+{% include image.html src="help/results-entry.en.png" caption="The per-player statistics grid in a game's Results tab, with goals and assists being entered for each player" %}
 
 League administrators can enter results, and you can also give someone the **scorekeeper** role so they can enter results without other management rights. See [roles and access](/roles-and-access/).
 

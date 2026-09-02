@@ -23,7 +23,7 @@ Ensuite, dans l'onglet **Statistiques** des paramètres de la ligue, décidez de
 
 Chaque partie possède un onglet **Résultats**. À partir de celui-ci, saisissez le pointage, les buts, les pénalités ainsi que les statistiques de chaque joueur. Vous pouvez entrer l'information en direct pendant la partie avec une tablette ou votre téléphone mobile. Lorsque les données d'une partie sont saisies, les joueurs de la partie peuvent consulter l'onglet Résultats.
 
-{% include image.html src="help/results-entry.fr.png" caption="L'onglet Résultats d'une partie en mode édition : la saisie du pointage en haut et la grille des statistiques par joueur en dessous, avec les buts et les assistances remplis pour chaque joueur." %}
+{% include image.html src="help/results-entry.fr.png" caption="La grille des statistiques par joueur dans l'onglet Résultats d'une partie, où l'on saisit les buts et les passes de chaque joueur" %}
 
 Les administrateurs de la ligue peuvent saisir les résultats, et vous pouvez aussi donner à quelqu'un le rôle de **marqueur** pour qu'il saisisse les résultats sans autres droits de gestion (voir [rôles et accès](/roles-et-acces/)).
 

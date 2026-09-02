@@ -43,9 +43,9 @@ Finally, enter an email address and password for your Stripe account. Use them a
 For every amount you charge, you enter the **revenue you want the league to receive**, and the processing fees are added on top of the player's payment, so the league gets the full amount you entered.
 
 * **Stripe fee**: 2.9% + $0.30 per transaction (charged on every payment).
-* **League2GO fee**: $1.00 per **substitute** payment. Regular-player payments (season fees) have **no League2GO fee**.
+* **League2GO fee**: a fixed amount per **substitute** payment. Regular-player payments (season fees) have **no League2GO fee**.
 
-The amount actually charged to the player, fees included, is shown when you configure the price.
+You never have to compute this yourself: the price table lists the exact amount charged to the player beside each price you enter, and the current fees are spelled out underneath it.
 
 ## Charging substitutes per game
 
