@@ -4,16 +4,16 @@ lang: en
 localization: adding-players
 category: managers
 order: 20
-description: "Invite players by email or phone, understand how they register, and fix common invitation problems."
+description: "Invite players by email or phone, understand how they register, and get everyone onto the schedule quickly."
 redirect_from:
   - /simplified-player-management/
   - /registration-reminder/
 ---
-This guide explains how to add players to your league, how they get access to their schedule, and how to fix the most common problems along the way.
+This guide explains how to add players to your league, how they get access to their schedule, and how to make their onboarding smooth.
 
 ## How joining works: there is no invite link
 
-Understanding this model prevents almost every "my player can't see the league" problem:
+Understanding this model is the key to a smooth start for every player:
 
 * When you add a player, you enter their **email address and cell number**. League2GO automatically sends them a welcome message inviting them to register; you never need to create or share an invite link.
 * The player then creates their own account at [league2go.com](https://league2go.com) using the **exact same email address and cell number** you entered. This match is what links their account to your league.

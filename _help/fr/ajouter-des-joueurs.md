@@ -4,16 +4,16 @@ lang: fr
 localization: adding-players
 category: managers
 order: 20
-description: "Invitez vos joueurs par courriel ou par cellulaire, comprenez comment ils s'enregistrent et corrigez les problèmes d'invitation."
+description: "Invitez vos joueurs par courriel ou par cellulaire, comprenez comment ils s'enregistrent et donnez-leur rapidement accès au calendrier."
 redirect_from:
   - /gestion-de-joueurs-simplifiee/
   - /rappel-enregistrement/
 ---
-Ce guide explique comment ajouter des joueurs à votre ligue, comment ils obtiennent l'accès à leur calendrier et comment corriger les problèmes les plus fréquents.
+Ce guide explique comment ajouter des joueurs à votre ligue, comment ils obtiennent l'accès à leur calendrier et comment rendre leur arrivée fluide.
 
 ## Comment ça fonctionne : il n'y a pas de lien d'invitation
 
-Comprendre ce modèle évite presque tous les problèmes du type « mon joueur ne voit pas la ligue » :
+Comprendre ce modèle est la clé d'un démarrage sans accroc pour chaque joueur :
 
 * Lorsque vous ajoutez un joueur, vous entrez son **adresse courriel et son numéro de cellulaire**. League2GO lui envoie automatiquement un message de bienvenue l'invitant à s'enregistrer : vous n'avez jamais de lien d'invitation à créer ou à partager.
 * Le joueur crée ensuite lui-même son compte sur [league2go.com](https://league2go.com) avec **exactement la même adresse courriel et le même numéro de cellulaire** que vous avez entrés. C'est cette correspondance qui lie son compte à votre ligue.
