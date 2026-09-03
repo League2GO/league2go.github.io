@@ -50,16 +50,16 @@ When you substitute a player manually, you can choose to **automatically notify 
 
 For how automatic searches work, see the [substitute search overview](/substitutes-overview/) and the [search settings reference](/substitute-search-settings/).
 
-## Simple lineup or lines (trios)
+## Simple lineup or lines
 
 The lineup can be displayed in two modes:
 
 * **Simple lineup**: a flat list of players and positions.
-* **Lines (trios)**: players grouped into forward lines and pairings.
+* **Lines**: players grouped into forward lines and defence pairings, with the goaltender on their own.
 
-A toggle lets you switch between the two modes, so leagues that do not organize lines can keep the simple view. <!-- TODO: verify exact toggle label and location -->
+Open the lineup editor with **Edit Lineup** and use the **Lineup type** selector to switch between the two, so leagues that do not organize lines can keep the simple view.
 
-{% include image.html src="help/game-day-lineup-type-toggle.en.png" caption="The Lineup type selector in the lineup editor switches the display between the simple lineup and attack trios (forward lines)." %}
+{% include image.html src="help/game-day-lineup-type-toggle.en.png" caption="The Lineup type selector in the lineup editor switches the display between the simple lineup and lines." %}
 
 ## Printing the lineup
 
