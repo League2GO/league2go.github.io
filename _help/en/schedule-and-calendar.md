@@ -33,9 +33,9 @@ To see a game's details, click the game in the calendar. Managers run game-day a
 
 ## Moving or rescheduling a game
 
-The date and time of a game **cannot be edited**. Automated substitute searches are tied to the game's date, and changing dates broke searches already in progress, so date editing is disabled.
+From the league calendar, you can edit a game's **start and end time**, its teams, its location and its type (game or practice). What cannot change is the **day**: a game stays on the calendar day it was created on.
 
-To "move" a game:
+To move a game to another day:
 
 1. **Delete the game** from the league calendar, **before its start time**. The game credit is automatically returned to you.
 2. **Create a new game** at the new date and time.

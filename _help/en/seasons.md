@@ -20,8 +20,6 @@ To see them again, do one of the following:
 
 {% include image.html src="help/seasons-schedule-filter.en.png" caption="The league schedule with the current season selected in the Season filter; the X beside the season name clears the filter and shows every season's games." %}
 
-This also explains games that seem to appear out of nowhere, or players reporting they cannot see their schedule: check which season is selected and what its dates are.
-
 ## Creating a season
 
 To create a season, go to the **Seasons** tab of your league settings. Add a season with a name and its start and end dates. All games whose date falls within that range belong to the season.

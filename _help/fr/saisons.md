@@ -20,8 +20,6 @@ Pour les revoir, faites l'une des deux choses suivantes :
 
 {% include image.html src="help/seasons-schedule-filter.fr.png" caption="Le calendrier de la ligue avec la saison en cours sélectionnée dans le filtre Saison; le X à côté du nom de la saison efface le filtre et affiche les parties de toutes les saisons." %}
 
-Cela explique aussi des parties qui semblent apparaître de nulle part, ou des joueurs qui disent ne pas voir leur horaire : vérifiez quelle saison est sélectionnée et quelles sont ses dates.
-
 ## Créer une saison
 
 Pour créer une saison, allez dans l'onglet **Saisons** des paramètres de votre ligue. Ajoutez une saison avec un nom ainsi que ses dates de début et de fin. Toutes les parties dont la date se trouve dans cette plage appartiennent à la saison.

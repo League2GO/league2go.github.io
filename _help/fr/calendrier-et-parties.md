@@ -33,9 +33,9 @@ Pour voir le détail d'une partie, cliquez sur la partie dans le calendrier. C'e
 
 ## Déplacer une partie
 
-La date et l'heure d'une partie **ne peuvent pas être modifiées**. Les recherches automatisées de remplaçants sont liées à la date de la partie, et le changement de date brisait les recherches déjà en cours ; la modification de la date est donc désactivée.
+À partir du calendrier de la ligue, vous pouvez modifier l'**heure de début et de fin** d'une partie, ses équipes, son lieu et son type (partie ou pratique). Ce qui ne change pas, c'est le **jour** : une partie reste au jour où elle a été créée.
 
-Pour « déplacer » une partie :
+Pour déplacer une partie à un autre jour :
 
 1. **Supprimez la partie** à partir du calendrier de la ligue, **avant son heure de début**. Le crédit de partie vous est automatiquement remboursé.
 2. **Créez une nouvelle partie** à la nouvelle date et heure.
