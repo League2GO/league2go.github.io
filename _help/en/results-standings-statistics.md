@@ -37,7 +37,9 @@ Standings are computed from the results you enter. When teams are tied, tiebreak
 
 ## Who can see individual statistics
 
-By default, individual player statistics are visible to managers and team captains. A league setting lets you open them to all players; if your players report they cannot see statistics, check this setting in the **Statistics** tab of your league settings. <!-- TODO: verify exact setting name -->
+By default, individual player statistics are visible to everyone in the league, players included. To keep them for league staff only, open the **Statistics** tab of your league settings and check **Display player standings only to managers, captains, and scorekeepers**. The same tab also lets you choose which of the recorded statistics are displayed, and, with **Player type for stats**, whether the tables cover regular players, substitutes, or both.
+
+{% include image.html src="help/statistics-visibility-setting.en.png" caption="League settings > Statistics: the highlighted checkbox restricts individual statistics to managers, captains and scorekeepers; below it, the switches choose which statistics are displayed." %}
 
 ## Substitute statistics
 

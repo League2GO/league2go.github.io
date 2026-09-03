@@ -37,7 +37,9 @@ Le classement est calculé à partir des résultats que vous saisissez. Lorsque 
 
 ## Qui peut voir les statistiques individuelles
 
-Par défaut, les statistiques individuelles des joueurs sont visibles pour les gestionnaires et les capitaines d'équipe. Un paramètre de la ligue permet de les ouvrir à tous les joueurs ; si vos joueurs vous disent qu'ils ne voient pas les statistiques, vérifiez ce paramètre dans l'onglet **Statistiques** des paramètres de la ligue. <!-- TODO: vérifier le nom exact du paramètre -->
+Par défaut, les statistiques individuelles des joueurs sont visibles par tous les membres de la ligue, joueurs compris. Pour les réserver au personnel de la ligue, ouvrez l'onglet **Statistiques** des paramètres de la ligue et cochez **Afficher le classement des joueurs uniquement aux gestionnaires, capitaines et marqueurs**. Le même onglet permet aussi de choisir quelles statistiques enregistrées sont affichées et, avec **Type de joueur pour les stats**, si les tableaux couvrent les joueurs réguliers, les remplaçants ou les deux.
+
+{% include image.html src="help/statistics-visibility-setting.fr.png" caption="Paramètres de la ligue > Statistiques : la case encadrée réserve les statistiques individuelles aux gestionnaires, capitaines et marqueurs; en dessous, les commutateurs choisissent les statistiques affichées." %}
 
 ## Statistiques des remplaçants
 
