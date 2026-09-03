@@ -17,8 +17,6 @@ League2GO notifies you about substitution requests, absences, messages and game 
 * **SMS (text messages)**: used for players who have not installed the app, including the automated invitation sent when a manager adds you to a league.
 * **Email**: used according to your preferences, and for messages that need full content (league messages, invitations).
 
-{% include screenshot.html description="A substitution request received as a push notification on a phone's lock screen" %}
-
 ## The rules to know
 
 * **Push replaces SMS once the app is installed.** As soon as you sign in to the mobile app and allow notifications, League2GO sends you push notifications instead of SMS.

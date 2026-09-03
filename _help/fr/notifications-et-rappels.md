@@ -17,8 +17,6 @@ League2GO vous avise des demandes de remplacement, des absences, des messages et
 * **SMS (messages texte)** : utilisés pour les joueurs qui n'ont pas installé l'app, incluant l'invitation automatisée envoyée lorsqu'un gestionnaire vous ajoute à une ligue.
 * **Courriel** : utilisé selon vos préférences, et pour les messages qui nécessitent un contenu complet (messages de ligue, invitations).
 
-{% include screenshot.html description="Une demande de remplacement reçue comme notification push sur l'écran verrouillé d'un téléphone" %}
-
 ## Les règles à connaître
 
 * **Le push remplace le SMS dès que l'app est installée.** Dès que vous vous connectez à l'application mobile et autorisez les notifications, League2GO vous envoie des notifications push au lieu de SMS.
