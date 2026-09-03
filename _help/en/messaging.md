@@ -35,11 +35,6 @@ Besides one-way messages, League2GO offers a chat where players can talk with ea
 * Admins choose the chat scope in the league settings: a league-wide chat or one chat per team. <!-- TODO: verify exact setting name/location -->
 * Messages can include text and pictures.
 
-## Which one should I use?
-
-* Use a **message** for anything players must not miss (schedule changes, cancellations): it reaches them by email, push or SMS.
-* Use the **chat** for informal conversation (carpooling, post-game plans) where players participate at their own pace.
-
 For automated communication (game reminders, absence and substitution notices), see [notifications and reminders](/notifications/).
 
 Questions? Contact us at [info@league2go.com](mailto:info@league2go.com).

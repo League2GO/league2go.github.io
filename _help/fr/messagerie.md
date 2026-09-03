@@ -35,11 +35,6 @@ En plus des messages, League2GO offre un clavardage où les joueurs peuvent disc
 * Les administrateurs choisissent la portée du clavardage dans les paramètres de la ligue : un clavardage pour toute la ligue ou un clavardage par équipe. <!-- TODO: verify exact setting name/location -->
 * Les messages peuvent contenir du texte et des photos.
 
-## Lequel utiliser ?
-
-* Utilisez un **message** pour tout ce que les joueurs ne doivent pas manquer (changements d'horaire, annulations) : il les joint par courriel, push ou SMS.
-* Utilisez le **clavardage** pour les conversations informelles (covoiturage, plans d'après-partie) où les joueurs participent à leur rythme.
-
 Pour les communications automatisées (rappels de partie, avis d'absence et de remplacement), voir [notifications et rappels](/notifications-et-rappels/).
 
 Des questions ? Écrivez-nous à [info@league2go.com](mailto:info@league2go.com).
