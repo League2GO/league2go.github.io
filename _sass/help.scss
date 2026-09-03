@@ -159,6 +159,18 @@ img {
       text-decoration: none;
     }
   }
+
+  // Phones: the logo already links home, so the Help center link is
+  // redundant and only made the nav wrap under the brand.
+  @media (max-width: 640px) {
+    nav ul {
+      flex-wrap: nowrap;
+    }
+
+    nav .nav-help {
+      display: none;
+    }
+  }
 }
 
 // ---- Hero (home + search) ----
