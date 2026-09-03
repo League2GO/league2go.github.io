@@ -23,7 +23,7 @@ Si le joueur s'inscrit avec un courriel ou un numéro différent de celui que vo
 
 ## Ajouter un joueur à une équipe
 
-Pour ajouter un joueur, ouvrez l'onglet **Équipes** de votre ligue et cliquez sur l'icône **+** au bas de la section d'une équipe. Entrez l'adresse courriel ou le numéro de cellulaire du joueur : c'est l'information qu'il utilisera pour se connecter à League2GO. Vous pouvez aussi définir ses positions, son numéro de chandail et d'autres détails (voir [gérer les joueurs](/gerer-les-joueurs/)).
+Pour ajouter un joueur, ouvrez l'onglet **Équipes** de votre ligue et cliquez sur le bouton **Ajouter un joueur** sous la liste des joueurs de l'équipe. Entrez l'adresse courriel ou le numéro de cellulaire du joueur : c'est l'information qu'il utilisera pour se connecter à League2GO. Vous pouvez aussi définir ses positions, son numéro de chandail et d'autres détails (voir [gérer les joueurs](/gerer-les-joueurs/)).
 
 {% include image.html src="help/add-player-email-phone.fr.png" caption="Le formulaire d'ajout de joueur : les champs courriel et cellulaire viennent en premier : c'est ce qui relie le compte du joueur." %}
 

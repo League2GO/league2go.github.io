@@ -23,7 +23,7 @@ If the player signs up with a different email or phone number than the one you t
 
 ## Adding a player to a team
 
-To add a player, open the **Teams** tab of your league and click the **+** icon at the bottom of a team section. Enter the player's email address or cell number: this is the information they will use to sign in to League2GO. You can also set their positions, jersey number and other details (see [managing players](/managing-players/)).
+To add a player, open the **Teams** tab of your league and click the **Add player** button below the team's roster. Enter the player's email address or cell number: this is the information they will use to sign in to League2GO. You can also set their positions, jersey number and other details (see [managing players](/managing-players/)).
 
 {% include image.html src="help/add-player-email-phone.en.png" caption="The add-player form: the email and cell number fields come first; they are how the player's account gets linked." %}
 

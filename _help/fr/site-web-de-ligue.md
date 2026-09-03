@@ -33,7 +33,7 @@ Utilisez l'onglet **Nouvelles** pour informer vos joueurs des dernières mises �
 
 Trois pages intégrées vous permettent de publier de l'information sur votre ligue : **Règlements**, **À propos** et **Partenaires**. Entrez votre contenu à l'aide de l'éditeur de texte, puis activez chaque page pour qu'elle soit affichée dans le menu de votre site. Le format que vous configurez est respecté sur la page publiée. L'éditeur permet de téléverser des images, choisir la couleur du texte, ajouter des séparateurs, des tables et des vidéos, et prévisualiser la page avant de la publier.
 
-Pour ajouter une **page personnalisée**, allez dans l'onglet Site web des paramètres de votre ligue et cliquez sur le bouton **« + »** dans le bas du tableau **Pages**. Saisissez le nom de la page affiché dans le menu, son adresse ainsi que son contenu. Vous pouvez aussi changer l'ordre des pages dans le menu.
+Pour ajouter une **page personnalisée**, allez dans l'onglet **Site web** des paramètres de votre ligue et cliquez sur la pastille **Ajouter une page** au bout de la rangée d'onglets. Saisissez le nom de la page affiché dans le menu, son adresse ainsi que son contenu. Vos pages personnalisées apparaissent ensuite dans la liste **Pages** de l'onglet **Général**, où un commutateur affiche ou masque chacune d'elles et où les flèches déterminent leur ordre dans le menu du site.
 
 {% include image.html src="help/website-pages.fr.png" caption="La liste Pages de l'onglet Site web : pages intégrées et personnalisées, chacune avec son commutateur d'affichage et les flèches pour réordonner le menu du site." %}
 
