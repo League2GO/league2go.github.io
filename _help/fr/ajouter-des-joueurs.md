@@ -46,23 +46,6 @@ Notez que les invitations par SMS cessent d'être envoyées aux joueurs qui ne s
 
 Si un joueur vous dit « je ne vois pas la ligue », comparez lettre par lettre le courriel et le numéro de cellulaire entrés dans votre ligue avec ceux de son compte : une différence est presque toujours la cause.
 
-## Changer un joueur d'équipe
-
-Pas besoin de supprimer et de recréer un joueur pour réorganiser vos alignements. Dans l'onglet **Équipes**, ouvrez le menu d'actions à côté d'un joueur pour le déplacer vers une autre équipe en un seul clic.
-
-{% include image.html src="help/player-move-actions-menu.fr.png" caption="Le menu d'actions d'un joueur, avec Changer d'équipe et les actions de déplacement vers les remplaçants." %}
-
-## Convertir un joueur en remplaçant (et l'inverse)
-
-Les mêmes menus d'actions permettent de déplacer les personnes entre vos équipes et votre banque de remplaçants :
-
-* Dans l'onglet **Équipes**, utilisez le menu d'actions d'un joueur pour le déplacer dans la banque de [remplaçants](/gerer-les-remplacants/) de votre ligue.
-* Dans l'onglet **Remplaçants**, utilisez le menu d'actions d'un remplaçant pour en faire un joueur régulier d'une équipe.
-
-La personne conserve le même compte dans les deux cas : seul son rôle dans votre ligue change.
-
-## Les capitaines peuvent vous aider
-
-Les capitaines d'équipe peuvent déclarer les absences des joueurs de leur équipe, lancer des recherches de remplaçants et modifier l'information des joueurs qui ne sont pas encore enregistrés. Consultez [rôles et accès](/roles-et-acces/) pour savoir ce que chaque rôle peut faire.
+Une fois vos joueurs en place, consultez [gérer les joueurs](/gerer-les-joueurs/) pour les changer d'équipe, les convertir en remplaçants et remplir leur numéro de chandail, leurs positions et leur force.
 
 Des questions ? Écrivez-nous à [info@league2go.com](mailto:info@league2go.com).

@@ -1,15 +1,30 @@
 ---
-title: "Managing players: numbers, positions, skills and notes"
+title: "Managing players: teams, numbers, positions, skills and notes"
 lang: en
 localization: managing-players
 category: managers
 order: 30
-description: "Set jersey numbers, positions and skill ratings, and keep private notes on your players."
+description: "Move players between teams and roles, set jersey numbers, positions and skill ratings, and keep private notes."
 redirect_from:
   - /jersey-numbers/
   - /player-ranking/
 ---
-Once your players are [added to your league](/adding-players/), you can enrich their profile with a jersey number, positions, a skill rating and private notes. This guide covers each of them.
+Once your players are [added to your league](/adding-players/), you can reorganize your rosters and enrich each profile with a jersey number, positions, a skill rating and private notes. This guide covers each of them.
+
+## Moving players between teams
+
+You don't need to delete and recreate a player to reorganize your rosters. In the **Teams** tab, open the action menu next to a player to move them to another team in one click.
+
+{% include image.html src="help/player-move-actions-menu.en.png" caption="A player's action menu, with Change team and the move-to-substitutes actions." %}
+
+## Converting a player to a substitute (and back)
+
+The same action menus let you move people between your rosters and your substitute pool:
+
+* In the **Teams** tab, use a player's action menu to move them to your league's pool of [substitutes](/managing-substitutes/).
+* In the **Substitutes** tab, use a substitute's action menu to make them a regular player on a team.
+
+The person keeps the same account either way; only their role in your league changes.
 
 ## Jersey numbers
 
@@ -59,5 +74,9 @@ Skill ratings are visible only to league managers and team captains; players do 
 You can write notes on each player or substitute in your league: for example payment reminders, availability quirks, or anything useful to your management. Notes are visible only to league managers and to the captains of the player's team; players never see them.
 
 {% include image.html src="help/player-notes-field.en.png" caption="The notes field on the edit-player form; notes are visible to managers and captains only." %}
+
+## Captains can help
+
+Team captains can declare absences for the players of their team, launch substitute searches, and edit the information of players who have not yet registered. See [roles and access](/roles-and-access/) for what each role can do.
 
 Questions? Contact us at [info@league2go.com](mailto:info@league2go.com).

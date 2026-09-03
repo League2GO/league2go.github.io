@@ -1,15 +1,30 @@
 ---
-title: "Gérer les joueurs : numéros, positions, forces et notes"
+title: "Gérer les joueurs : équipes, numéros, positions, forces et notes"
 lang: fr
 localization: managing-players
 category: managers
 order: 30
-description: "Attribuez numéros de chandail, positions et forces, et conservez des notes privées sur vos joueurs."
+description: "Changez vos joueurs d'équipe ou de rôle, attribuez numéros de chandail, positions et forces, et conservez des notes privées."
 redirect_from:
   - /numeros-de-chandail/
   - /forces-de-joueur/
 ---
-Une fois vos joueurs [ajoutés à votre ligue](/ajouter-des-joueurs/), vous pouvez enrichir leur profil avec un numéro de chandail, des positions, une force et des notes privées. Ce guide couvre chacun de ces éléments.
+Une fois vos joueurs [ajoutés à votre ligue](/ajouter-des-joueurs/), vous pouvez réorganiser vos équipes et enrichir chaque profil avec un numéro de chandail, des positions, une force et des notes privées. Ce guide couvre chacun de ces éléments.
+
+## Changer un joueur d'équipe
+
+Pas besoin de supprimer et de recréer un joueur pour réorganiser vos alignements. Dans l'onglet **Équipes**, ouvrez le menu d'actions à côté d'un joueur pour le déplacer vers une autre équipe en un seul clic.
+
+{% include image.html src="help/player-move-actions-menu.fr.png" caption="Le menu d'actions d'un joueur, avec Changer d'équipe et les actions de déplacement vers les remplaçants." %}
+
+## Convertir un joueur en remplaçant (et l'inverse)
+
+Les mêmes menus d'actions permettent de déplacer les personnes entre vos équipes et votre banque de remplaçants :
+
+* Dans l'onglet **Équipes**, utilisez le menu d'actions d'un joueur pour le déplacer dans la banque de [remplaçants](/gerer-les-remplacants/) de votre ligue.
+* Dans l'onglet **Remplaçants**, utilisez le menu d'actions d'un remplaçant pour en faire un joueur régulier d'une équipe.
+
+La personne conserve le même compte dans les deux cas : seul son rôle dans votre ligue change.
 
 ## Numéros de chandail
 
@@ -59,5 +74,9 @@ Les forces sont visibles seulement par les gestionnaires de la ligue et les capi
 Vous pouvez rédiger des notes au sujet de chaque joueur ou remplaçant de votre ligue : par exemple des rappels de paiement, des disponibilités particulières ou toute information utile à votre gestion. Les notes sont visibles seulement par les gestionnaires de la ligue et les capitaines de l'équipe du joueur ; les joueurs ne les voient jamais.
 
 {% include image.html src="help/player-notes-field.fr.png" caption="Le champ notes du formulaire de modification d'un joueur; les notes ne sont visibles que par les gestionnaires et les capitaines." %}
+
+## Les capitaines peuvent vous aider
+
+Les capitaines d'équipe peuvent déclarer les absences des joueurs de leur équipe, lancer des recherches de remplaçants et modifier l'information des joueurs qui ne sont pas encore enregistrés. Consultez [rôles et accès](/roles-et-acces/) pour savoir ce que chaque rôle peut faire.
 
 Des questions ? Écrivez-nous à [info@league2go.com](mailto:info@league2go.com).

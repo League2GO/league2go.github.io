@@ -45,7 +45,7 @@ Sélectionnez l'**étoile** à droite d'un remplaçant pour le désigner comme f
 
 ## Convertir un remplaçant en régulier (et l'inverse)
 
-Un bon remplaçant devient souvent un régulier la saison suivante, et un régulier qui ne peut jouer qu'à l'occasion fait un excellent remplaçant. Vous pouvez convertir un joueur d'un rôle à l'autre à partir des onglets Équipes et Remplaçants, sans le supprimer et le réajouter. <!-- TODO: verify exact control/menu for converting substitute <-> regular -->
+Un bon remplaçant devient souvent un régulier la saison suivante, et un régulier qui ne peut jouer qu'à l'occasion fait un excellent remplaçant. Vous pouvez convertir un joueur d'un rôle à l'autre à partir des menus d'actions des onglets **Équipes** et **Remplaçants**, sans le supprimer et le réajouter. Consultez [gérer les joueurs](/gerer-les-joueurs/).
 
 ## Choisir un remplaçant manuellement
 

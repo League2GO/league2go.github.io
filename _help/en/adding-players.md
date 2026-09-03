@@ -46,23 +46,6 @@ Note that SMS invitations stop being sent to players who still haven't registere
 
 If a player says "I can't see the league", compare letter for letter the email and cell number in your league with the ones on their account: a mismatch is almost always the cause.
 
-## Moving players between teams
-
-You don't need to delete and recreate a player to reorganize your rosters. In the **Teams** tab, open the action menu next to a player to move them to another team in one click.
-
-{% include image.html src="help/player-move-actions-menu.en.png" caption="A player's action menu, with Change team and the move-to-substitutes actions." %}
-
-## Converting a player to a substitute (and back)
-
-The same action menus let you move people between your rosters and your substitute pool:
-
-* In the **Teams** tab, use a player's action menu to move them to your league's pool of [substitutes](/managing-substitutes/).
-* In the **Substitutes** tab, use a substitute's action menu to make them a regular player on a team.
-
-The person keeps the same account either way; only their role in your league changes.
-
-## Captains can help
-
-Team captains can declare absences for the players of their team, launch substitute searches, and edit the information of players who have not yet registered. See [roles and access](/roles-and-access/) for what each role can do.
+Once your players are in, see [managing players](/managing-players/) to move them between teams, convert them to substitutes, and fill in their jersey numbers, positions and skills.
 
 Questions? Contact us at [info@league2go.com](mailto:info@league2go.com).

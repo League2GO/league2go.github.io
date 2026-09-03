@@ -45,7 +45,7 @@ Select the **star** beside a substitute to mark them as a favorite. Favorites ar
 
 ## Converting between substitute and regular
 
-A good substitute often becomes a regular the next season, and a regular who can only play occasionally makes a fine substitute. You can convert a player between the two roles from the Teams and Substitutes tabs instead of deleting and re-adding them. <!-- TODO: verify exact control/menu for converting substitute <-> regular -->
+A good substitute often becomes a regular the next season, and a regular who can only play occasionally makes a fine substitute. You can convert a player between the two roles from the action menus of the **Teams** and **Substitutes** tabs instead of deleting and re-adding them. See [managing players](/managing-players/).
 
 ## Picking a substitute manually
 
