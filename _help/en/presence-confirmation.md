@@ -27,7 +27,7 @@ Choose this model if your attendance is unpredictable (for example when silence 
 
 ## Enabling confirmation mode
 
-Presence confirmation is **opt-in**. A league administrator enables it with a toggle in the league settings. <!-- TODO: verify exact setting name and location -->
+Presence confirmation is **opt-in** and is turned on per league by the League2GO team: [contact us](mailto:info@league2go.com) to have it enabled for your league. Once it is, the option **Request presence confirmation** appears in the **Notifications** tab of your league settings, under the game reminder, and you switch it on or off there. It is only offered while the game reminder is on, since that reminder is what asks players to confirm.
 
 ## What players see
 

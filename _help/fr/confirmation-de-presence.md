@@ -27,7 +27,7 @@ Choisissez ce modèle si vos présences sont imprévisibles (par exemple lorsque
 
 ## Activer le mode confirmation
 
-La confirmation de présence est **optionnelle**. Un administrateur de la ligue l'active avec une option dans les paramètres de la ligue. <!-- TODO: vérifier le nom exact et l'emplacement du paramètre -->
+La confirmation de présence est **optionnelle** et est activée ligue par ligue par l'équipe League2GO : [écrivez-nous](mailto:info@league2go.com) pour la faire activer pour votre ligue. Une fois activée, l'option **Demander une confirmation de présence aux joueurs** apparaît dans l'onglet **Notifications** des paramètres de votre ligue, sous le rappel de partie, et c'est là que vous l'activez ou la désactivez. Elle n'est offerte que lorsque le rappel de partie est activé, puisque c'est ce rappel qui demande aux joueurs de confirmer.
 
 ## Ce que les joueurs voient
 
