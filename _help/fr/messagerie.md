@@ -33,10 +33,7 @@ Si un joueur dit ne pas avoir reçu votre message, demandez-lui de vérifier ses
 En plus des messages, League2GO offre un clavardage où les joueurs peuvent discuter entre eux dans l'application.
 
 * Les administrateurs choisissent la portée du clavardage dans les paramètres de la ligue : un clavardage pour toute la ligue ou un clavardage par équipe. <!-- TODO: verify exact setting name/location -->
-* Le clavardage est en texte seulement : les pièces jointes ne sont pas prises en charge.
-* Les messages envoyés ne peuvent pas être supprimés. <!-- TODO: verify current behavior -->
-
-{% include screenshot.html description="Vue du clavardage intégré montrant une conversation d'équipe, avec l'option des paramètres de la ligue qui contrôle la portée du clavardage montrée ou référencée" %}
+* Les messages peuvent contenir du texte et des photos.
 
 ## Lequel utiliser ?
 

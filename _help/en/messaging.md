@@ -33,10 +33,7 @@ If a player says they didn't get your message, have them check their notificatio
 Besides one-way messages, League2GO offers a chat where players can talk with each other in the app.
 
 * Admins choose the chat scope in the league settings: a league-wide chat or one chat per team. <!-- TODO: verify exact setting name/location -->
-* The chat is text only; attachments are not supported.
-* Sent messages cannot be deleted. <!-- TODO: verify current behavior -->
-
-{% include screenshot.html description="In-app chat view showing a team conversation, with the league settings option that controls the chat scope shown or referenced" %}
+* Messages can include text and pictures.
 
 ## Which one should I use?
 
