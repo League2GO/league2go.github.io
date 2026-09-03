@@ -19,11 +19,9 @@ Voyez un exemple en ligne au [https://league2go.com/demofr](https://league2go.co
 
 Allez dans l'onglet **Site web** des paramètres de votre ligue et activez le site web. Cela rend l'information que vous choisissez accessible sur internet, aux visiteurs non authentifiés.
 
-Entrez le mot-clé qui identifiera votre ligue dans l'adresse de votre site. Par exemple, si vous entrez « demofr », l'adresse de votre site sera `https://league2go.com/demofr`. Sauvegardez, puis configurez les pages de votre site.
+Entrez le mot-clé qui identifiera votre ligue dans l'adresse de votre site. Par exemple, si vous entrez « liguerivesud », l'adresse de votre site sera `https://league2go.com/liguerivesud`. Sauvegardez, puis configurez les pages de votre site.
 
 {% include image.html src="help/website-activation.fr.png" caption="Paramètres de la ligue > onglet Site web : l'option d'activation du site activée et le champ du mot-clé de la ligue qui forme l'adresse web publique." %}
-
-**Si votre site web semble avoir disparu**, vérifiez d'abord cette option d'activation : le site n'est publié que lorsqu'elle est activée.
 
 ## Choisir et modifier les pages
 

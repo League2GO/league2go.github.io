@@ -19,11 +19,9 @@ See a live example at [https://league2go.com/demoen](https://league2go.com/demoe
 
 Go to the **Website** tab of your league settings and activate the website. This makes the information you choose available on the internet, to visitors who are not signed in.
 
-Enter the keyword that identifies your league in your site address. For example, if you enter "demoen", your website's address is `https://league2go.com/demoen`. Save, then configure the pages of your site.
+Enter the keyword that identifies your league in your site address. For example, if you enter "riversidehockey", your website's address is `https://league2go.com/riversidehockey`. Save, then configure the pages of your site.
 
 {% include image.html src="help/website-activation.en.png" caption="League settings > Website tab: the site activation toggle turned on and the league keyword field that forms your public web address." %}
-
-**If your website seems to have disappeared**, check this activation toggle first: the site is only published while it is turned on.
 
 ## Choosing and editing pages
 
