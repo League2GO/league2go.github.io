@@ -48,7 +48,7 @@ From the game, open the **view substitutes** panel to see who was contacted for 
 When a substitute you expected to hear from was not contacted, it is usually for one of these reasons. A substitute is skipped, or contacted later, when they:
 
 * **Already declined** the request for this game.
-* Have an **unanswered previous request**: League2GO waits for their answer before sending another.
+* Have an **unanswered previous request for the same game**: League2GO waits for their answer before sending another.
 * Are already playing in an **overlapping game**.
 * Would be contacted during your league's **do-not-disturb hours**: the request is held and sent when the period ends, not skipped.
 * Have **notifications disabled**.

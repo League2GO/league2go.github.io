@@ -48,7 +48,7 @@ Depuis la partie, ouvrez le panneau **voir les remplaçants** pour consulter qui
 Lorsqu'un remplaçant que vous attendiez n'a pas été contacté, c'est généralement pour l'une de ces raisons. Un remplaçant est ignoré, ou contacté plus tard, lorsqu'il :
 
 * A **déjà refusé** la demande pour cette partie.
-* A une **demande précédente restée sans réponse** : League2GO attend sa réponse avant de lui en envoyer une autre.
+* A une **demande précédente pour la même partie restée sans réponse** : League2GO attend sa réponse avant de lui en envoyer une autre.
 * Joue déjà dans une **partie qui chevauche** celle-ci.
 * Serait contacté pendant la **plage ne pas déranger** de votre ligue : la demande est retenue puis envoyée à la fin de la plage, jamais annulée.
 * A **désactivé ses notifications**.
