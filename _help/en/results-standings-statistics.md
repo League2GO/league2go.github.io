@@ -25,7 +25,7 @@ Each game has a **Results** tab. From there, enter the score, goals, penalties, 
 
 {% include image.html src="help/results-entry.en.png" caption="The per-player statistics grid in a game's Results tab, with goals and assists being entered for each player" %}
 
-League administrators can enter results, and you can also give someone the **scorekeeper** role so they can enter results without other management rights. See [roles and access](/roles-and-access/).
+League administrators can enter results, and you can also give someone the **scorekeeper** role so they can enter results without other management rights. See [roles and access](/roles-and-access/#adding-a-manager-or-a-scorekeeper).
 
 To collect statistics on paper during the game, export the lineup to CSV first. See [game day](/game-day/).
 
@@ -47,7 +47,7 @@ Statistics earned by a player while playing **as a substitute** are tracked sepa
 
 ## Past seasons and season resets
 
-Statistics belong to a season. When you create a new season, standings and statistics start from zero; previous seasons and their statistics are kept and remain consultable. See [seasons](/seasons/).
+Statistics belong to a season. When you create a new season, standings and statistics start from zero; previous seasons and their statistics are kept and remain consultable. See [seasons](/seasons/#starting-a-new-season-each-year).
 
 To enter results from previous years, create seasons with past dates and enter the games and results under those seasons.
 

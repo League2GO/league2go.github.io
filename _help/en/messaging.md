@@ -20,13 +20,13 @@ To send a message, go to the **Messaging** tab of your league. Write your messag
 
 ## How players receive messages
 
-Players are reached according to their own [notification preferences](/notifications/): email, push notification or SMS.
+Players are reached according to their own [notification preferences](/notifications/#your-notification-preferences): email, push notification or SMS.
 
 * **Email** includes the complete content of the message.
 * **Push notifications and SMS** carry the title only, with a link to read the full message.
 * When a player signs in with an unread message waiting, a notification badge appears on their Messages menu, where they can read their recent messages.
 
-If a player says they didn't get your message, have them check their notification preferences and spam folder. See [notifications and reminders](/notifications/) and [mobile notifications](/mobile-notifications/).
+If a player says they didn't get your message, have them check their notification preferences and spam folder. See [notifications and reminders](/notifications/) and [mobile notifications](/mobile-notifications/#troubleshooting).
 
 ## In-app chat
 

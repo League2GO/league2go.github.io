@@ -15,7 +15,7 @@ Pour configurer le comportement décrit ici, consultez les [options de la recher
 
 ## Ce qui déclenche une recherche
 
-Une recherche démarre lorsqu'**un joueur déclare lui-même son absence** pour une partie. Si votre ligue fixe un [nombre cible de joueurs par équipe](/equipes-et-parametres/), la recherche ne démarre que si l'absence fait passer l'alignement sous cette cible : une équipe encore à la cible ou au-dessus n'a pas besoin de remplaçant, donc personne n'est contacté. Si la recherche automatique de votre ligue est **désactivée** (début de la recherche réglé à 0 jour avant les parties), rien ne démarre de soi-même et vous [choisissez les remplaçants manuellement](/gerer-les-remplacants/).
+Une recherche démarre lorsqu'**un joueur déclare lui-même son absence** pour une partie. Si votre ligue fixe un [nombre cible de joueurs par équipe](/equipes-et-parametres/#nombre-cible-de-joueurs-par-position), la recherche ne démarre que si l'absence fait passer l'alignement sous cette cible : une équipe encore à la cible ou au-dessus n'a pas besoin de remplaçant, donc personne n'est contacté. Si la recherche automatique de votre ligue est **désactivée** (début de la recherche réglé à 0 jour avant les parties), rien ne démarre de soi-même et vous [choisissez les remplaçants manuellement](/gerer-les-remplacants/#choisir-un-remplaçant-manuellement).
 
 Un gestionnaire peut aussi lancer une recherche. Lorsque vous déclarez une absence au nom d'un joueur, l'absence à elle seule ne déclenche **rien** : vous pouvez ainsi la noter sans envoyer de demandes, par exemple quand vous avez déjà un remplaçant en tête. Demandez explicitement la recherche lorsque vous voulez que League2GO trouve quelqu'un.
 
@@ -55,6 +55,6 @@ Lorsqu'un remplaçant que vous attendiez n'a pas été contacté, c'est généra
 * **N'a jamais complété son inscription** : un remplaçant qui n'a pas terminé son inscription ne peut pas recevoir de demandes. Consultez [ajouter des joueurs](/ajouter-des-joueurs/) pour le fonctionnement de l'inscription.
 * Ne correspond pas encore à la **position ou à la plage de force** du joueur absent; il pourrait être contacté plus tard si votre ligue étend la plage progressivement.
 
-Si un remplaçant dit n'avoir jamais reçu de demande, vérifiez d'abord le panneau voir les remplaçants, puis son statut d'inscription, puis ses [paramètres de notifications](/notifications-et-rappels/).
+Si un remplaçant dit n'avoir jamais reçu de demande, vérifiez d'abord le panneau voir les remplaçants, puis son statut d'inscription, puis ses [paramètres de notifications](/notifications-et-rappels/#vos-préférences-de-notification).
 
 Des questions ? Écrivez-nous à [info@league2go.com](mailto:info@league2go.com).

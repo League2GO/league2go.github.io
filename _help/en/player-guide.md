@@ -28,7 +28,7 @@ As a regular player, you are presumed present at your games. If you can't make a
 
 ## Accepting a substitution request
 
-If you are a substitute in a league, you receive a substitution request when a player at one of your positions declares an absence. The request arrives by push notification, SMS or email, depending on [your notification preferences](/notifications/).
+If you are a substitute in a league, you receive a substitution request when a player at one of your positions declares an absence. The request arrives by push notification, SMS or email, depending on [your notification preferences](/notifications/#your-notification-preferences).
 
 * **The first substitute to accept gets the spot**: answer quickly if you want to play.
 * You can accept or decline directly from the notification, or from the notifications section of the app.
@@ -42,7 +42,7 @@ Your profile is yours: once you have registered, only you can edit it, not your 
 
 * Add a **photo** so teammates and managers recognize you.
 * Set the **positions** you can play, so substitution requests match you correctly.
-* Choose your **notification preferences** (see [notifications and reminders](/notifications/)).
+* Choose your **notification preferences** (see [notifications and reminders](/notifications/#your-notification-preferences)).
 
 {% include image.html src="help/player-profile.en.png" caption="Your profile: photo and contact information; notification preferences are further down the page" %}
 

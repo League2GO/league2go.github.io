@@ -13,7 +13,7 @@ redirect_from:
   - /notifcation-remplacement-gestionnaire/
 ---
 
-Ce guide couvre ce que les gestionnaires font autour d'une partie : consulter l'alignement, gérer les emplacements, remplacer les joueurs absents, imprimer ou exporter l'alignement. Pour créer ou annuler des parties, consultez [calendrier et parties](/calendrier-et-parties/).
+Ce guide couvre ce que les gestionnaires font autour d'une partie : consulter l'alignement, gérer les emplacements, remplacer les joueurs absents, imprimer ou exporter l'alignement. Pour créer ou annuler des parties, consultez [calendrier et parties](/calendrier-et-parties/#créer-des-parties).
 
 ## L'alignement d'une partie
 

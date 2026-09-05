@@ -7,7 +7,7 @@ order: 120
 description: "Suivez les frais de saison, les paiements, les crédits et les remboursements par joueur, et sachez qui doit encore de l'argent."
 ---
 
-La facturation est le registre de la ligue : ce que chaque joueur doit et a payé. Plus besoin de paperasse pour savoir quels joueurs vous doivent encore de l'argent. Elle suit les montants dans League2GO ; pour réellement percevoir l'argent en ligne, combinez-la avec les [paiements en ligne](/configurer-les-paiements-en-ligne/).
+La facturation est le registre de la ligue : ce que chaque joueur doit et a payé. Plus besoin de paperasse pour savoir quels joueurs vous doivent encore de l'argent. Elle suit les montants dans League2GO ; pour réellement percevoir l'argent en ligne, combinez-la avec les [paiements en ligne](/configurer-les-paiements-en-ligne/#connecter-votre-compte-stripe).
 
 ## Enregistrer le frais de saison
 
@@ -34,10 +34,10 @@ Le tableau de facturation vous donne le portrait en temps réel : les frais, les
 
 ## Saisons et balances
 
-La facturation est propre à chaque saison que vous configurez. Avec une nouvelle saison, les balances des joueurs sont remises à zéro et vous enregistrez le frais de cette saison; voir [saisons](/saisons/).
+La facturation est propre à chaque saison que vous configurez. Avec une nouvelle saison, les balances des joueurs sont remises à zéro et vous enregistrez le frais de cette saison; voir [saisons](/saisons/#commencer-une-nouvelle-saison-chaque-année).
 
 ## Percevoir les paiements en ligne
 
-La facturation enregistre les montants ; elle ne déplace pas l'argent par elle-même. Si vous configurez les paiements en ligne avec le compte Stripe de votre ligue, les joueurs peuvent payer leurs frais en ligne et vous évitez de courir après l'argent comptant et les virements. Voir [configurer les paiements en ligne](/configurer-les-paiements-en-ligne/).
+La facturation enregistre les montants ; elle ne déplace pas l'argent par elle-même. Si vous configurez les paiements en ligne avec le compte Stripe de votre ligue, les joueurs peuvent payer leurs frais en ligne et vous évitez de courir après l'argent comptant et les virements. Voir [configurer les paiements en ligne](/configurer-les-paiements-en-ligne/#connecter-votre-compte-stripe).
 
 Des questions ? Écrivez-nous à [info@league2go.com](mailto:info@league2go.com).

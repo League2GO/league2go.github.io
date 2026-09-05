@@ -29,7 +29,7 @@ Stripe then asks you to create an account and verify who you are. Most recreatio
 
 * **Type of business**: choose **Individual or sole proprietorship** unless your league is incorporated. Enter your business number (Tax ID) if you have one, and your personal address as the business address.
 * **Business name / statement descriptor**: enter your **league name**. This is what appears on your players' credit card statements, so make it recognizable.
-* **Business website**: activate your free [league website](/league-website/) on League2GO and paste its URL here.
+* **Business website**: activate your free [league website](/league-website/#activating-the-website) on League2GO and paste its URL here.
 * **Business description**: explain that you run a sports league that sells games or seasons. For example: "I own a sports league that sells hockey games to players and substitutes. I charge customers before the start of the game."
 * **Identity**: enter your legal name, date of birth, and social insurance number; Stripe requires this to verify your identity.
 * **Bank account**: select your currency and enter your bank account information (you can find it on a specimen cheque). This is where Stripe deposits your payouts.

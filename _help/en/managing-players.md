@@ -21,14 +21,14 @@ You don't need to delete and recreate a player to reorganize your rosters. In th
 
 The same action menus let you move people between your rosters and your substitute pool:
 
-* In the **Teams** tab, use a player's action menu to move them to your league's pool of [substitutes](/managing-substitutes/).
+* In the **Teams** tab, use a player's action menu to move them to your league's pool of [substitutes](/managing-substitutes/#how-substitute-lists-work).
 * In the **Substitutes** tab, use a substitute's action menu to make them a regular player on a team.
 
 The person keeps the same account either way; only their role in your league changes.
 
 ## Jersey numbers
 
-To assign a jersey number, edit the player from the **Teams** tab and enter the number. Jersey numbers are displayed next to the player's name, which makes rosters and [lineups](/game-day/) easier to read.
+To assign a jersey number, edit the player from the **Teams** tab and enter the number. Jersey numbers are displayed next to the player's name, which makes rosters and [lineups](/game-day/#the-game-lineup) easier to read.
 
 {% include image.html src="help/player-edit-jersey-number.en.png" caption="The edit-player form with the jersey number filled in." %}
 
@@ -41,7 +41,7 @@ You can also override a player's number **for a single game** from the action me
 Each player and substitute has one or more positions, chosen from the position configuration of your league (defined by the sport in your [league settings](/create-your-league/)). Positions matter for two reasons:
 
 * They structure your game lineups.
-* The [automatic substitute search](/substitutes-overview/) contacts substitutes who can play the position of the absent player. Check every position a substitute can play so they are contacted as often as possible.
+* The [automatic substitute search](/substitutes-overview/#who-is-contacted-and-in-what-order) contacts substitutes who can play the position of the absent player. Check every position a substitute can play so they are contacted as often as possible.
 
 ## Player skill ratings
 
@@ -66,7 +66,7 @@ Skill ratings are visible only to league managers and team captains; players do 
 
 ### What skills are used for
 
-* **Automatic substitute search**: when a player declares an absence, League2GO contacts substitutes whose skill falls within a range relative to the absent player. You control how strict or flexible that range is. See the [substitute search settings](/substitute-search-settings/).
+* **Automatic substitute search**: when a player declares an absence, League2GO contacts substitutes whose skill falls within a range relative to the absent player. You control how strict or flexible that range is. See the [substitute search settings](/substitute-search-settings/#skill-ratings-and-rating-ranges).
 * **Manual selection**: skills are displayed in the game details, so you can hand-pick a substitute of a similar level. When you add a spot to a game, you can also specify the skill required to fill it automatically with a player of the right level.
 
 ## Private notes on players

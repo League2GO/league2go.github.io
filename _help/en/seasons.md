@@ -34,7 +34,7 @@ Create a new season in your league settings at the start of each year (or sessio
 
 Previous seasons are never lost: the old seasons and their standings and statistics are kept, and you can view them at any time by selecting a past season from the drop-down menu.
 
-For more on how results feed standings and statistics, see [results, standings and statistics](/results-standings-statistics/).
+For more on how results feed standings and statistics, see [results, standings and statistics](/results-standings-statistics/#standings-and-tiebreakers).
 
 ## Playoffs
 

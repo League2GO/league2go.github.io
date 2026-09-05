@@ -34,7 +34,7 @@ Créez une nouvelle saison dans les paramètres de votre ligue au début de chaq
 
 Les saisons précédentes ne sont jamais perdues : les anciennes saisons ainsi que leur classement et leurs statistiques sont conservés, et vous pouvez les consulter en tout temps en sélectionnant une saison passée dans le menu déroulant.
 
-Pour en savoir plus sur les résultats, le classement et les statistiques, consultez [résultats, classement et statistiques](/resultats-classement-statistiques/).
+Pour en savoir plus sur les résultats, le classement et les statistiques, consultez [résultats, classement et statistiques](/resultats-classement-statistiques/#classement-et-bris-dégalité).
 
 ## Séries éliminatoires
 

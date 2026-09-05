@@ -16,7 +16,7 @@ League2GO vous permet de partager le travail de gestion d'une ligue. Ce guide ex
 
 Chaque ligue a exactement un propriétaire : la personne qui l'a créée (ou qui l'a reçue par un transfert de possession). Le propriétaire peut faire tout ce qu'un gestionnaire peut faire, en plus de :
 
-* **Acheter des crédits de partie** : seul le propriétaire peut acheter des crédits, et seulement sur le site web [league2go.com](https://league2go.com) (voir [prix et crédits de partie](/prix-et-credits-de-partie/)).
+* **Acheter des crédits de partie** : seul le propriétaire peut acheter des crédits, et seulement sur le site web [league2go.com](https://league2go.com) (voir [prix et crédits de partie](/prix-et-credits-de-partie/#acheter-des-crédits-de-partie)).
 * **Transférer la ligue** à un nouveau propriétaire.
 
 ### Gestionnaires
@@ -29,7 +29,7 @@ Les capitaines sont désignés sur une équipe, dans les paramètres de celle-ci
 
 * Déclarer les absences de leurs joueurs et lancer des [recherches de remplaçants](/recherche-de-remplacants/).
 * Modifier l'information des joueurs qui ne sont pas encore enregistrés.
-* Voir les [forces et les notes privées](/gerer-les-joueurs/) des joueurs.
+* Voir les [forces et les notes privées](/gerer-les-joueurs/#forces-des-joueurs) des joueurs.
 
 Les paramètres d'équipe permettent aussi d'envoyer les notifications d'absence et de remplacement au capitaine plutôt qu'aux gestionnaires de la ligue.
 
@@ -60,6 +60,6 @@ Pour céder votre ligue à un nouveau propriétaire, allez dans l'onglet **Accè
 * Utilisez d'abord les crédits restants, ou
 * Écrivez-nous à [info@league2go.com](mailto:info@league2go.com) pour organiser le transfert des crédits au nouveau propriétaire.
 
-Voir [prix et crédits de partie](/prix-et-credits-de-partie/) pour le fonctionnement des crédits.
+Voir [prix et crédits de partie](/prix-et-credits-de-partie/#acheter-des-crédits-de-partie) pour le fonctionnement des crédits.
 
 Des questions ? Écrivez-nous à [info@league2go.com](mailto:info@league2go.com).

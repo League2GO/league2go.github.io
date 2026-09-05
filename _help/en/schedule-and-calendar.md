@@ -9,11 +9,11 @@ redirect_from:
   - /improved-game-calendar/
 ---
 
-The league calendar is where you create and manage your games, on the website or in the mobile app. Each game uses one game credit; if you run out, purchase more by logging in on the **website**. Purchasing game credits is not possible in the app. See [pricing and game credits](/pricing-and-game-credits/).
+The league calendar is where you create and manage your games, on the website or in the mobile app. Each game uses one game credit; if you run out, purchase more by logging in on the **website**. Purchasing game credits is not possible in the app. See [pricing and game credits](/pricing-and-game-credits/#buying-game-credits).
 
 ## Creating games
 
-From your league's calendar tab, click the **Add game** button and enter the requested information. Each game consumes one game credit. See [pricing and game credits](/pricing-and-game-credits/).
+From your league's calendar tab, click the **Add game** button and enter the requested information. Each game consumes one game credit. See [pricing and game credits](/pricing-and-game-credits/#buying-game-credits).
 
 If your games are weekly, use the **Repeat game schedule** option to automatically create multiple games with the same settings.
 
@@ -52,7 +52,7 @@ Games whose start time has passed cannot be deleted by managers. If you need to 
 
 ## "My games disappeared"
 
-If games are missing from the calendar, they are almost certainly hidden by the **season filter**: games outside the selected season's date range are not shown. Clear the filter with the X beside the season name, or adjust the season dates. See [seasons](/seasons/) for details.
+If games are missing from the calendar, they are almost certainly hidden by the **season filter**: games outside the selected season's date range are not shown. Clear the filter with the X beside the season name, or adjust the season dates. See [seasons](/seasons/#my-games-disappeared) for details.
 
 ## Related articles
 

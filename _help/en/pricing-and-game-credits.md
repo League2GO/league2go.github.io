@@ -29,10 +29,10 @@ When your free games are used up, buy game credits:
 * **Credits belong to the buyer**, not to the league. The same balance can be used across all leagues you own.
 * **Credits do not follow a league ownership transfer.** If you transfer your league to a new owner and want the remaining credits moved too, contact us at [info@league2go.com](mailto:info@league2go.com).
 
-See [roles and access](/roles-and-access/) for how ownership transfers work.
+See [roles and access](/roles-and-access/#transferring-league-ownership) for how ownership transfers work.
 
 ## Deleting a game refunds its credit
 
-If you delete a game **before its start time**, its credit is automatically returned to your balance. This is also how you "reschedule" a game: delete it, then create a new one at the new date. See [schedule and calendar](/schedule-and-calendar/).
+If you delete a game **before its start time**, its credit is automatically returned to your balance. This is also how you "reschedule" a game: delete it, then create a new one at the new date. See [schedule and calendar](/schedule-and-calendar/#moving-or-rescheduling-a-game).
 
 Questions? Contact us at [info@league2go.com](mailto:info@league2go.com).

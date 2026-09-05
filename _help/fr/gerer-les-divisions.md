@@ -21,7 +21,7 @@ Comme les divisions appartiennent à une saison, vous les configurez de nouveau 
 
 ## Classement par division
 
-Lorsque les équipes sont regroupées en divisions, le classement est affiché par division : chaque groupe a son propre classement. Voir [résultats, classement et statistiques](/resultats-classement-statistiques/).
+Lorsque les équipes sont regroupées en divisions, le classement est affiché par division : chaque groupe a son propre classement. Voir [résultats, classement et statistiques](/resultats-classement-statistiques/#classement-et-bris-dégalité).
 
 {% include image.html src="help/divisions-standings.fr.png" caption="Le classement limité à une division grâce au filtre Saison/Division : chaque division obtient ainsi son propre tableau de classement, ne montrant que ses équipes." %}
 

@@ -28,7 +28,7 @@ Comme joueur régulier, vous êtes présumé présent à vos parties. Si vous ne
 
 ## Accepter une demande de remplacement
 
-Si vous êtes remplaçant dans une ligue, vous recevez une demande de remplacement lorsqu'un joueur à l'une de vos positions déclare une absence. La demande arrive par notification push, SMS ou courriel, selon [vos préférences de notification](/notifications-et-rappels/).
+Si vous êtes remplaçant dans une ligue, vous recevez une demande de remplacement lorsqu'un joueur à l'une de vos positions déclare une absence. La demande arrive par notification push, SMS ou courriel, selon [vos préférences de notification](/notifications-et-rappels/#vos-préférences-de-notification).
 
 * **Le premier remplaçant qui accepte obtient la place** : répondez rapidement si vous voulez jouer.
 * Vous pouvez accepter ou refuser directement depuis la notification, ou depuis la section notifications de l'app.
@@ -42,7 +42,7 @@ Votre profil vous appartient : une fois inscrit, vous seul pouvez le modifier, p
 
 * Ajouter une **photo** pour que vos coéquipiers et gestionnaires vous reconnaissent.
 * Choisir les **positions** que vous pouvez jouer, pour que les demandes de remplacement vous correspondent.
-* Régler vos **préférences de notification** (voir [notifications et rappels](/notifications-et-rappels/)).
+* Régler vos **préférences de notification** (voir [notifications et rappels](/notifications-et-rappels/#vos-préférences-de-notification)).
 
 {% include image.html src="help/player-profile.fr.png" caption="Votre profil : photo et coordonnées; les préférences de notification se trouvent plus bas sur la page" %}
 

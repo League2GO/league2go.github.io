@@ -39,6 +39,6 @@ Vous contrôlez comment League2GO vous contacte depuis votre propre profil : ouv
 
 ## Les notifications push ne fonctionnent pas ?
 
-Si les notifications push n'arrivent plus sur votre téléphone, suivez le guide de dépannage complet dans [notifications mobiles (push)](/notifications-mobile/) : envoyez-vous un push test depuis votre profil, vérifiez les permissions de notification du téléphone, mettez l'app à jour, et réinstallez-la en dernier recours.
+Si les notifications push n'arrivent plus sur votre téléphone, suivez le guide de dépannage complet dans [notifications mobiles (push)](/notifications-mobile/#conseils-de-dépannage) : envoyez-vous un push test depuis votre profil, vérifiez les permissions de notification du téléphone, mettez l'app à jour, et réinstallez-la en dernier recours.
 
 Des questions ? Écrivez-nous à [info@league2go.com](mailto:info@league2go.com).

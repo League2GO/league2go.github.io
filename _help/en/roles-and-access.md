@@ -16,7 +16,7 @@ League2GO lets you share the work of running a league. This guide explains what 
 
 Every league has exactly one owner: the person who created it (or received it through an ownership transfer). The owner can do everything a manager can, plus:
 
-* **Buy game credits**: only the owner can purchase credits, and only on the [league2go.com](https://league2go.com) website (see [pricing and game credits](/pricing-and-game-credits/)).
+* **Buy game credits**: only the owner can purchase credits, and only on the [league2go.com](https://league2go.com) website (see [pricing and game credits](/pricing-and-game-credits/#buying-game-credits)).
 * **Transfer the league** to a new owner.
 
 ### Managers
@@ -29,7 +29,7 @@ Captains are set on a team, in the team's settings (see [teams and team settings
 
 * Declare the absences of their players and launch [substitute searches](/substitutes-overview/).
 * Edit the information of players who have not yet registered.
-* See player [skill ratings and private notes](/managing-players/).
+* See player [skill ratings and private notes](/managing-players/#player-skill-ratings).
 
 Team settings can also route absence and substitution notifications to the captain instead of the league managers.
 
@@ -60,6 +60,6 @@ To hand your league over to a new owner, go to the **Access** tab of your league
 * Use up the remaining credits first, or
 * Contact us at [info@league2go.com](mailto:info@league2go.com) to arrange moving the credits to the new owner.
 
-See [pricing and game credits](/pricing-and-game-credits/) for how credits work.
+See [pricing and game credits](/pricing-and-game-credits/#buying-game-credits) for how credits work.
 
 Questions? Contact us at [info@league2go.com](mailto:info@league2go.com).

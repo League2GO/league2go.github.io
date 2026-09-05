@@ -20,13 +20,13 @@ Pour envoyer un message, allez dans l'onglet **Messagerie** de votre ligue. Réd
 
 ## Comment les joueurs reçoivent vos messages
 
-Les joueurs sont joints selon leurs propres [préférences de notification](/notifications-et-rappels/) : courriel, notification push ou SMS.
+Les joueurs sont joints selon leurs propres [préférences de notification](/notifications-et-rappels/#vos-préférences-de-notification) : courriel, notification push ou SMS.
 
 * **Le courriel** inclut le contenu complet du message.
 * **Les notifications push et les SMS** contiennent seulement le titre, avec un lien pour lire le message complet.
 * Quand un joueur se connecte et qu'un message non lu l'attend, une notification s'affiche sur son menu Messages, où il peut consulter ses messages récents.
 
-Si un joueur dit ne pas avoir reçu votre message, demandez-lui de vérifier ses préférences de notification et son dossier de courrier indésirable; voir [notifications et rappels](/notifications-et-rappels/) et [notifications mobiles](/notifications-mobile/).
+Si un joueur dit ne pas avoir reçu votre message, demandez-lui de vérifier ses préférences de notification et son dossier de courrier indésirable; voir [notifications et rappels](/notifications-et-rappels/) et [notifications mobiles](/notifications-mobile/#conseils-de-dépannage).
 
 ## Clavardage intégré
 

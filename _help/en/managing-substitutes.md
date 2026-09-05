@@ -37,11 +37,11 @@ The search only proposes a substitute for positions they play, within the config
 
 {% include image.html src="help/manage-substitutes-edit-dialog.en.png" caption="Editing a substitute in a rated league: one rating field per position; filling in a rating is what selects the position for that substitute." %}
 
-How ratings are used by the search is covered in [substitute search settings](/substitute-search-settings/).
+How ratings are used by the search is covered in [substitute search settings](/substitute-search-settings/#skill-ratings-and-rating-ranges).
 
 ## Marking favorites
 
-Select the **star** beside a substitute to mark them as a favorite. Favorites are contacted before other substitutes when a player must be replaced, with a configurable delay before the next tier. See [favorites and contact order](/substitute-search-settings/).
+Select the **star** beside a substitute to mark them as a favorite. Favorites are contacted before other substitutes when a player must be replaced, with a configurable delay before the next tier. See [favorites and contact order](/substitute-search-settings/#favorites-and-contact-order).
 
 ## Converting between substitute and regular
 
@@ -53,12 +53,12 @@ You can always bypass the automatic search:
 
 * From the game, replace an absent player by choosing a substitute yourself. Ratings are displayed in the game details so you can pick a substitute of similar caliber. The chosen substitute receives the message for the game, including the price to play, if your league includes prices in substitution requests.
 * When you **add a spot** to a game, specify the required rating to automatically find a player that matches it.
-* If you prefer to always choose manually, disable the automatic search by setting the search start to 0 days in [substitute search settings](/substitute-search-settings/).
+* If you prefer to always choose manually, disable the automatic search by setting the search start to 0 days in [substitute search settings](/substitute-search-settings/#when-the-search-starts).
 
 {% include image.html src="help/manage-substitutes-replace-player.en.png" caption="Replacing an absent player from the game page: available substitutes are listed with their rating beside each position." %}
 
 ## Substitute payments
 
-Substitutes can pay their game fee online when your league has online payments enabled. See [online payments](/online-payments-setup/) for setup, fees and refunds.
+Substitutes can pay their game fee online when your league has online payments enabled. See [online payments](/online-payments-setup/#charging-substitutes-per-game) for setup, fees and refunds.
 
 Questions? Contact us at [info@league2go.com](mailto:info@league2go.com).

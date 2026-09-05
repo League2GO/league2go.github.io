@@ -42,7 +42,7 @@ Notez que les invitations par SMS cessent d'être envoyées aux joueurs qui ne s
 ## Corriger une erreur de courriel ou de numéro de téléphone
 
 * **Avant que le joueur soit enregistré** : supprimez le joueur de l'équipe et ajoutez-le de nouveau avec la bonne adresse courriel et le bon numéro de cellulaire. Une nouvelle invitation est envoyée automatiquement.
-* **Après son enregistrement** : seul le joueur peut modifier ses propres coordonnées, à partir de son [compte](/votre-compte/). Les gestionnaires ne peuvent pas changer le courriel ni le numéro de téléphone d'un joueur enregistré.
+* **Après son enregistrement** : seul le joueur peut modifier ses propres coordonnées, à partir de son [compte](/votre-compte/#changer-votre-courriel-ou-votre-numéro-de-cellulaire). Les gestionnaires ne peuvent pas changer le courriel ni le numéro de téléphone d'un joueur enregistré.
 
 Si un joueur vous dit « je ne vois pas la ligue », comparez lettre par lettre le courriel et le numéro de cellulaire entrés dans votre ligue avec ceux de son compte : une différence est presque toujours la cause.
 

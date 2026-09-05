@@ -42,7 +42,7 @@ Note that SMS invitations stop being sent to players who still haven't registere
 ## Fixing a typo in an email or phone number
 
 * **Before the player has registered**: delete the player from the team and add them again with the correct email address and cell number. A new invitation is sent automatically.
-* **After the player has registered**: only the player can edit their own contact information, from their own [account](/your-account/). Managers cannot change a registered player's email or phone number.
+* **After the player has registered**: only the player can edit their own contact information, from their own [account](/your-account/#changing-your-email-or-phone-number). Managers cannot change a registered player's email or phone number.
 
 If a player says "I can't see the league", compare letter for letter the email and cell number in your league with the ones on their account: a mismatch is almost always the cause.
 

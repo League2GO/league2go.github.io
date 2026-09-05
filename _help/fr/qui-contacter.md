@@ -23,7 +23,7 @@ Votre gestionnaire est la personne qui vous a ajouté à la ligue, habituellemen
 
 * **Les problèmes de compte et de connexion** : réinitialisation de mot de passe qui échoue, comptes en double, « courriel déjà utilisé ». Voyez [votre compte](/votre-compte/).
 * **Les bogues de l'application** : quelque chose de brisé ou qui se comporte étrangement.
-* **Les notifications qui ne fonctionnent pas** : après avoir essayé les étapes de [notifications et rappels](/notifications-et-rappels/).
+* **Les notifications qui ne fonctionnent pas** : après avoir essayé les étapes de [notifications et rappels](/notifications-et-rappels/#les-notifications-push-ne-fonctionnent-pas-).
 * **Les questions sur le fonctionnement de l'application.**
 
 En cas de doute : si ça concerne **votre ligue** (ses parties, ses règlements, son argent ou son alignement), demandez à votre gestionnaire; si ça concerne **l'application elle-même**, demandez-nous.

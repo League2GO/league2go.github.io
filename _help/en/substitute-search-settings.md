@@ -19,7 +19,7 @@ This is the reference for every option that controls the [automatic substitute s
 
 **When to change it:** shorten it if substitutes accept then forget about far-away games; lengthen it if your games are hard to fill.
 
-**Set it to 0 to disable the automatic search entirely.** No requests are sent and you [pick substitutes manually](/managing-substitutes/) for each game.
+**Set it to 0 to disable the automatic search entirely.** No requests are sent and you [pick substitutes manually](/managing-substitutes/#picking-a-substitute-manually) for each game.
 
 **Example:** with the search set to start 7 days before games, an absence declared 3 weeks ahead sits quietly until 7 days before the game, then requests go out.
 
@@ -83,7 +83,7 @@ Ratings let the search propose substitutes of comparable caliber to the absent p
 
 **What it does:** when you check **Include prices in substitution requests**, the amount a substitute pays to play is included in every request, and in the message sent to a substitute you assign manually. You enter an amount per position, and positions can differ: for example $20 for a defender or a forward, but free for a goalkeeper.
 
-**When to change it:** turn it on so substitutes show up knowing what they owe. To collect the amount online rather than in cash, see [online payments](/online-payments-setup/).
+**When to change it:** turn it on so substitutes show up knowing what they owe. To collect the amount online rather than in cash, see [online payments](/online-payments-setup/#charging-substitutes-per-game).
 
 {% include image.html src="help/substitute-settings-prices.en.png" caption="Include price in substitution requests: with the option checked, each position gets its own price field." %}
 

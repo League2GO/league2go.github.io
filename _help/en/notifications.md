@@ -39,6 +39,6 @@ You control how League2GO contacts you from your own profile: open your profile 
 
 ## Push notifications not working?
 
-If push notifications stopped arriving on your phone, follow the full troubleshooting guide in [mobile push notifications](/mobile-notifications/): send yourself a test push from your profile, check the phone's notification permissions, update the app, and reinstall as a last resort.
+If push notifications stopped arriving on your phone, follow the full troubleshooting guide in [mobile push notifications](/mobile-notifications/#troubleshooting): send yourself a test push from your profile, check the phone's notification permissions, update the app, and reinstall as a last resort.
 
 Questions? Contact us at [info@league2go.com](mailto:info@league2go.com).

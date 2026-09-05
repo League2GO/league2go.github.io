@@ -15,7 +15,7 @@ To configure the behavior described here, see [substitute search settings](/subs
 
 ## What starts a search
 
-A search starts when **a player declares their own absence** for a game. If your league sets a [target number of players per team](/teams-and-team-settings/), the search only starts when the absence puts the lineup below that target: a team still at or above it needs no replacement, so no one is contacted. If your league's automatic search is **disabled** (search start set to 0 days before games), nothing starts on its own and you [pick substitutes manually](/managing-substitutes/).
+A search starts when **a player declares their own absence** for a game. If your league sets a [target number of players per team](/teams-and-team-settings/#target-number-of-players-per-position), the search only starts when the absence puts the lineup below that target: a team still at or above it needs no replacement, so no one is contacted. If your league's automatic search is **disabled** (search start set to 0 days before games), nothing starts on its own and you [pick substitutes manually](/managing-substitutes/#picking-a-substitute-manually).
 
 A manager can start a search too. When you declare an absence on a player's behalf, the absence alone does **not** trigger anything, so you can record it without sending requests, for example when you already have a replacement lined up. Request the search explicitly when you want League2GO to find someone.
 
@@ -55,6 +55,6 @@ When a substitute you expected to hear from was not contacted, it is usually for
 * **Never completed their registration**: a substitute who has not finished signing up cannot receive requests. See [adding players](/adding-players/) for how registration works.
 * Do not yet match the **position or skill-rating range** for the absent player; they may still be contacted later if your league widens the range gradually.
 
-If a substitute says they never got a request, check the view substitutes panel first, then their registration status, then their [notification settings](/notifications/).
+If a substitute says they never got a request, check the view substitutes panel first, then their registration status, then their [notification settings](/notifications/#your-notification-preferences).
 
 Questions? Contact us at [info@league2go.com](mailto:info@league2go.com).

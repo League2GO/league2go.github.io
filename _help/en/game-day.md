@@ -13,7 +13,7 @@ redirect_from:
   - /manager-substitution-notification/
 ---
 
-This guide covers what managers do around a single game: reviewing the lineup, managing game spots, replacing absent players, and printing or exporting the lineup. To create or cancel games, see [schedule and calendar](/schedule-and-calendar/).
+This guide covers what managers do around a single game: reviewing the lineup, managing game spots, replacing absent players, and printing or exporting the lineup. To create or cancel games, see [schedule and calendar](/schedule-and-calendar/#creating-games).
 
 ## The game lineup
 

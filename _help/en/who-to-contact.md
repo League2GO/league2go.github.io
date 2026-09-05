@@ -23,7 +23,7 @@ Your manager is the person who added you to the league, typically listed on your
 
 * **Login and account problems**: password resets that fail, duplicate accounts, "email already in use". See [your account](/your-account/).
 * **App bugs**: something broken or behaving strangely.
-* **Notifications not working**: after trying the steps in [notifications and reminders](/notifications/).
+* **Notifications not working**: after trying the steps in [notifications and reminders](/notifications/#push-notifications-not-working).
 * **Questions about how the app works.**
 
 When in doubt: if it's about **your league** (its games, rules, money, or roster), ask your manager; if it's about **the app itself**, ask us.

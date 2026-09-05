@@ -21,14 +21,14 @@ Pas besoin de supprimer et de recréer un joueur pour réorganiser vos alignemen
 
 Les mêmes menus d'actions permettent de déplacer les personnes entre vos équipes et votre banque de remplaçants :
 
-* Dans l'onglet **Équipes**, utilisez le menu d'actions d'un joueur pour le déplacer dans la banque de [remplaçants](/gerer-les-remplacants/) de votre ligue.
+* Dans l'onglet **Équipes**, utilisez le menu d'actions d'un joueur pour le déplacer dans la banque de [remplaçants](/gerer-les-remplacants/#comment-fonctionnent-les-listes-de-remplaçants) de votre ligue.
 * Dans l'onglet **Remplaçants**, utilisez le menu d'actions d'un remplaçant pour en faire un joueur régulier d'une équipe.
 
 La personne conserve le même compte dans les deux cas : seul son rôle dans votre ligue change.
 
 ## Numéros de chandail
 
-Pour attribuer un numéro de chandail, modifiez le joueur à partir de l'onglet **Équipes** et saisissez le numéro. Les numéros de chandail sont affichés à côté du nom des joueurs, ce qui rend les alignements et le [jour de partie](/jour-de-partie/) plus faciles à suivre.
+Pour attribuer un numéro de chandail, modifiez le joueur à partir de l'onglet **Équipes** et saisissez le numéro. Les numéros de chandail sont affichés à côté du nom des joueurs, ce qui rend les alignements et le [jour de partie](/jour-de-partie/#lalignement-dune-partie) plus faciles à suivre.
 
 {% include image.html src="help/player-edit-jersey-number.fr.png" caption="Le formulaire de modification d'un joueur avec le numéro de chandail rempli." %}
 
@@ -41,7 +41,7 @@ Vous pouvez aussi changer le numéro d'un joueur **pour une seule partie** à pa
 Chaque joueur et remplaçant a une ou plusieurs positions, choisies parmi la configuration de positions de votre ligue (définie par le sport dans les [paramètres de votre ligue](/creer-votre-ligue/)). Les positions comptent pour deux raisons :
 
 * Elles structurent vos alignements de partie.
-* La [recherche automatique de remplaçants](/recherche-de-remplacants/) contacte les remplaçants pouvant jouer la position du joueur absent. Cochez toutes les positions qu'un remplaçant peut jouer pour qu'il soit contacté le plus souvent possible.
+* La [recherche automatique de remplaçants](/recherche-de-remplacants/#qui-est-contacté-et-dans-quel-ordre) contacte les remplaçants pouvant jouer la position du joueur absent. Cochez toutes les positions qu'un remplaçant peut jouer pour qu'il soit contacté le plus souvent possible.
 
 ## Forces des joueurs
 
@@ -66,7 +66,7 @@ Les forces sont visibles seulement par les gestionnaires de la ligue et les capi
 
 ### À quoi servent les forces
 
-* **Recherche automatique de remplaçants** : quand un joueur déclare une absence, League2GO contacte les remplaçants dont la force se situe dans une plage relative à celle du joueur absent. Vous contrôlez à quel point cette plage est stricte ou flexible; voir les [options de recherche de remplaçants](/options-de-recherche-de-remplacants/).
+* **Recherche automatique de remplaçants** : quand un joueur déclare une absence, League2GO contacte les remplaçants dont la force se situe dans une plage relative à celle du joueur absent. Vous contrôlez à quel point cette plage est stricte ou flexible; voir les [options de recherche de remplaçants](/options-de-recherche-de-remplacants/#forces-et-plages-de-force).
 * **Sélection manuelle** : les forces sont affichées dans le détail des parties, ce qui vous permet de choisir vous-même un remplaçant d'un niveau similaire. Quand vous ajoutez un emplacement à une partie, vous pouvez aussi spécifier la force requise pour le combler automatiquement avec un joueur du bon niveau.
 
 ## Notes privées sur les joueurs

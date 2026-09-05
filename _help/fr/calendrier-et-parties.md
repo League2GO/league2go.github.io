@@ -9,11 +9,11 @@ redirect_from:
   - /calendrier-de-parties-ameliore/
 ---
 
-Le calendrier de la ligue est l'endroit où vous créez et gérez vos parties, sur le site web ou dans l'application mobile. Chaque partie utilise un crédit de partie; si vous n'en avez plus, achetez-en en vous connectant sur le **site web**; l'achat de crédits de partie n'est pas possible dans l'application. Consultez [prix et crédits de partie](/prix-et-credits-de-partie/).
+Le calendrier de la ligue est l'endroit où vous créez et gérez vos parties, sur le site web ou dans l'application mobile. Chaque partie utilise un crédit de partie; si vous n'en avez plus, achetez-en en vous connectant sur le **site web**; l'achat de crédits de partie n'est pas possible dans l'application. Consultez [prix et crédits de partie](/prix-et-credits-de-partie/#acheter-des-crédits-de-partie).
 
 ## Créer des parties
 
-À partir de l'onglet Calendrier de votre ligue, cliquez sur le bouton **Ajouter une partie** et entrez l'information demandée. Chaque partie consomme un crédit de partie (voir [prix et crédits de partie](/prix-et-credits-de-partie/)).
+À partir de l'onglet Calendrier de votre ligue, cliquez sur le bouton **Ajouter une partie** et entrez l'information demandée. Chaque partie consomme un crédit de partie (voir [prix et crédits de partie](/prix-et-credits-de-partie/#acheter-des-crédits-de-partie)).
 
 Si vos parties sont hebdomadaires, utilisez l'option **Répéter l'horaire des parties** pour automatiquement créer plusieurs parties avec les mêmes paramètres.
 
@@ -52,7 +52,7 @@ Les parties dont l'heure de début est passée ne peuvent pas être supprimées 
 
 ## « Mes parties ont disparu »
 
-Si des parties manquent dans le calendrier, elles sont presque certainement masquées par le **filtre de saison** : les parties en dehors de la plage de dates de la saison sélectionnée ne sont pas affichées. Effacez le filtre avec le X à côté du nom de la saison, ou ajustez les dates de la saison. Voir [saisons](/saisons/) pour les détails.
+Si des parties manquent dans le calendrier, elles sont presque certainement masquées par le **filtre de saison** : les parties en dehors de la plage de dates de la saison sélectionnée ne sont pas affichées. Effacez le filtre avec le X à côté du nom de la saison, ou ajustez les dates de la saison. Voir [saisons](/saisons/#-mes-parties-ont-disparu-) pour les détails.
 
 ## Articles reliés
 

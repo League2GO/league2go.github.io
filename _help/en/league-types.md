@@ -19,9 +19,9 @@ The conventional format, best for leagues with stable rosters:
 
 * The league can have more than two teams.
 * Players are assigned to a team by a manager, usually for the season, and keep their team at every game.
-* A team can have [captains](/roles-and-access/).
+* A team can have [captains](/roles-and-access/#captains).
 * Managers can add team-specific substitutes as well as league substitutes shared across all teams. See [managing substitutes](/managing-substitutes/).
-* Team [standings](/results-standings-statistics/) are generated from the game results.
+* Team [standings](/results-standings-statistics/#standings-and-tiebreakers) are generated from the game results.
 
 ## Pick-up
 

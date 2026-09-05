@@ -37,11 +37,11 @@ La recherche ne propose un remplaçant que pour les positions qu'il joue, à l'i
 
 {% include image.html src="help/manage-substitutes-edit-dialog.fr.png" caption="Modification d'un remplaçant dans une ligue avec forces : un champ de force par position; inscrire une force sélectionne la position pour ce remplaçant." %}
 
-L'utilisation des forces par la recherche est expliquée dans les [options de la recherche de remplaçants](/options-de-recherche-de-remplacants/).
+L'utilisation des forces par la recherche est expliquée dans les [options de la recherche de remplaçants](/options-de-recherche-de-remplacants/#forces-et-plages-de-force).
 
 ## Marquer des favoris
 
-Sélectionnez l'**étoile** à droite d'un remplaçant pour le désigner comme favori. Les favoris sont contactés avant les autres remplaçants lors d'un remplacement, avec un délai configurable avant le niveau suivant; consultez [favoris et ordre de contact](/options-de-recherche-de-remplacants/).
+Sélectionnez l'**étoile** à droite d'un remplaçant pour le désigner comme favori. Les favoris sont contactés avant les autres remplaçants lors d'un remplacement, avec un délai configurable avant le niveau suivant; consultez [favoris et ordre de contact](/options-de-recherche-de-remplacants/#favoris-et-ordre-de-contact).
 
 ## Convertir un remplaçant en régulier (et l'inverse)
 
@@ -53,12 +53,12 @@ Vous pouvez toujours contourner la recherche automatique :
 
 * Depuis la partie, remplacez un joueur absent en choisissant vous-même un remplaçant. Les forces sont affichées dans les détails de la partie pour vous permettre de choisir un remplaçant de calibre similaire. Le remplaçant choisi reçoit le message pour la partie, incluant le prix pour jouer, si votre ligue inclut les prix dans les demandes de remplacement.
 * Quand vous **ajoutez un emplacement** à une partie, spécifiez la force requise pour le combler automatiquement avec un joueur de la bonne force.
-* Si vous préférez toujours choisir manuellement, désactivez la recherche automatique en réglant le début de la recherche à 0 jour dans les [options de la recherche de remplaçants](/options-de-recherche-de-remplacants/).
+* Si vous préférez toujours choisir manuellement, désactivez la recherche automatique en réglant le début de la recherche à 0 jour dans les [options de la recherche de remplaçants](/options-de-recherche-de-remplacants/#début-de-la-recherche).
 
 {% include image.html src="help/manage-substitutes-replace-player.fr.png" caption="Remplacer un joueur absent depuis la page de la partie : les remplaçants disponibles sont listés avec leur force à côté de chaque position." %}
 
 ## Paiements des remplaçants
 
-Les remplaçants peuvent payer leur partie en ligne lorsque les paiements en ligne sont activés pour votre ligue; consultez [configurer les paiements en ligne](/configurer-les-paiements-en-ligne/) pour la configuration, les frais et les remboursements.
+Les remplaçants peuvent payer leur partie en ligne lorsque les paiements en ligne sont activés pour votre ligue; consultez [configurer les paiements en ligne](/configurer-les-paiements-en-ligne/#facturer-les-remplaçants-par-partie) pour la configuration, les frais et les remboursements.
 
 Des questions ? Écrivez-nous à [info@league2go.com](mailto:info@league2go.com).

@@ -29,10 +29,10 @@ Quand vos parties gratuites sont épuisées, achetez des crédits de partie :
 * **Les crédits appartiennent à l'acheteur**, pas à la ligue. Le même solde peut servir dans toutes les ligues dont vous êtes propriétaire.
 * **Les crédits ne suivent pas un transfert de propriété de ligue.** Si vous transférez votre ligue à un nouveau propriétaire et voulez que les crédits restants soient transférés aussi, écrivez-nous à [info@league2go.com](mailto:info@league2go.com).
 
-Consultez [rôles et accès](/roles-et-acces/) pour le fonctionnement des transferts de propriété.
+Consultez [rôles et accès](/roles-et-acces/#transférer-la-possession-de-la-ligue) pour le fonctionnement des transferts de propriété.
 
 ## Supprimer une partie rembourse son crédit
 
-Si vous supprimez une partie **avant son heure de début**, son crédit est automatiquement retourné à votre solde. C'est aussi de cette façon qu'on « déplace » une partie : supprimez-la, puis créez-en une nouvelle à la nouvelle date; consultez [calendrier et parties](/calendrier-et-parties/).
+Si vous supprimez une partie **avant son heure de début**, son crédit est automatiquement retourné à votre solde. C'est aussi de cette façon qu'on « déplace » une partie : supprimez-la, puis créez-en une nouvelle à la nouvelle date; consultez [calendrier et parties](/calendrier-et-parties/#déplacer-une-partie).
 
 Des questions ? Écrivez-nous à [info@league2go.com](mailto:info@league2go.com).

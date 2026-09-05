@@ -62,7 +62,7 @@ Consultez [calendrier et parties](/calendrier-et-parties/) pour les parties rép
 
 ## 7. Réviser les paramètres de votre ligue (optionnel)
 
-Dans l'onglet Paramètres, vous pouvez ajouter d'autres [gestionnaires](/roles-et-acces/), créer des [saisons](/saisons/), configurer vos [statistiques](/resultats-classement-statistiques/), ajuster la [recherche de remplaçants](/options-de-recherche-de-remplacants/) et régler les [notifications](/notifications-et-rappels/) automatisées. Vous pouvez aussi mettre en place un [site web de ligue](/site-web-de-ligue/) public.
+Dans l'onglet Paramètres, vous pouvez ajouter d'autres [gestionnaires](/roles-et-acces/#ajouter-un-gestionnaire-ou-un-marqueur), créer des [saisons](/saisons/), configurer vos [statistiques](/resultats-classement-statistiques/#configurer-linformation-saisie), ajuster la [recherche de remplaçants](/options-de-recherche-de-remplacants/) et régler les [notifications](/notifications-et-rappels/#rappels-de-partie) automatisées. Vous pouvez aussi mettre en place un [site web de ligue](/site-web-de-ligue/) public.
 
 Vos joueurs peuvent utiliser l'[application mobile](/application-mobile/) gratuite pour consulter leur horaire et déclarer leurs absences.
 

@@ -19,9 +19,9 @@ Le format conventionnel, idéal pour les ligues avec des alignements stables :
 
 * La ligue peut avoir plus de deux équipes.
 * Les joueurs sont affectés à une équipe par un gestionnaire, généralement pour la saison, et conservent leur équipe à chaque partie.
-* Une équipe peut avoir des [capitaines](/roles-et-acces/).
+* Une équipe peut avoir des [capitaines](/roles-et-acces/#capitaines).
 * Les gestionnaires peuvent ajouter des remplaçants spécifiques à certaines équipes ainsi que des remplaçants de ligue partagés à travers toutes les équipes. Consultez [gérer les remplaçants](/gerer-les-remplacants/).
-* Un [classement](/resultats-classement-statistiques/) par équipe est généré à partir des résultats de partie.
+* Un [classement](/resultats-classement-statistiques/#classement-et-bris-dégalité) par équipe est généré à partir des résultats de partie.
 
 ## Pick-up
 

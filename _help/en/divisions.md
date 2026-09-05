@@ -21,7 +21,7 @@ Because divisions belong to a season, you set them up again for each new season.
 
 ## Standings per division
 
-When teams are grouped into divisions, the standings are displayed per division, so each group has its own ranking. See [results, standings and statistics](/results-standings-statistics/).
+When teams are grouped into divisions, the standings are displayed per division, so each group has its own ranking. See [results, standings and statistics](/results-standings-statistics/#standings-and-tiebreakers).
 
 {% include image.html src="help/divisions-standings.en.png" caption="The standings scoped to one division with the Season/Division filter; each division gets its own standings table this way, showing only its teams." %}
 

@@ -7,7 +7,7 @@ order: 120
 description: "Track season fees, payments, credits, and refunds per player, and see who still owes the league money."
 ---
 
-Billing is the league's ledger of what each player owes and has paid: no more paperwork to figure out who still owes you money. It tracks amounts inside League2GO; to actually collect money online, connect it with [online payments](/online-payments-setup/).
+Billing is the league's ledger of what each player owes and has paid: no more paperwork to figure out who still owes you money. It tracks amounts inside League2GO; to actually collect money online, connect it with [online payments](/online-payments-setup/#connecting-your-stripe-account).
 
 ## Setting the season fee
 
@@ -34,10 +34,10 @@ The billing table gives you the live picture: every player's fees, payments, and
 
 ## Seasons and balances
 
-Billing is specific to each season you configure. When you start a new season, player balances reset and you record that season's fee. See [seasons](/seasons/).
+Billing is specific to each season you configure. When you start a new season, player balances reset and you record that season's fee. See [seasons](/seasons/#starting-a-new-season-each-year).
 
 ## Collecting payments online
 
-Billing records the amounts; it does not move money by itself. If you set up online payments through your league's Stripe account, players can pay their fees online and you avoid chasing cash and e-transfers. See [online payments setup](/online-payments-setup/).
+Billing records the amounts; it does not move money by itself. If you set up online payments through your league's Stripe account, players can pay their fees online and you avoid chasing cash and e-transfers. See [online payments setup](/online-payments-setup/#connecting-your-stripe-account).
 
 Questions? Contact us at [info@league2go.com](mailto:info@league2go.com).

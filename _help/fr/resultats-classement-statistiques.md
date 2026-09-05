@@ -25,7 +25,7 @@ Chaque partie possède un onglet **Résultats**. À partir de celui-ci, saisisse
 
 {% include image.html src="help/results-entry.fr.png" caption="La grille des statistiques par joueur dans l'onglet Résultats d'une partie, où l'on saisit les buts et les passes de chaque joueur" %}
 
-Les administrateurs de la ligue peuvent saisir les résultats, et vous pouvez aussi donner à quelqu'un le rôle de **marqueur** pour qu'il saisisse les résultats sans autres droits de gestion (voir [rôles et accès](/roles-et-acces/)).
+Les administrateurs de la ligue peuvent saisir les résultats, et vous pouvez aussi donner à quelqu'un le rôle de **marqueur** pour qu'il saisisse les résultats sans autres droits de gestion (voir [rôles et accès](/roles-et-acces/#ajouter-un-gestionnaire-ou-un-marqueur)).
 
 Pour noter les statistiques sur papier pendant la partie, exportez d'abord l'alignement en CSV (voir [jour de partie](/jour-de-partie/)).
 
@@ -47,7 +47,7 @@ Les statistiques accumulées par un joueur lorsqu'il joue **comme remplaçant** 
 
 ## Saisons passées et remise à zéro
 
-Les statistiques appartiennent à une saison. Lorsque vous créez une nouvelle saison, le classement et les statistiques repartent à zéro ; les saisons précédentes et leurs statistiques sont conservées et demeurent consultables. Voir [saisons](/saisons/).
+Les statistiques appartiennent à une saison. Lorsque vous créez une nouvelle saison, le classement et les statistiques repartent à zéro ; les saisons précédentes et leurs statistiques sont conservées et demeurent consultables. Voir [saisons](/saisons/#commencer-une-nouvelle-saison-chaque-année).
 
 Pour saisir les résultats d'années antérieures, créez des saisons avec des dates passées et entrez les parties et les résultats sous ces saisons.
 

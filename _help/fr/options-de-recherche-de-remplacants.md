@@ -19,7 +19,7 @@ Voici la référence de chaque option qui contrôle la [recherche automatique de
 
 **Quand l'ajuster :** raccourcissez le délai si vos remplaçants acceptent puis oublient les parties lointaines; allongez-le si vos parties sont difficiles à combler.
 
-**Réglez-le à 0 pour désactiver complètement la recherche automatique.** Aucune demande n'est envoyée et vous [choisissez les remplaçants manuellement](/gerer-les-remplacants/) pour chaque partie.
+**Réglez-le à 0 pour désactiver complètement la recherche automatique.** Aucune demande n'est envoyée et vous [choisissez les remplaçants manuellement](/gerer-les-remplacants/#choisir-un-remplaçant-manuellement) pour chaque partie.
 
 **Exemple :** avec une recherche qui débute 7 jours avant les parties, une absence déclarée 3 semaines d'avance reste en attente jusqu'à 7 jours avant la partie, puis les demandes partent.
 
@@ -83,7 +83,7 @@ Les forces permettent à la recherche de proposer des remplaçants de calibre co
 
 **Ce que ça fait :** lorsque vous cochez **Inclure les prix dans les demandes de remplacement**, le montant que le remplaçant paie pour jouer est inclus dans chaque demande, ainsi que dans le message envoyé à un remplaçant que vous assignez manuellement. Vous entrez un montant par position, et les positions peuvent différer : par exemple 20 $ pour un défenseur ou un attaquant, mais gratuit pour un gardien de but.
 
-**Quand l'ajuster :** activez l'option pour que les remplaçants se présentent en sachant ce qu'ils doivent. Pour percevoir le montant en ligne plutôt qu'en argent comptant, consultez [les paiements en ligne](/configurer-les-paiements-en-ligne/).
+**Quand l'ajuster :** activez l'option pour que les remplaçants se présentent en sachant ce qu'ils doivent. Pour percevoir le montant en ligne plutôt qu'en argent comptant, consultez [les paiements en ligne](/configurer-les-paiements-en-ligne/#facturer-les-remplaçants-par-partie).
 
 {% include image.html src="help/substitute-settings-prices.fr.png" caption="Inclure les prix dans les demandes de remplacement : une fois l'option cochée, chaque position a son propre champ de prix." %}
 

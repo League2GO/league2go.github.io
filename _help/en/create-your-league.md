@@ -62,7 +62,7 @@ See [schedule and calendar](/schedule-and-calendar/) for repeating games, cancel
 
 ## 7. Review your league settings (optional)
 
-In the Settings tab you can add other [managers](/roles-and-access/), create [seasons](/seasons/), configure your [statistics](/results-standings-statistics/), tune the [substitute search](/substitute-search-settings/) and adjust automated [notifications](/notifications/). You can also set up a public [league website](/league-website/).
+In the Settings tab you can add other [managers](/roles-and-access/#adding-a-manager-or-a-scorekeeper), create [seasons](/seasons/), configure your [statistics](/results-standings-statistics/#configuring-what-gets-recorded), tune the [substitute search](/substitute-search-settings/) and adjust automated [notifications](/notifications/#game-reminders). You can also set up a public [league website](/league-website/).
 
 Your players can use the free [mobile app](/mobile-app/) to see their schedule and declare absences.
 

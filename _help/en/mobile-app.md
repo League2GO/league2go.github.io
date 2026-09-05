@@ -9,7 +9,7 @@ description: "Download the free app for iPhone and Android, and learn what it ca
 
 The League2GO mobile app gives you access to your leagues anytime, from your iPhone or Android phone. It is **free for everyone**: managers, players and substitutes.
 
-The app is optional: everything players need is also available on the website at [league2go.com](https://league2go.com). We still recommend it, because once installed it delivers **push notifications** for game reminders, substitution requests and messages. See [mobile notifications](/mobile-notifications/).
+The app is optional: everything players need is also available on the website at [league2go.com](https://league2go.com). We still recommend it, because once installed it delivers **push notifications** for game reminders, substitution requests and messages. See [mobile notifications](/mobile-notifications/#push-notifications).
 
 ## Download the app
 
