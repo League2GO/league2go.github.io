@@ -17,7 +17,7 @@ Trois choses à comprendre avant de commencer :
 
 * **L'argent est le vôtre, pas celui de League2GO.** Les paiements passent par le compte Stripe de votre ligue : League2GO ne détient jamais l'argent.
 * **Les remboursements sont émis par vous**, à partir de votre [tableau de bord Stripe](https://dashboard.stripe.com). Le soutien League2GO ne peut pas rembourser un joueur, puisque League2GO n'a jamais l'argent.
-* **Stripe vous enverra des courriels au sujet de votre compte** (vérification d'identité ou d'entreprise). Ces courriels peuvent tomber dans les indésirables, et les ignorer entraîne la suspension de vos versements. Voir la section sur les courriels de conformité Stripe plus bas.
+* **Stripe vous enverra des courriels au sujet de votre compte** (vérification d'identité ou d'entreprise). Les ignorer entraîne la suspension de vos versements. Voir la section sur les courriels de conformité Stripe plus bas.
 
 ## Connecter votre compte Stripe
 
@@ -83,11 +83,11 @@ Le soutien League2GO ne peut pas émettre de remboursement : l'argent est allé 
 
 ## Les courriels de conformité Stripe : ne les ignorez pas
 
-Stripe demande périodiquement des informations d'entreprise ou d'identité à jour pour garder votre compte conforme. Ces demandes arrivent **par courriel et peuvent tomber dans vos indésirables**.
+Stripe demande périodiquement des informations d'entreprise ou d'identité à jour pour garder votre compte conforme. Ces demandes arrivent **par courriel**.
 
 Si vous n'y donnez pas suite, **Stripe suspend vos versements** : les joueurs semblent payer, mais l'argent cesse d'arriver dans votre compte bancaire. Si les paiements semblent bloqués :
 
-* Vérifiez votre boîte de réception **et vos indésirables** pour des courriels de Stripe.
+* Vérifiez votre boîte de réception pour des courriels de Stripe.
 * Connectez-vous à votre [tableau de bord Stripe](https://dashboard.stripe.com) et complétez toute vérification demandée.
 
 ## Articles reliés

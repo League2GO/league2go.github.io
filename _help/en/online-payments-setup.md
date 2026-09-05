@@ -17,7 +17,7 @@ Three things to understand before you start:
 
 * **The money is yours, not League2GO's.** Payments flow through your league's Stripe account; League2GO never holds the money.
 * **Refunds are issued by you**, from your [Stripe dashboard](https://dashboard.stripe.com). League2GO support cannot refund a player, because League2GO never has the money.
-* **Stripe will email you about your account** (identity or business verification). These emails can land in spam, and ignoring them gets your payouts suspended. See the Stripe compliance emails section below.
+* **Stripe will email you about your account** (identity or business verification). Ignoring them gets your payouts suspended. See the Stripe compliance emails section below.
 
 ## Connecting your Stripe account
 
@@ -83,11 +83,11 @@ League2GO support cannot issue refunds: the money went directly to your Stripe a
 
 ## Stripe compliance emails: don't ignore them
 
-Stripe periodically asks for updated business or identity information to keep your account compliant. These requests arrive **by email and can land in your spam folder**.
+Stripe periodically asks for updated business or identity information to keep your account compliant. These requests arrive **by email**.
 
 If you do not act on them, **Stripe suspends your payouts**: players can appear to pay, but the money stops reaching your bank account. If payments seem stuck:
 
-* Check your inbox **and spam** for emails from Stripe.
+* Check your inbox for emails from Stripe.
 * Log in to your [Stripe dashboard](https://dashboard.stripe.com) and complete any requested verification.
 
 ## Related articles
