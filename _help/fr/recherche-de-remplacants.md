@@ -45,7 +45,7 @@ Depuis la partie, ouvrez le panneau **voir les remplaçants** pour consulter qui
 
 ## Pourquoi un remplaçant précis n'a pas été contacté
 
-Presque toutes les situations « la recherche ne fonctionne pas » se résument à l'un de ces cas. Un remplaçant est ignoré, ou contacté plus tard, lorsqu'il :
+Lorsqu'un remplaçant que vous attendiez n'a pas été contacté, c'est généralement pour l'une de ces raisons. Un remplaçant est ignoré, ou contacté plus tard, lorsqu'il :
 
 * A **déjà refusé** la demande pour cette partie.
 * A une **demande précédente restée sans réponse** : League2GO attend sa réponse avant de lui en envoyer une autre.
@@ -55,6 +55,6 @@ Presque toutes les situations « la recherche ne fonctionne pas » se résument 
 * **N'a jamais complété son inscription** : un remplaçant qui n'a pas terminé son inscription ne peut pas recevoir de demandes. Consultez [ajouter des joueurs](/ajouter-des-joueurs/) pour le fonctionnement de l'inscription.
 * Ne correspond pas encore à la **position ou à la plage de force** du joueur absent; il pourrait être contacté plus tard si votre ligue étend la plage progressivement.
 
-Si un remplaçant affirme n'avoir jamais reçu de demande, vérifiez d'abord le panneau voir les remplaçants, puis son statut d'inscription, puis ses [paramètres de notifications](/notifications-et-rappels/).
+Si un remplaçant dit n'avoir jamais reçu de demande, vérifiez d'abord le panneau voir les remplaçants, puis son statut d'inscription, puis ses [paramètres de notifications](/notifications-et-rappels/).
 
 Des questions ? Écrivez-nous à [info@league2go.com](mailto:info@league2go.com).

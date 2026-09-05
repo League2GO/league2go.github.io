@@ -45,7 +45,7 @@ From the game, open the **view substitutes** panel to see who was contacted for 
 
 ## Why a specific substitute was not contacted
 
-Almost every "the search is broken" situation is one of these. A substitute is skipped, or delayed, when they:
+When a substitute you expected to hear from was not contacted, it is usually for one of these reasons. A substitute is skipped, or contacted later, when they:
 
 * **Already declined** the request for this game.
 * Have an **unanswered previous request**: League2GO waits for their answer before sending another.
@@ -55,6 +55,6 @@ Almost every "the search is broken" situation is one of these. A substitute is s
 * **Never completed their registration**: a substitute who has not finished signing up cannot receive requests. See [adding players](/adding-players/) for how registration works.
 * Do not yet match the **position or skill-rating range** for the absent player; they may still be contacted later if your league widens the range gradually.
 
-If a substitute insists they never got a request, check the view substitutes panel first, then their registration status, then their [notification settings](/notifications/).
+If a substitute says they never got a request, check the view substitutes panel first, then their registration status, then their [notification settings](/notifications/).
 
 Questions? Contact us at [info@league2go.com](mailto:info@league2go.com).
