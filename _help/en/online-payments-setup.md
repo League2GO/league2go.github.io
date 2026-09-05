@@ -11,12 +11,12 @@ redirect_from:
   - /payments-player/
 ---
 
-League2GO lets your players and substitutes pay by credit card, so you never have to collect cash, give change, or chase payments at the rink. Payments are processed by **Stripe** and deposited **directly into your league's own Stripe account**.
+League2GO lets your players and substitutes pay by credit card, so you never have to collect cash, give change, or chase payments on game day. Payments are processed by **Stripe** and deposited **directly into your league's own Stripe account**.
 
 Three things to understand before you start:
 
 * **The money is yours, not League2GO's.** Payments flow through your league's Stripe account; League2GO never holds the money.
-* **Refunds are issued by you**, from your Stripe dashboard. League2GO support cannot refund a player, because League2GO never has the money.
+* **Refunds are issued by you**, from your [Stripe dashboard](https://dashboard.stripe.com). League2GO support cannot refund a player, because League2GO never has the money.
 * **Stripe will email you about your account** (identity or business verification). These emails can land in spam, and ignoring them gets your payouts suspended. See the Stripe compliance emails section below.
 
 ## Connecting your Stripe account
@@ -77,7 +77,7 @@ Each player then sees the fee at the top of their schedule, on the website and i
 
 ## Refunds
 
-Refunds are issued from **your Stripe dashboard** (log in at stripe.com with the account you created above). Find the payment and refund it there.
+Refunds are issued from **your [Stripe dashboard](https://dashboard.stripe.com)** (log in with the account you created above). Find the payment and refund it there.
 
 League2GO support cannot issue refunds: the money went directly to your Stripe account and League2GO never held it. If a player asks League2GO for a refund, they will be redirected to you. See [who to contact](/who-to-contact/).
 
@@ -88,7 +88,7 @@ Stripe periodically asks for updated business or identity information to keep yo
 If you do not act on them, **Stripe suspends your payouts**: players can appear to pay, but the money stops reaching your bank account. If payments seem stuck:
 
 * Check your inbox **and spam** for emails from Stripe.
-* Log in to your Stripe dashboard and complete any requested verification.
+* Log in to your [Stripe dashboard](https://dashboard.stripe.com) and complete any requested verification.
 
 ## Related articles
 

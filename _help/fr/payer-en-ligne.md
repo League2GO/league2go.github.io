@@ -39,7 +39,7 @@ Votre carte est enregistrée pour que vous n'ayez pas à la retaper. Pour utilis
 
 ## Les remboursements
 
-Contactez **votre gestionnaire de ligue** pour tout remboursement. Les paiements vont directement dans le compte Stripe de votre ligue, et c'est le gestionnaire qui émet les remboursements à partir de son tableau de bord Stripe.
+Contactez **votre gestionnaire de ligue** pour tout remboursement. Les paiements vont directement dans le compte Stripe de votre ligue, et c'est le gestionnaire qui émet les remboursements à partir de son [tableau de bord Stripe](https://dashboard.stripe.com).
 
 Le soutien League2GO **ne peut pas** vous rembourser : l'argent ne passe jamais par League2GO. Vous ne savez pas qui gère votre ligue ? Voyez [qui contacter](/qui-contacter/).
 

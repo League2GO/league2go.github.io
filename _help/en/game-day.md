@@ -63,7 +63,7 @@ Open the lineup editor with **Edit Lineup** and use the **Lineup type** selector
 
 ## Printing the lineup
 
-To print a game lineup, go to the game details and click the **Print Lineup** button. A print-optimized page with the game's information is generated. You can post these pages at the arena, for example to direct players to the right locker room.
+To print a game lineup, go to the game details and click the **Print Lineup** button. A print-optimized page with the game's information is generated. You can post these pages at the venue, for example to direct players to the right locker room.
 
 {% include image.html src="help/game-day-print-menu.en.png" caption="Print Lineup lives in the game menu (the round button at the top of the game page) and opens a print-optimized lineup sheet in your browser's print dialog." %}
 

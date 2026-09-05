@@ -63,7 +63,7 @@ Une option permet de basculer entre les deux modes, pour que les ligues qui n'or
 
 ## Imprimer l'alignement
 
-Pour imprimer l'alignement d'une partie, allez dans le détail de la partie et cliquez sur le bouton **« Imprimer l'alignement »**. Une page optimisée contenant l'information de la partie est générée. Vous pouvez afficher ces pages à l'aréna pour, par exemple, orienter les joueurs vers le bon vestiaire.
+Pour imprimer l'alignement d'une partie, allez dans le détail de la partie et cliquez sur le bouton **« Imprimer l'alignement »**. Une page optimisée contenant l'information de la partie est générée. Vous pouvez afficher ces pages sur place pour, par exemple, orienter les joueurs vers le bon vestiaire.
 
 {% include image.html src="help/game-day-print-menu.fr.png" caption="Imprimer l'alignement se trouve dans le menu de la partie (le bouton rond en haut de la page de la partie) et ouvre une feuille d'alignement optimisée pour l'impression dans la boîte d'impression de votre navigateur." %}
 

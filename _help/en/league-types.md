@@ -36,7 +36,7 @@ Before a game starts, open the game details and click Create lineup. Assign play
 
 {% include image.html src="help/league-types-pickup-create-lineup.en.png" caption="A pick-up game's Create Lineup view: the league's player pool split into two generated teams; Generate Lineup reshuffles them into balanced sides." %}
 
-Once satisfied, select Send lineup to players to notify everyone, or print the lineup to post at the arena.
+Once satisfied, select Send lineup to players to notify everyone, or print the lineup to post at the venue.
 
 
 Even in a pick-up league, the two teams have a name, a color and a logo; customize them under **Settings > Teams**.

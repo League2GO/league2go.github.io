@@ -36,7 +36,7 @@ Avant le début d'une partie, ouvrez le détail de la partie puis cliquez sur Cr
 
 {% include image.html src="help/league-types-pickup-create-lineup.fr.png" caption="La vue Créer l'alignement d'une partie pick-up : la banque de joueurs de la ligue répartie en deux équipes générées; Générer un alignement les redistribue en équipes équilibrées." %}
 
-Une fois satisfait, cochez Envoyer l'alignement aux joueurs pour aviser tout le monde, ou imprimez l'alignement pour l'afficher à l'aréna.
+Une fois satisfait, cochez Envoyer l'alignement aux joueurs pour aviser tout le monde, ou imprimez l'alignement pour l'afficher sur place.
 
 
 Même dans une ligue pick-up, les deux équipes ont un nom, une couleur et un logo : personnalisez-les sous **Paramètres > Équipes**.

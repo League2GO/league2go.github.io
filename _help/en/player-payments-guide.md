@@ -39,7 +39,7 @@ Your card is saved so you don't have to retype it. To use a different card, simp
 
 ## Refunds
 
-Contact **your league manager** for any refund. Payments go directly to your league's own Stripe account, and the manager issues refunds from their Stripe dashboard.
+Contact **your league manager** for any refund. Payments go directly to your league's own Stripe account, and the manager issues refunds from their [Stripe dashboard](https://dashboard.stripe.com).
 
 League2GO support **cannot** refund you: the money never passes through League2GO. Not sure who runs your league? See [who to contact](/who-to-contact/).
 
