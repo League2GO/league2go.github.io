@@ -15,17 +15,11 @@ Pour configurer le comportement décrit ici, consultez les [options de la recher
 
 ## Ce qui déclenche une recherche
 
-Une recherche démarre lorsque :
+Une recherche démarre lorsqu'**un joueur déclare lui-même son absence** pour une partie. Si votre ligue fixe un [nombre cible de joueurs par équipe](/equipes-et-parametres/), la recherche ne démarre que si l'absence fait passer l'alignement sous cette cible : une équipe encore à la cible ou au-dessus n'a pas besoin de remplaçant, donc personne n'est contacté. Si la recherche automatique de votre ligue est **désactivée** (début de la recherche réglé à 0 jour avant les parties), rien ne démarre de soi-même et vous [choisissez les remplaçants manuellement](/gerer-les-remplacants/).
 
-* **Un joueur déclare lui-même son absence** pour une partie (depuis l'application ou le site web).
-* **Un gestionnaire déclare une absence au nom d'un joueur et demande explicitement une recherche.** Une absence déclarée par un gestionnaire ne déclenche **pas** de recherche à elle seule : vous pouvez ainsi noter une absence sans envoyer de demandes, par exemple quand vous avez déjà un remplaçant en tête.
+Un gestionnaire peut aussi lancer une recherche. Lorsque vous déclarez une absence au nom d'un joueur, l'absence à elle seule ne déclenche **rien** : vous pouvez ainsi la noter sans envoyer de demandes, par exemple quand vous avez déjà un remplaçant en tête. Demandez explicitement la recherche lorsque vous voulez que League2GO trouve quelqu'un.
 
-Une recherche ne démarre **pas** lorsque :
-
-* L'alignement de l'équipe est encore au **nombre de joueurs cible** configuré pour votre ligue, ou au-dessus : aucun remplacement n'est nécessaire, donc personne n'est contacté.
-* La recherche automatique de votre ligue est **désactivée** (début de la recherche réglé à 0 jour avant les parties). Dans ce cas, vous [choisissez les remplaçants manuellement](/gerer-les-remplacants/).
-
-Les demandes sont envoyées à l'intérieur de la fenêtre configurée dans les paramètres de votre ligue (un nombre de jours avant la partie). Si une absence est déclarée plus tôt, la recherche attend l'ouverture de cette fenêtre.
+La recherche ne démarre pas forcément au moment où l'absence est déclarée. Les demandes commencent à partir un certain temps avant la partie, soit le nombre de jours que vous choisissez dans les paramètres de votre ligue. Une absence déclarée plus tôt attend simplement, et la recherche démarre quand la partie est à ce nombre de jours.
 
 ## Qui est contacté, et dans quel ordre
 

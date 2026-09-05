@@ -15,17 +15,11 @@ To configure the behavior described here, see [substitute search settings](/subs
 
 ## What starts a search
 
-A search starts when:
+A search starts when **a player declares their own absence** for a game. If your league sets a [target number of players per team](/teams-and-team-settings/), the search only starts when the absence puts the lineup below that target: a team still at or above it needs no replacement, so no one is contacted. If your league's automatic search is **disabled** (search start set to 0 days before games), nothing starts on its own and you [pick substitutes manually](/managing-substitutes/).
 
-* **A player declares their own absence** for a game (from the app or the website).
-* **A manager declares an absence on a player's behalf and explicitly requests a search.** A manager-declared absence alone does **not** start a search; this lets you record an absence without triggering requests, for example when you already have a replacement lined up.
+A manager can start a search too. When you declare an absence on a player's behalf, the absence alone does **not** trigger anything, so you can record it without sending requests, for example when you already have a replacement lined up. Request the search explicitly when you want League2GO to find someone.
 
-A search does **not** start when:
-
-* The team's lineup is still at or above the **target player count** configured for your league: no replacement is needed, so no one is contacted.
-* Your league's automatic search is **disabled** (search start set to 0 days before games). In that case you [pick substitutes manually](/managing-substitutes/).
-
-Requests go out within the window configured in your league settings (a number of days before the game). If an absence is declared earlier than that, the search waits until the window opens.
+The search does not necessarily begin the moment the absence is declared. Requests start going out a set time before the game, the number of days you choose in your league settings. An absence declared earlier than that simply waits, and the search begins once the game is that many days away.
 
 ## Who is contacted, and in what order
 
