@@ -41,7 +41,7 @@ Les parents sont avisés quand :
 * un remplaçant est demandé pour la place de leur enfant, et ce qu'il en coûte;
 * un gestionnaire de ligue envoie un message à l'équipe ou à la ligue.
 
-Pour celles-ci, chaque parent choisit les courriels, les notifications poussées, ou les deux, dans son propre profil. Consultez [notifications et rappels](/notifications-et-rappels/) et [notifications mobiles](/notifications-mobile/).
+Pour celles-ci, chaque parent choisit les courriels, les notifications push, ou les deux, dans son propre profil. Consultez [notifications et rappels](/notifications-et-rappels/) et [notifications mobiles](/notifications-mobile/).
 
 ## Ce que les parents peuvent faire
 
