@@ -16,6 +16,7 @@ A youth league is a league whose players are under 18. The children do not hold 
 * Players are entered without an email address or a cell number of their own.
 * Each player carries a list of **parents**, and it is the parents who get accounts.
 * Scheduling a game costs no [game credit](/pricing-and-game-credits/).
+* Practices can go on the calendar too: check **This is a practice** when adding a game.
 
 You choose the audience when the league is created. The league type (fixed teams or pick-up) and the sport are separate choices; see [league types](/league-types/).
 
@@ -23,11 +24,15 @@ You choose the audience when the league is created. The league type (fixed teams
 
 Open the **Teams** tab and click **Add player** below the team's roster, the same way as in any league (see [adding players](/adding-players/)). In a youth league the form asks for the child's name, position and jersey number, and then for their **parents**.
 
+{% include image.html src="help/youth-player-form-parents.en.png" caption="The player form in a youth league: no email or phone number for the child, a Parents section instead. Add parent adds another parent to the child." %}
+
 Add a parent with their first name, last name, and an email address or a cell number. Add as many parents as the family needs: a child can carry two parents, or more. You can also leave a note on a parent, which shows next to their name on the roster.
 
 Each parent is invited to register with the exact email address or cell number you entered, exactly as a player would be in an adult league. The **child is never invited and never registers**: they have no account.
 
 On the roster, the contact column shows each parent's name, email address and phone number, and marks any parent who has not finished registering yet.
+
+{% include image.html src="help/youth-roster-parents.en.png" caption="The roster of a youth league: the Contact column lists each child's parents, with Registration pending beside a parent who has not signed up yet." %}
 
 ## What parents receive
 
@@ -46,6 +51,10 @@ For these, each parent chooses email, push notifications, or both, in their own 
 ## What parents can do
 
 A parent signs in with their own account. Their schedule lists every game of every one of their children, and each game carries the name of the child it belongs to. A parent with two children in the club sees both children's games in one list.
+
+The same goes for a parent who plays in a league of their own: their schedule shows their own games and their children's games and practices together, in date order. Only the children's entries carry a child's name.
+
+{% include image.html src="help/youth-parent-schedule.en.png" caption="A parent's schedule: their child's game and practice, each marked with the child's name, then the game the parent plays in an adult league." %}
 
 From a game, a parent can:
 

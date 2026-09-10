@@ -16,6 +16,7 @@ Une ligue mineure est une ligue dont les joueurs ont moins de 18 ans. Les enfant
 * Les joueurs sont inscrits sans adresse courriel ni numéro de cellulaire à eux.
 * Chaque joueur porte une liste de **parents**, et ce sont les parents qui ont un compte.
 * Céduler une partie ne coûte aucun [crédit de partie](/prix-et-credits-de-partie/).
+* Les pratiques ont aussi leur place au calendrier : cochez **Ceci est une pratique** en ajoutant une partie.
 
 Vous choisissez la clientèle au moment de créer la ligue. Le type de ligue (équipes fixes ou pick-up) et le sport sont des choix distincts; consultez [types de ligue](/types-de-ligue/).
 
@@ -23,11 +24,15 @@ Vous choisissez la clientèle au moment de créer la ligue. Le type de ligue (é
 
 Ouvrez l'onglet **Équipes** et cliquez sur **Ajouter un joueur** sous l'alignement de l'équipe, comme dans n'importe quelle ligue (voir [ajouter des joueurs](/ajouter-des-joueurs/)). Dans une ligue mineure, le formulaire demande le nom de l'enfant, sa position et son numéro de chandail, puis ses **parents**.
 
+{% include image.html src="help/youth-player-form-parents.fr.png" caption="Le formulaire de joueur dans une ligue mineure : ni courriel ni téléphone pour l'enfant, mais une section Parents. Ajouter un parent ajoute un autre parent à l'enfant." %}
+
 Ajoutez un parent avec son prénom, son nom, et une adresse courriel ou un numéro de cellulaire. Ajoutez autant de parents que la famille en a besoin : un enfant peut avoir deux parents, ou plus. Vous pouvez aussi laisser une note sur un parent, qui s'affiche à côté de son nom dans l'alignement.
 
 Chaque parent est invité à s'inscrire avec exactement l'adresse courriel ou le numéro de cellulaire que vous avez entré, exactement comme un joueur le serait dans une ligue adulte. L'**enfant n'est jamais invité et ne s'inscrit jamais** : il n'a pas de compte.
 
 Dans l'alignement, la colonne Contact affiche le nom, le courriel et le numéro de téléphone de chaque parent, et marque les parents qui n'ont pas terminé leur inscription.
+
+{% include image.html src="help/youth-roster-parents.fr.png" caption="L'alignement d'une ligue mineure : la colonne Contact liste les parents de chaque enfant, avec Inscription en attente à côté d'un parent qui ne s'est pas encore inscrit." %}
 
 ## Ce que les parents reçoivent
 
@@ -46,6 +51,10 @@ Pour celles-ci, chaque parent choisit les courriels, les notifications push, ou 
 ## Ce que les parents peuvent faire
 
 Un parent se connecte avec son propre compte. Son horaire liste toutes les parties de chacun de ses enfants, et chaque partie porte le nom de l'enfant à qui elle appartient. Un parent qui a deux enfants dans le club voit les parties des deux dans une seule liste.
+
+C'est la même chose pour un parent qui joue dans sa propre ligue : son horaire affiche ses propres parties ainsi que les parties et les pratiques de ses enfants, ensemble, en ordre de date. Seules les entrées des enfants portent le nom de l'enfant.
+
+{% include image.html src="help/youth-parent-schedule.fr.png" caption="L'horaire d'un parent : la partie et la pratique de son enfant, chacune marquée du nom de l'enfant, puis la partie que le parent joue dans une ligue adulte." %}
 
 À partir d'une partie, un parent peut :
 
