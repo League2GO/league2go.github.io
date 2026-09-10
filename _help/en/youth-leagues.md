@@ -25,7 +25,7 @@ Open the **Teams** tab and click **Add player** below the team's roster, the sam
 
 Add a parent with their first name, last name, and an email address or a cell number. Add as many parents as the family needs: a child can carry two parents, or more. You can also leave a note on a parent, which shows next to their name on the roster.
 
-Each parent is invited to register with the exact email address or cell number you entered, exactly as a player would be in an adult league. The **child is never invited and never registers** — they have no account.
+Each parent is invited to register with the exact email address or cell number you entered, exactly as a player would be in an adult league. The **child is never invited and never registers**: they have no account.
 
 On the roster, the contact column shows each parent's name, email address and phone number, and marks any parent who has not finished registering yet.
 
@@ -57,6 +57,6 @@ There is no separate parent site: parents use the same schedule, game and profil
 
 ## What a youth league costs
 
-Nothing. An adult league buys game credits and spends one for each scheduled game; a youth league spends none, no matter how many games the season holds. Nobody in the league pays League2GO — not the children, not the parents, not the coaches, not the managers. See [pricing and game credits](/pricing-and-game-credits/) for how credits work in adult leagues.
+Nothing. An adult league buys game credits and spends one for each scheduled game; a youth league spends none, no matter how many games the season holds. Nobody in the league pays League2GO: not the children, not the parents, not the coaches, not the managers. See [pricing and game credits](/pricing-and-game-credits/) for how credits work in adult leagues.
 
 Questions? Contact us at [info@league2go.com](mailto:info@league2go.com).
