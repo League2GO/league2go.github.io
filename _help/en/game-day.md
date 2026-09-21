@@ -52,14 +52,15 @@ For how automatic searches work, see the [substitute search overview](/substitut
 
 ## Simple lineup or lines
 
-The lineup can be displayed in two modes:
+The **Lineup type** selector sets how the lineup is arranged:
 
 * **Simple lineup**: a flat list of players and positions.
-* **Lines**: players grouped into forward lines and defence pairings, with the goaltender on their own.
+* **5 on 5**: players grouped into forward lines and defence pairings, with the goaltender on their own.
+* **4 on 4** and **3 on 3**: shorter lines for small-ice leagues, two forwards with two defence or with one.
 
-Open the lineup editor with **Edit Lineup** and use the **Lineup type** selector to switch between the two, so leagues that do not organize lines can keep the simple view.
+Open the lineup editor with **Edit Lineup** and pick the type there, so leagues that do not organize lines can keep the simple view. The editor opens the next game on the type last picked in the same browser.
 
-{% include image.html src="help/game-day-lineup-type-toggle.en.png" caption="The Lineup type selector in the lineup editor switches the display between the simple lineup and lines." %}
+{% include image.html src="help/game-day-lineup-type-toggle.en.png" caption="The Lineup type selector in the lineup editor switches between the simple lineup and the line formations." %}
 
 ## Printing the lineup
 
