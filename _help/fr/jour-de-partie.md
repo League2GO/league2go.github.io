@@ -52,14 +52,15 @@ Pour le fonctionnement des recherches automatiques, consultez la [recherche de r
 
 ## Alignement simple ou trios
 
-L'alignement peut être affiché de deux façons :
+Le sélecteur **Type d'alignement** détermine la façon dont l'alignement est organisé :
 
 * **Alignement simple** : une liste de joueurs et de positions.
-* **Trios** : les joueurs regroupés en trios d'attaque et en paires.
+* **5 contre 5** : les joueurs regroupés en trios d'attaque et en paires de défenseurs, avec le gardien à part.
+* **4 contre 4** et **3 contre 3** : des lignes plus courtes pour les ligues sur petite glace, deux attaquants avec deux défenseurs ou avec un seul.
 
-Une option permet de basculer entre les deux modes, pour que les ligues qui n'organisent pas de trios conservent l'affichage simple. <!-- TODO: vérifier le libellé exact et l'emplacement de l'option -->
+Ouvrez l'éditeur avec **Modifier l'alignement** et choisissez-y le type, pour que les ligues qui n'organisent pas de trios conservent l'affichage simple. L'éditeur ouvre la prochaine partie sur le dernier type choisi dans le même navigateur.
 
-{% include image.html src="help/game-day-lineup-type-toggle.fr.png" caption="Le sélecteur Type d'alignement dans l'éditeur d'alignement bascule l'affichage entre l'alignement simple et les trios d'attaque." %}
+{% include image.html src="help/game-day-lineup-type-toggle.fr.png" caption="Le sélecteur Type d'alignement dans l'éditeur d'alignement bascule entre l'alignement simple et les formations en lignes." %}
 
 ## Imprimer l'alignement
 
