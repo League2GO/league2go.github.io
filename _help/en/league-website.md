@@ -31,9 +31,9 @@ Use the **News** tab to inform your players of the latest updates. News items ar
 
 Three built-in pages let you post information about your league: **Rules**, **About**, and **Partners**. Enter your content with the text editor, then activate each page to show it in your site's menu. The formatting you set is kept on the published page. The editor lets you upload images, choose text colors, add separators, tables, and videos, and preview a page before publishing it.
 
-To add a **custom page**, go to the **Website** tab of your league settings and click the **Add page** pill at the end of the tab row. Enter the page's menu name, its address, and its content. Your custom pages then appear in the **Pages** list of the **General** tab, where a switch shows or hides each one and the arrows set their order in the site menu.
+To add a **custom page**, go to the **Website** tab of your league settings and click the **Add page** pill at the end of the tab row. Enter the page's menu name, its address, and its content. Your custom pages then appear in the **Pages** list of the **General** tab, where a switch shows or hides each one. Drag a page by its handle to set its order in the site menu; the handle also moves a page from the keyboard.
 
-{% include image.html src="help/website-pages.en.png" caption="The Pages list of the website tab: built-in and custom pages, each with its show/hide toggle and the arrows to reorder the site menu." %}
+{% include image.html src="help/website-pages.en.png" caption="The Pages list of the website tab: built-in and custom pages, each with its show/hide toggle and the drag handle that sets its order in the site menu." %}
 
 You can also change the website's **background image** from the settings: pick one of the available images or upload your own.
 
