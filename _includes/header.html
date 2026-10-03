@@ -8,6 +8,9 @@
                 <li class="nav-help">
                     <a href="{{ site.baseurl }}/{{ page.lang }}">{{ site.t[page.lang].help_center }}</a>
                 </li>
+                <li class="nav-whats-new">
+                    <a href="{{ site.baseurl }}{{ site.pages | where: "localization", "whats-new" | where: "lang", page.lang | map: "url" | first }}">{{ site.t[page.lang].whats_new_link }}</a>
+                </li>
 
                 {% assign articles=site.help | where:"localization", page.localization | sort: 'lang' %}
                 {% for a in articles reversed %}

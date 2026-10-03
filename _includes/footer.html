@@ -8,6 +8,7 @@
             <ul>
                 <li><a href="{{ site.baseurl }}/en">English</a></li>
                 <li><a href="{{ site.baseurl }}/fr">Français</a></li>
+                <li><a href="{{ site.baseurl }}{{ site.pages | where: "localization", "whats-new" | where: "lang", page.lang | map: "url" | first }}">{{ site.t[page.lang].whats_new_link }}</a></li>
             </ul>
         </div>
         <div class="footer-col">

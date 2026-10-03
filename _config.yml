@@ -128,6 +128,16 @@ t:
       substitutes: Substitute search
       payments: Online payments
       players: For players
+    whats_new_link: What's new
+    months: [January, February, March, April, May, June, July, August, September, October, November, December]
+    whats_new:
+      intro: "What we improved in League2GO, newest first. Many of these changes come straight from your feedback."
+      week: "Week of %month% %day%, %year%"
+      learn_more: "Learn more:"
+      audiences:
+        managers: For managers
+        players: For players
+        everyone: For everyone
   fr:
     header:
     footer: "© League2GO"
@@ -143,3 +153,13 @@ t:
       substitutes: Recherche de remplaçants
       payments: Paiements en ligne
       players: Pour les joueurs
+    whats_new_link: Nouveautés
+    months: [janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre]
+    whats_new:
+      intro: "Ce que nous avons amélioré dans League2GO, du plus récent au plus ancien. Plusieurs de ces changements viennent directement de vos commentaires."
+      week: "Semaine du %day% %month% %year%"
+      learn_more: "En savoir plus:"
+      audiences:
+        managers: Pour les gestionnaires
+        players: Pour les joueurs
+        everyone: Pour tous

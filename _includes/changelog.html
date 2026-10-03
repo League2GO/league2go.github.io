@@ -1,0 +1,25 @@
+{% assign tr = site.t[page.lang].whats_new %}
+<p class="changelog-intro">{{ tr.intro }}</p>
+
+{% for week in site.data.changelog %}
+{% assign month_index = week.week | date: "%-m" | minus: 1 %}
+{% assign day = week.week | date: "%-d" %}
+{% assign year = week.week | date: "%Y" %}
+<section class="changelog-week">
+  <h2>{{ tr.week | replace: "%day%", day | replace: "%month%", site.t[page.lang].months[month_index] | replace: "%year%", year }}</h2>
+  {% for entry in week.entries %}
+  {% assign copy = entry[page.lang] %}
+  <div class="changelog-entry">
+    <span class="changelog-audience audience-{{ entry.audience }}">{{ tr.audiences[entry.audience] }}</span>
+    <h3>{{ copy.title }}</h3>
+    {{ copy.body | markdownify }}
+    {% if entry.help %}
+    {% assign article = site.help | where: "localization", entry.help | where: "lang", page.lang | first %}
+    {% if article %}
+    <p class="changelog-help"><a href="{{ article.url | prepend: site.baseurl }}">{{ tr.learn_more }} {{ article.title }}</a></p>
+    {% endif %}
+    {% endif %}
+  </div>
+  {% endfor %}
+</section>
+{% endfor %}
