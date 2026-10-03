@@ -13,10 +13,10 @@
     - audience: everyone
       en:
         title: "A new menu"
-        body: "The ☰ menu lists each of your leagues with its pages underneath: Schedule, Standings, Chat and more. The screens for running a league are grouped under **Management**."
+        body: "The ☰ menu lists each of your leagues with its pages underneath: Schedule, Standings, Stats, Chat and more."
       fr:
         title: "Un nouveau menu"
-        body: "Le menu ☰ présente chacune de vos ligues avec ses pages en dessous: Horaire, Classement, Chat et plus encore. Les écrans de gestion d'une ligue sont regroupés sous **Gestion**."
+        body: "Le menu ☰ présente chacune de vos ligues avec ses pages en dessous: Horaire, Classement, Statistiques, Chat et plus encore."
 
     - audience: everyone
       en:
@@ -26,13 +26,30 @@
         title: "Un bouton de retour sur chaque page"
         body: "Sur un téléphone, chaque page a maintenant un bouton de retour en haut qui indique où il mène, même si vous arrivez d'une notification."
 
+    - audience: everyone
+      help: results-standings-statistics
+      en:
+        title: "Standings and stats, each on its own page"
+        body: "Standings and statistics now each have their own page. The tables have a single row of filters, show every column on phones, and rank players by points."
+      fr:
+        title: "Le classement et les statistiques, chacun sa page"
+        body: "Le classement et les statistiques ont maintenant chacun leur page. Les tableaux ont une seule rangée de filtres, affichent toutes les colonnes sur téléphone et classent les joueurs par points."
+
     - audience: managers
       en:
         title: "More direct links to your league's screens"
-        body: "On a phone, the bar at the bottom of your league opens **Teams**, **Substitutes**, **Season**, **Management** and **Settings** in one tap."
+        body: "On a phone, the bar at the bottom of your league opens **Teams**, **Substitutes**, **Season**, **More** and **Settings** in one tap. **Season** holds the calendar, the standings and the stats."
       fr:
         title: "Des liens plus directs vers les écrans de votre ligue"
-        body: "Sur un téléphone, la barre au bas de votre ligue ouvre **Équipes**, **Remplaçants**, **Saison**, **Gestion** et **Paramètres** en un seul clic."
+        body: "Sur un téléphone, la barre au bas de votre ligue ouvre **Équipes**, **Remplaçants**, **Saison**, **Plus** et **Paramètres** en un seul clic. **Saison** regroupe le calendrier, le classement et les statistiques."
+
+    - audience: players
+      en:
+        title: "Captains can see their substitutes"
+        body: "Captains now have a **Substitutes** screen with the substitutes of the teams they captain."
+      fr:
+        title: "Les capitaines voient leurs remplaçants"
+        body: "Les capitaines ont maintenant un écran **Remplaçants** avec les remplaçants des équipes dont ils sont capitaines."
 
     - audience: players
       help: player-guide
@@ -87,15 +104,6 @@
       fr:
         title: "Le niveau des remplaçants est de retour"
         body: "**Voir les remplaçants** affiche de nouveau le niveau de chaque remplaçant. Dans les ligues à classement numérique, le filtre accepte n'importe quelle valeur."
-
-    - audience: everyone
-      help: results-standings-statistics
-      en:
-        title: "Every standings column on phones"
-        body: "On a phone, the standings and statistics tables now show every column: slide sideways to see them, while the team or player name stays in place."
-      fr:
-        title: "Toutes les colonnes du classement sur téléphone"
-        body: "Sur un téléphone, les tableaux du classement et des statistiques affichent maintenant toutes les colonnes: glissez de côté pour les voir, pendant que le nom de l'équipe ou du joueur reste en place."
 
     - audience: everyone
       en:
