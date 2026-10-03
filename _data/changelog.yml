@@ -12,73 +12,81 @@
   entries:
     - audience: everyone
       en:
-        title: "A new menu, and a way back from every page"
-        body: "On a phone, every page below the top level now has a back button in the top bar, named for where it takes you, even when you opened the page from a notification. The ☰ menu is wider and lists each of your leagues under its own band, current league first, with its places underneath: Schedule, Standings, Chat, the league's website and more. Tap a band to open the league's page. The screens for running a league fold into one **Management** row, and the Chat opens on a single screen where you pick the channel: the league's, or one of your teams'. In more than one league? Tap the league name at the top of the screen to switch."
+        title: "A new menu"
+        body: "The ☰ menu lists each of your leagues with its pages underneath: Schedule, Standings, Chat and more. The screens for running a league are grouped under **Management**."
       fr:
-        title: "Un nouveau menu, et un retour sur chaque page"
-        body: "Sur un téléphone, chaque page sous le premier niveau a maintenant un bouton de retour dans la barre du haut, qui indique où il mène, même quand vous avez ouvert la page à partir d'une notification. Le menu ☰ est plus large et présente chacune de vos ligues sous son propre bandeau, la ligue actuelle en premier, avec ses destinations en dessous: Horaire, Classement, Chat, le site web de la ligue et plus encore. Touchez un bandeau pour ouvrir la page de la ligue. Les écrans de gestion d'une ligue sont regroupés dans une seule ligne **Gestion**, et le Chat s'ouvre sur un seul écran où vous choisissez le canal: celui de la ligue ou celui d'une de vos équipes. Vous êtes dans plus d'une ligue? Touchez le nom de la ligue en haut de l'écran pour en changer."
+        title: "Un nouveau menu"
+        body: "Le menu ☰ présente chacune de vos ligues avec ses pages en dessous: Horaire, Classement, Chat et plus encore. Les écrans de gestion d'une ligue sont regroupés sous **Gestion**."
+
+    - audience: everyone
+      en:
+        title: "A back button on every page"
+        body: "On a phone, every page now has a back button at the top that says where it takes you, even when you came from a notification."
+      fr:
+        title: "Un bouton de retour sur chaque page"
+        body: "Sur un téléphone, chaque page a maintenant un bouton de retour en haut qui indique où il mène, même si vous arrivez d'une notification."
 
     - audience: managers
       en:
-        title: "Your league's screens one tap away"
-        body: "On a phone, the bar at the bottom of your league now has five slots: **Teams**, **Substitutes**, **Season**, **Management** and **Settings**. Teams, Substitutes and Settings open directly. Season holds the schedule and the standings, and Management holds the chat, the messages, billing and the website."
+        title: "More direct links to your league's screens"
+        body: "On a phone, the bar at the bottom of your league opens **Teams**, **Substitutes**, **Season**, **Management** and **Settings** in one tap."
       fr:
-        title: "Les écrans de votre ligue à un toucher"
-        body: "Sur un téléphone, la barre au bas de votre ligue a maintenant cinq boutons: **Équipes**, **Remplaçants**, **Saison**, **Gestion** et **Paramètres**. Équipes, Remplaçants et Paramètres s'ouvrent directement. Saison regroupe le calendrier et le classement, et Gestion regroupe le chat, les messages, la facturation et le site web."
+        title: "Des liens plus directs vers les écrans de votre ligue"
+        body: "Sur un téléphone, la barre au bas de votre ligue ouvre **Équipes**, **Remplaçants**, **Saison**, **Gestion** et **Paramètres** en un seul clic."
 
     - audience: players
       help: player-guide
       en:
-        title: "Your schedule in one list, with clearer game cards"
-        body: "The schedule now opens on one list: your last results at the top, then your next games. Tap **Show previous games** to look further back, or switch to **Calendar** for the month view. Substitution requests and payments due stand out above the list. Each game has its own blue band, with the day on the left and the time on the right, and its teams stacked like a scoreboard. Your next game stands out in a larger card where you answer **Are you playing?** in one tap. Substitution requests use the same cards."
+        title: "An improved schedule"
+        body: "Games now show in bigger cards that are easier to read. Your next game stands out, so you can answer **Are you playing?** in one tap."
       fr:
-        title: "Votre horaire en une seule liste, avec des parties plus claires"
-        body: "L'horaire s'ouvre maintenant sur une seule liste: vos derniers résultats en haut, puis vos prochaines parties. Touchez **Voir les parties précédentes** pour remonter plus loin, ou passez à **Calendrier** pour la vue du mois. Les demandes de remplacement et les paiements à faire ressortent au-dessus de la liste. Chaque partie a son propre bandeau bleu, avec le jour à gauche et l'heure à droite, et ses équipes l'une sous l'autre comme sur un tableau de pointage. Votre prochaine partie ressort dans une carte plus grande où vous répondez à **Serez-vous présent?** d'un seul toucher. Les demandes de remplacement ont la même présentation."
+        title: "Un horaire amélioré"
+        body: "Les parties s'affichent maintenant dans de plus grandes cartes, plus faciles à lire. Votre prochaine partie ressort, pour répondre à **Serez-vous présent?** en un seul clic."
 
     - audience: managers
       help: game-day
       en:
-        title: "Fill a spot faster from the game page"
-        body: "The player picker now opens on the spot's own team, then its substitutes, then the league's substitutes, with the search field ready to type in. Once a game has a lineup, **Change position** on the game page offers the same positions as the lineup editor, such as defence. Captains get the same picker."
+        title: "Fill a spot faster"
+        body: "On the game page, an empty spot now leads with **Select player**. The list opens on the spot's team, then the substitutes, with the search ready to type in."
       fr:
-        title: "Remplir une place plus vite à partir de la page de la partie"
-        body: "Le choix d'un joueur s'ouvre maintenant sur l'équipe de la place, puis ses remplaçants, puis les remplaçants de la ligue, avec le champ de recherche prêt pour la saisie. Quand une partie a un alignement, **Changer la position** sur la page de la partie offre les mêmes positions que l'éditeur d'alignement, comme la défense. Les capitaines ont le même choix de joueurs."
+        title: "Remplir une place plus vite"
+        body: "Sur la page de la partie, une place libre offre maintenant **Sélectionner un joueur** en premier. La liste s'ouvre sur l'équipe de la place, puis les remplaçants, avec la recherche prête."
 
     - audience: managers
       help: results-standings-statistics
       en:
         title: "Faster results entry"
-        body: "In the results editor, type a player's name or jersey number to pick the scorer, the assists or a penalty, instead of scrolling a list. In leagues that record goal details, you can type the score again, or the score of each period, without adding the goals one by one. The standings points adjustment now sits on its own line, apart from the score, so a score can no longer be entered there by mistake."
+        body: "In the results editor, type a player's name or jersey number to pick the scorer, the assists or a penalty. Leagues that record goal details can type the score again, without adding the goals one by one."
       fr:
         title: "Entrée des résultats plus rapide"
-        body: "Dans l'éditeur de résultats, tapez le nom ou le numéro de chandail d'un joueur pour choisir le marqueur, les passes ou une punition, plutôt que de faire défiler une liste. Dans les ligues qui compilent le détail des buts, vous pouvez de nouveau taper le pointage, ou celui de chaque période, sans ajouter les buts un à un. L'ajustement des points au classement a maintenant sa propre ligne, à part du pointage, pour qu'on ne puisse plus y entrer le pointage par erreur."
+        body: "Dans l'éditeur de résultats, tapez le nom ou le numéro de chandail d'un joueur pour choisir le marqueur, les passes ou une punition. Les ligues qui compilent le détail des buts peuvent de nouveau taper le pointage, sans ajouter les buts un à un."
 
     - audience: managers
       help: schedule-and-calendar
       en:
         title: "Edit or reschedule a game from its page"
-        body: "The game page's **Game menu** now starts with **Edit game** and **Reschedule**, so you can change the teams, the time or the venue without going back to the league schedule."
+        body: "The game page's **Game menu** now starts with **Edit game** and **Reschedule**, so you no longer need to go back to the league schedule."
       fr:
         title: "Modifier ou déplacer une partie à partir de sa page"
-        body: "Le **Menu de la partie** commence maintenant par **Modifier la partie** et **Déplacer**: vous pouvez changer les équipes, l'heure ou le lieu sans retourner à l'horaire de la ligue."
+        body: "Le **Menu de la partie** commence maintenant par **Modifier la partie** et **Déplacer**: plus besoin de retourner à l'horaire de la ligue."
 
     - audience: managers
       help: game-day
       en:
         title: "A player's phone and email on the game page"
-        body: "On the game page, a player's menu now offers **Contact information**: their phone number and email, followed by their emergency contacts. Captains and scorekeepers see it too, so anyone running the game can call a player at game time."
+        body: "On the game page, a player's menu now shows their phone, email and emergency contacts. Captains and scorekeepers see them too."
       fr:
         title: "Le téléphone et le courriel d'un joueur sur la page de la partie"
-        body: "Sur la page de la partie, le menu d'un joueur offre maintenant **Coordonnées**: son numéro de téléphone et son courriel, suivis de ses contacts d'urgence. Les capitaines et les marqueurs y ont aussi accès, pour pouvoir joindre un joueur le jour de la partie."
+        body: "Sur la page de la partie, le menu d'un joueur affiche maintenant son téléphone, son courriel et ses contacts d'urgence. Les capitaines et les marqueurs y ont aussi accès."
 
     - audience: managers
       help: managing-substitutes
       en:
         title: "Substitutes' skill levels are back"
-        body: "**View substitutes** shows each substitute's skill level next to their position again. In leagues with numeric rankings, the ranking filter now takes any value you type, and follows the league's setting for whether a higher or a lower number is better."
+        body: "**View substitutes** shows each substitute's skill level again. In leagues with numeric rankings, the filter takes any value."
       fr:
         title: "Le niveau des remplaçants est de retour"
-        body: "**Voir les remplaçants** affiche de nouveau le niveau de chaque remplaçant à côté de sa position. Dans les ligues à classement numérique, le filtre de niveau accepte maintenant n'importe quelle valeur, et suit le paramètre de la ligue qui indique si un chiffre plus haut ou plus bas est meilleur."
+        body: "**Voir les remplaçants** affiche de nouveau le niveau de chaque remplaçant. Dans les ligues à classement numérique, le filtre accepte n'importe quelle valeur."
 
     - audience: everyone
       help: results-standings-statistics
@@ -91,104 +99,31 @@
 
     - audience: everyone
       en:
-        title: "Team logos you can tell apart"
-        body: "Uploaded team logos now fill a full rounded tile on the schedules, and they are larger on phones, so a light jersey and a dark jersey no longer look alike."
+        title: "See who's coming at a glance"
+        body: "On the game page, a player who dropped out stays struck out on their spot, and the position headers count only the players who are coming. Tapping a game on the schedule now opens the game."
       fr:
-        title: "Des logos d'équipe qu'on distingue"
-        body: "Les logos d'équipe téléversés remplissent maintenant une tuile arrondie complète sur les horaires, et ils sont plus grands sur téléphone: un chandail pâle et un chandail foncé ne se ressemblent plus."
-
-    - audience: everyone
-      en:
-        title: "Smaller fixes on the game and the schedule"
-        body: "On the game page, a player who dropped out shows struck out on their spot at all times, even while the substitute search is running, and on the printed lineup. The position headers count only the players who are coming. A jersey number shows once on phones, in the player's badge, and stays readable on light team colours. Tapping a game card on the schedule opens the game instead of the venue's map."
-      fr:
-        title: "Petites corrections sur la partie et l'horaire"
-        body: "Sur la page de la partie, le nom d'un joueur absent reste toujours affiché, barré, sur sa place, même pendant la recherche d'un remplaçant, ainsi que sur l'alignement imprimé. Les en-têtes de position comptent seulement les joueurs présents. Le numéro de chandail s'affiche une seule fois sur téléphone, dans la pastille du joueur, et reste lisible sur les couleurs d'équipe pâles. Toucher une partie dans l'horaire ouvre la partie plutôt que la carte du lieu."
+        title: "Voir qui sera présent en un coup d'œil"
+        body: "Sur la page de la partie, un joueur absent reste affiché, barré, sur sa place, et les en-têtes de position comptent seulement les joueurs présents. Toucher une partie dans l'horaire ouvre maintenant la partie."
 
     - audience: managers
       help: game-day
       en:
         title: "The lineup editor remembers your lineup type"
-        body: "The lineup editor now opens on the lineup type you used last, whether you set it in the new or the classic version."
+        body: "The lineup editor now opens on the lineup type you used last."
       fr:
         title: "L'éditeur d'alignement se souvient de votre type d'alignement"
-        body: "L'éditeur d'alignement s'ouvre maintenant sur le type d'alignement utilisé la dernière fois, que vous l'ayez choisi dans la nouvelle version ou dans la version classique."
-
-    - audience: managers
-      en:
-        title: "Save your league's website again"
-        body: "Saving the league's website from the new version works again. A reCAPTCHA box appears only when the save turns the website on."
-      fr:
-        title: "Enregistrer de nouveau le site web de votre ligue"
-        body: "L'enregistrement du site web de la ligue à partir de la nouvelle version fonctionne de nouveau. Une case reCAPTCHA apparaît seulement quand l'enregistrement active le site web."
-
-    - audience: managers
-      help: managing-players
-      en:
-        title: "Clearer team and billing screens"
-        body: "In a team's player list, the menu now says **Remove from team**, which is what it does. A billing transaction's note can now be read in full."
-      fr:
-        title: "Équipes et facturation plus claires"
-        body: "Dans la liste des joueurs d'une équipe, le menu indique maintenant **Retirer de l'équipe**, ce qu'il fait réellement. La note d'une transaction de facturation peut maintenant être lue au complet."
-
-    - audience: managers
-      en:
-        title: "Game results settings you can drag into order"
-        body: "In the game results settings, the options under each category are indented under it, and every row can be dragged into a new order by its handle."
-      fr:
-        title: "Des paramètres de résultats à placer par glisser-déposer"
-        body: "Dans les paramètres des résultats de partie, les options de chaque catégorie sont en retrait sous celle-ci, et chaque ligne peut être glissée à une nouvelle position par sa poignée."
-
-    - audience: managers
-      en:
-        title: "COVID vaccine tracking removed"
-        body: "The COVID vaccine tracking option is gone from the league settings, the lineups and the player lists."
-      fr:
-        title: "Suivi de la vaccination COVID retiré"
-        body: "L'option de suivi de la vaccination COVID a été retirée des paramètres de la ligue, des alignements et des listes de joueurs."
-
-    - audience: everyone
-      en:
-        title: "No more error page after an update"
-        body: "A tab left open while we release an update now reloads itself when you move to another page, instead of showing an error."
-      fr:
-        title: "Plus de page d'erreur après une mise à jour"
-        body: "Un onglet resté ouvert pendant une mise à jour se recharge maintenant de lui-même quand vous changez de page, plutôt que d'afficher une erreur."
-
-    - audience: everyone
-      en:
-        title: "Switching back to the classic version"
-        body: "The dialog to go back to the classic version now lists what your feedback has changed, and asks what you are missing so we can fix it next. Once you switch, the mobile app keeps your choice, even after it restarts."
-      fr:
-        title: "Revenir à la version classique"
-        body: "La fenêtre pour revenir à la version classique présente maintenant ce que vos commentaires ont changé, et vous demande ce qui vous manque pour que nous puissions le corriger. Une fois le changement fait, l'application mobile garde votre choix, même après un redémarrage."
+        body: "L'éditeur d'alignement s'ouvre maintenant sur le type d'alignement utilisé la dernière fois."
 
 - week: 2026-09-21
   entries:
-    - audience: managers
-      en:
-        title: "League settings, reorganized"
-        body: "Settings now open on a summary page that groups every screen with a one-line description. Each screen has an **All settings** link back, and leaving a screen with unsaved changes asks before discarding them."
-      fr:
-        title: "Les paramètres de la ligue réorganisés"
-        body: "Les paramètres s'ouvrent maintenant sur une page qui regroupe tous les écrans, chacun avec une courte description. Chaque écran a un lien **Tous les paramètres** pour revenir, et quitter un écran avec des changements non enregistrés demande d'abord une confirmation."
-
-    - audience: managers
-      en:
-        title: "League settings in plain French"
-        body: "About forty labels of the French league settings were rewritten in plain French, with the terms the classic version used."
-      fr:
-        title: "Les paramètres de la ligue en bon français"
-        body: "Une quarantaine de libellés des paramètres de la ligue ont été réécrits en français clair, avec les termes de la version classique."
-
     - audience: everyone
       help: schedule-and-calendar
       en:
         title: "See which games still need a substitute"
-        body: "An upcoming game that is still short a player now carries a red **Substitute needed** label on the schedules and in the calendar, as the classic version did."
+        body: "An upcoming game that is still short a player now carries a red **Substitute needed** label on the schedules and in the calendar."
       fr:
         title: "Voyez quelles parties cherchent encore un remplaçant"
-        body: "Une partie à venir à qui il manque encore un joueur porte maintenant l'étiquette rouge **Remplaçant recherché** dans les horaires et le calendrier, comme dans la version classique."
+        body: "Une partie à venir à qui il manque encore un joueur porte maintenant l'étiquette rouge **Remplaçant recherché** dans les horaires et le calendrier."
 
     - audience: managers
       help: managing-substitutes
@@ -202,10 +137,10 @@
     - audience: managers
       en:
         title: "Search the team and division lists"
-        body: "The team lists of the game form, and the division and team filters, now open on a search field. Teams are sorted by name, and a division lists the teams of the selected season."
+        body: "The team lists of the game form, and the division and team filters, now have a search field. Teams are sorted by name."
       fr:
         title: "Recherche dans les listes d'équipes et de divisions"
-        body: "Les listes d'équipes du formulaire de partie, ainsi que les filtres de division et d'équipe, s'ouvrent maintenant sur un champ de recherche. Les équipes sont triées par nom, et une division affiche les équipes de la saison choisie."
+        body: "Les listes d'équipes du formulaire de partie, ainsi que les filtres de division et d'équipe, ont maintenant un champ de recherche. Les équipes sont triées par nom."
 
     - audience: managers
       help: game-day
@@ -218,39 +153,22 @@
 
     - audience: everyone
       en:
-        title: "A notification badge that clears right away"
-        body: "The notification count now drops as soon as you open the substitution request or the message it counted, instead of on a later page."
-      fr:
-        title: "Un compteur de notifications qui se met à jour tout de suite"
-        body: "Le compteur de notifications diminue maintenant dès que vous ouvrez la demande de remplacement ou le message qu'il comptait, plutôt qu'à la page suivante."
-
-    - audience: everyone
-      en:
         title: "Redesigned emails"
-        body: "Every email from the app has a new, easier to read design, and each one has its own subject line, so you can tell them apart in your inbox. Replying to a substitution request now reaches the team's captain or the league manager."
+        body: "Every email from the app has a new, easier to read design and its own subject line. Replying to a substitution request now reaches the team's captain or the league manager."
       fr:
         title: "Des courriels redessinés"
-        body: "Tous les courriels de l'application ont une nouvelle présentation plus facile à lire, et chacun a son propre objet pour les distinguer dans votre boîte de réception. Répondre à une demande de remplacement rejoint maintenant le capitaine de l'équipe ou le gestionnaire de la ligue."
+        body: "Tous les courriels de l'application ont une nouvelle présentation plus facile à lire et leur propre objet. Répondre à une demande de remplacement rejoint maintenant le capitaine de l'équipe ou le gestionnaire de la ligue."
 
 - week: 2026-09-14
   entries:
     - audience: managers
       help: game-day
       en:
-        title: "The new lineup editor for every manager"
-        body: "Every manager now has the new lineup editor. A short welcome dialog explains it the first time, and an empty line appears only while you move a player."
-      fr:
-        title: "Le nouvel éditeur d'alignement pour tous les gestionnaires"
-        body: "Tous les gestionnaires ont maintenant le nouvel éditeur d'alignement. Une courte fenêtre de bienvenue l'explique la première fois, et une ligne vide apparaît seulement pendant que vous déplacez un joueur."
-
-    - audience: managers
-      help: game-day
-      en:
         title: "A printed lineup that fits one page"
-        body: "The printed lineup fits on one Letter page again, with a team on each half. While you edit, defence stays last and the team averages update as the lineup changes."
+        body: "The printed lineup fits on one Letter page again, with a team on each half."
       fr:
         title: "Un alignement imprimé qui tient sur une page"
-        body: "L'alignement imprimé tient de nouveau sur une page Lettre, avec une équipe sur chaque moitié. Pendant la modification, la défense reste en dernier et les moyennes des équipes se mettent à jour à mesure que l'alignement change."
+        body: "L'alignement imprimé tient de nouveau sur une page Lettre, avec une équipe sur chaque moitié."
 
     - audience: managers
       en:
@@ -259,12 +177,3 @@
       fr:
         title: "Les paiements des remplaçants en un coup d'œil"
         body: "Dans l'alignement de la partie, le paiement d'un remplaçant est maintenant une pastille après son nom: **Payé** en vert, ou en orange avec le montant dû."
-
-    - audience: players
-      help: substitutes-overview
-      en:
-        title: "The right price on substitution requests"
-        body: "A substitution request now shows the price the league shares, even when the league collects it in person. It says **Free to play** only when the price really is zero, and shows no price when the league states none."
-      fr:
-        title: "Le bon prix dans les demandes de remplacement"
-        body: "Une demande de remplacement affiche maintenant le prix indiqué par la ligue, même quand la ligue le perçoit en personne. Elle indique **Gratuit** seulement quand le prix est vraiment nul, et n'affiche aucun prix quand la ligue n'en indique pas."
