@@ -21,9 +21,9 @@ Three things to understand before you start:
 
 ## Connecting your Stripe account
 
-To activate payments, go to your league settings and open the **Payment** tab, then click **Connect a Stripe account**. You must do this on the website, not the mobile app.
+To activate payments, go to your league settings and open the **Payment** tab, then click **Connect with Stripe**. You must do this on the website, not the mobile app.
 
-{% include image.html src="help/payment-settings-connect-stripe.en.png" caption="League settings > Payment before Stripe is connected: the Connect with Stripe button starts the account setup." %}
+{% include image.html src="help/payment-settings-connect-stripe.en.png" caption="Settings > Payment before Stripe is connected: the Connect with Stripe button starts the account setup." %}
 
 Stripe then asks you to create an account and verify who you are. Most recreational leagues are not incorporated businesses, and that is fine. Here is how to answer the common questions:
 
@@ -55,7 +55,7 @@ In the Payment settings, set the price substitutes pay to play. <!-- TODO: verif
 
 When a substitute accepts a spot in a game, a window asks them to confirm the payment. The first time, they enter their credit card; after that, the saved card makes it one tap. If they choose to pay later, they can reopen the payment form from the game page, or pay you cash at the game.
 
-You can see paid and unpaid amounts on each game page. In the **Billing** view, an unpaid substitution appears as a fee in red; once it is paid, the balance returns to zero and turns green. Nothing to track by hand.
+You can see paid and unpaid amounts on each game page. In **Billing & Payments**, an unpaid substitution appears as a fee in red; once it is paid, the balance returns to zero and turns green. Nothing to track by hand.
 
 {% include image.html src="help/payment-billing-substitutes.en.png" caption="The substitute billing view: each substitute's unpaid game amounts in red, with the collected total in green." %}
 
@@ -63,15 +63,15 @@ For the substitute's point of view, see [paying online as a player](/player-paym
 
 ## Charging season fees to regular players
 
-Once your Stripe account is connected, go to the **Billing** tab of your league management interface and click **Save a season fee**.
+Once your Stripe account is connected, go to **More** > **Billing & Payments** and click **Register a season fee**.
 
-{% include image.html src="help/payment-billing-season-fee-button.en.png" caption="The Billing tab with the Register a season fee button on the team billing section header." %}
+{% include image.html src="help/payment-billing-season-fee-button.en.png" caption="The Billing & Payments screen with the Register a season fee button on the team billing section header." %}
 
 Enter the revenue you want the league to receive; the amount charged to each player, Stripe fee included, is displayed beside it. You can also add a due date and a note. Click **Add**.
 
 {% include image.html src="help/payment-season-fee-dialog.en.png" caption="The Register a season fee dialog: enter the revenue you want for the league, see the resulting amount charged to each player, and optionally set a due date and a note." %}
 
-Each player then sees the fee at the top of their schedule, on the website and in the mobile app, and pays it by credit card. As payments come in, the **Billing** tab shows each player's status, updated automatically.
+Each player then sees the fee at the top of their schedule, on the website and in the mobile app, and pays it by credit card. As payments come in, the **Billing & Payments** screen shows each player's status, updated automatically.
 
 {% include image.html src="help/payment-billing-season-fee-tracking.en.png" caption="The season-fee tracking list: players marked as paid carry the green check with the paid-on date, unpaid players still show their fee pending in red." %}
 

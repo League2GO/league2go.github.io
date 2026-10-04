@@ -22,9 +22,9 @@ Pour les revoir, faites l'une des deux choses suivantes :
 
 ## Créer une saison
 
-Pour créer une saison, allez dans l'onglet **Saisons** des paramètres de votre ligue. Ajoutez une saison avec un nom ainsi que ses dates de début et de fin. Toutes les parties dont la date se trouve dans cette plage appartiennent à la saison.
+Pour créer une saison, allez dans **Paramètres** > **Liste des saisons**. Ajoutez une saison avec un nom ainsi que ses dates de début et de fin. Toutes les parties dont la date se trouve dans cette plage appartiennent à la saison.
 
-{% include image.html src="help/seasons-settings.fr.png" caption="Paramètres de la ligue > Saisons : chaque saison est listée avec ses dates de début et de fin, et le bouton Ajouter une saison permet d'en créer une nouvelle." %}
+{% include image.html src="help/seasons-settings.fr.png" caption="Paramètres > Liste des saisons : chaque saison est listée avec ses dates de début et de fin, et le bouton Ajouter une saison permet d'en créer une nouvelle." %}
 
 Assurez-vous que la plage de dates couvre bien toutes les parties que vous prévoyez planifier; voir [« Mes parties ont disparu »](#mes-parties-ont-disparu) ci-dessus.
 
