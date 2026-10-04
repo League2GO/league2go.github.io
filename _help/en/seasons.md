@@ -22,9 +22,9 @@ To see them again, do one of the following:
 
 ## Creating a season
 
-To create a season, go to the **Seasons** tab of your league settings. Add a season with a name and its start and end dates. All games whose date falls within that range belong to the season.
+To create a season, go to **Settings** > **Season list**. Add a season with a name and its start and end dates. All games whose date falls within that range belong to the season.
 
-{% include image.html src="help/seasons-settings.en.png" caption="League settings > Seasons: every season is listed with its start and end dates, and the Add season button creates the next one." %}
+{% include image.html src="help/seasons-settings.en.png" caption="Settings > Season list: every season is listed with its start and end dates, and the Add season button creates the next one." %}
 
 Make sure the date range actually covers all the games you plan to schedule. See ["My games disappeared"](#my-games-disappeared) above.
 
