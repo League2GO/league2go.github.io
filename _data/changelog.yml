@@ -122,6 +122,55 @@
         title: "L'éditeur d'alignement se souvient de votre type d'alignement"
         body: "L'éditeur d'alignement s'ouvre maintenant sur le type d'alignement utilisé la dernière fois."
 
+    - audience: players
+      en:
+        title: "Substitution requests you can trust"
+        body: "Your substitution requests now list only the spots you can still take. If another substitute takes a spot before you, the request stays on your schedule for a day, marked **Spot already taken**."
+      fr:
+        title: "Des demandes de remplacement toujours à jour"
+        body: "Vos demandes de remplacement montrent maintenant seulement les places que vous pouvez encore prendre. Si un autre remplaçant prend la place avant vous, la demande reste affichée une journée avec la mention **Place déjà prise**."
+
+    - audience: players
+      en:
+        title: "A schedule for substitutes"
+        body: "A substitute who isn't on any team in a league now sees their own games on the league's schedule, with the league's full schedule one tap away."
+      fr:
+        title: "L'horaire des remplaçants"
+        body: "Un remplaçant qui ne fait partie d'aucune équipe d'une ligue voit maintenant ses propres parties dans l'horaire de la ligue, et l'horaire complet de la ligue est à un seul clic."
+
+    - audience: managers
+      help: game-day
+      en:
+        title: "Move a player to the other team in one tap"
+        body: "In the lineup editor, an arrow on each player sends them to the other team, no dragging needed. Handy on a phone."
+      fr:
+        title: "Changer un joueur d'équipe en un seul clic"
+        body: "Dans l'éditeur d'alignement, une flèche sur chaque joueur l'envoie dans l'autre équipe, sans glisser-déposer. Pratique sur un téléphone."
+
+    - audience: everyone
+      en:
+        title: "Easier-to-read jersey numbers"
+        body: "On a phone, jersey numbers now read clearly on every team colour, even yellow and white. On the game page, an absent player also keeps their number next to their struck-out name."
+      fr:
+        title: "Des numéros de chandail plus lisibles"
+        body: "Sur un téléphone, le numéro de chandail se lit maintenant sur toutes les couleurs d'équipe, même le jaune et le blanc. Sur la page de la partie, un joueur absent garde aussi son numéro à côté de son nom barré."
+
+    - audience: everyone
+      en:
+        title: "Played games open on their results"
+        body: "On your league's public site, tapping a game that has been played now opens its results, as in the app."
+      fr:
+        title: "Les parties jouées s'ouvrent sur leurs résultats"
+        body: "Sur le site public de votre ligue, toucher une partie déjà jouée ouvre maintenant ses résultats, comme dans l'application."
+
+    - audience: managers
+      en:
+        title: "Edit a season in one tap"
+        body: "In your league's seasons, tapping a season now opens it for editing."
+      fr:
+        title: "Modifier une saison en un seul clic"
+        body: "Dans les saisons de votre ligue, toucher une saison l'ouvre maintenant pour la modifier."
+
 - week: 2026-09-21
   entries:
     - audience: everyone
