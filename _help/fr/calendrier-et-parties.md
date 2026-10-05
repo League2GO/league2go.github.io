@@ -13,7 +13,7 @@ Le calendrier de la ligue est l'endroit où vous créez et gérez vos parties, s
 
 ## Créer des parties
 
-À partir de l'onglet Calendrier de votre ligue, cliquez sur le bouton **Ajouter une partie** et entrez l'information demandée. Chaque partie consomme un crédit de partie (voir [prix et crédits de partie](/prix-et-credits-de-partie/#acheter-des-crédits-de-partie)).
+Dans votre ligue, allez dans **Saison** > **Calendrier**, cliquez sur le bouton **Ajouter une partie** et entrez l'information demandée. Chaque partie consomme un crédit de partie (voir [prix et crédits de partie](/prix-et-credits-de-partie/#acheter-des-crédits-de-partie)).
 
 Si vos parties sont hebdomadaires, utilisez l'option **Répéter l'horaire des parties** pour automatiquement créer plusieurs parties avec les mêmes paramètres.
 
@@ -23,9 +23,9 @@ Si vos parties sont hebdomadaires, utilisez l'option **Répéter l'horaire des p
 
 Des codes de couleur permettent de distinguer les parties en un coup d'œil :
 
-* **Bleu** : la prochaine partie.
-* **Rouge** : les parties dans lesquelles il manque présentement des joueurs.
-* **Jaune** : les parties passées dont les résultats restent à entrer.
+* **Bleu** : les parties à venir.
+* **Rouge** : une partie à venir où il manque encore un joueur, ou une partie passée dont le pointage reste à entrer.
+* **Gris** : les parties complétées et les pratiques.
 
 {% include image.html src="help/schedule-color-codes.fr.png" caption="Les codes de couleur du calendrier mensuel : les parties à venir portent un accent bleu, une partie passée sans résultats est en rouge, et les parties complétées deviennent grises avec le pointage final." %}
 
@@ -52,7 +52,7 @@ Les parties dont l'heure de début est passée ne peuvent pas être supprimées 
 
 ## « Mes parties ont disparu »
 
-Si des parties manquent dans le calendrier, elles sont presque certainement masquées par le **filtre de saison** : les parties en dehors de la plage de dates de la saison sélectionnée ne sont pas affichées. Effacez le filtre avec le X à côté du nom de la saison, ou ajustez les dates de la saison. Voir [saisons](/saisons/#-mes-parties-ont-disparu-) pour les détails.
+Si vous avez choisi une saison et que des parties manquent, le **filtre de saison** les masque : il affiche seulement les parties comprises dans les dates de cette saison. Cliquez sur **Voir toutes les saisons** (ou sur le X à côté du nom de la saison), ou ajustez les dates de la saison. Voir [saisons](/saisons/#-mes-parties-ont-disparu-) pour les détails.
 
 ## Articles reliés
 

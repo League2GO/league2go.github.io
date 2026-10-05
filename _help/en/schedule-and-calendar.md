@@ -13,7 +13,7 @@ The league calendar is where you create and manage your games, on the website or
 
 ## Creating games
 
-From your league's calendar tab, click the **Add game** button and enter the requested information. Each game consumes one game credit. See [pricing and game credits](/pricing-and-game-credits/#buying-game-credits).
+In your league, go to **Season** > **Schedule**, click the **Add game** button and enter the requested information. Each game consumes one game credit. See [pricing and game credits](/pricing-and-game-credits/#buying-game-credits).
 
 If your games are weekly, use the **Repeat game schedule** option to automatically create multiple games with the same settings.
 
@@ -23,9 +23,9 @@ If your games are weekly, use the **Repeat game schedule** option to automatical
 
 Color codes help you distinguish games at a glance:
 
-* **Blue**: the next game.
-* **Red**: games where players are currently missing.
-* **Yellow**: past games waiting for their results to be entered.
+* **Blue**: upcoming games.
+* **Red**: an upcoming game still missing a player, or a past game waiting for its score.
+* **Gray**: completed games and practices.
 
 {% include image.html src="help/schedule-color-codes.en.png" caption="The month calendar's color codes: upcoming games carry a blue accent, a past game still waiting for its score is red, and completed games turn gray with the final score inline." %}
 
@@ -52,7 +52,7 @@ Games whose start time has passed cannot be deleted by managers. If you need to 
 
 ## "My games disappeared"
 
-If games are missing from the calendar, they are almost certainly hidden by the **season filter**: games outside the selected season's date range are not shown. Clear the filter with the X beside the season name, or adjust the season dates. See [seasons](/seasons/#my-games-disappeared) for details.
+If you picked a season and games are missing, the **season filter** is hiding them: it only shows games inside that season's dates. Click **Show all seasons** (or the X beside the season name), or adjust the season dates. See [seasons](/seasons/#my-games-disappeared) for details.
 
 ## Related articles
 
