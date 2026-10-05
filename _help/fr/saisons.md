@@ -7,18 +7,18 @@ order: 40
 description: "Organisez les parties, le classement et les statistiques par saison, et retrouvez les parties masquées par le filtre de saison."
 ---
 
-Les saisons regroupent les parties, le classement et les statistiques de votre ligue. Chaque saison a une date de début et une date de fin, et la saison sélectionnée agit comme un filtre : le calendrier, le classement et les statistiques affichent seulement ce qui se trouve dans sa plage de dates. Vos joueurs consultent ainsi seulement les parties pertinentes à leur calendrier plutôt que des années d'historique.
+Les saisons regroupent les parties, le classement et les statistiques de votre ligue. Chaque saison a une date de début et une date de fin. Le classement et les statistiques s'ouvrent sur la saison en cours : ils repartent donc à zéro chaque année. Le calendrier s'ouvre sur **Toutes les saisons**; choisissez une saison et il affiche seulement les parties comprises dans ses dates.
 
 ## « Mes parties ont disparu »
 
-Si des parties manquent dans votre calendrier, le filtre de saison en est presque toujours la cause : les parties se trouvent en dehors de la plage de dates de la saison sélectionnée. Rien n'est supprimé : les parties sont seulement masquées.
+Si vous avez choisi une saison et que des parties manquent dans votre calendrier, le filtre de saison en est la cause : ces parties se trouvent en dehors des dates de cette saison. Rien n'est supprimé : les parties sont seulement masquées.
 
 Pour les revoir, faites l'une des deux choses suivantes :
 
-* **Effacez le filtre** : cliquez sur le **X** à côté du nom de la saison au-dessus du calendrier. Toutes les parties s'affichent de nouveau, peu importe la saison.
+* **Affichez toutes les saisons** : cliquez sur **Voir toutes les saisons** au-dessus de la liste, ou sur le **X** à côté du nom de la saison. Le calendrier revient à **Toutes les saisons**.
 * **Prolongez les dates de la saison** : dans les paramètres de votre ligue, modifiez la saison pour que ses dates de début et de fin couvrent les dates des parties.
 
-{% include image.html src="help/seasons-schedule-filter.fr.png" caption="Le calendrier de la ligue avec la saison en cours sélectionnée dans le filtre Saison; le X à côté du nom de la saison efface le filtre et affiche les parties de toutes les saisons." %}
+{% include image.html src="help/seasons-schedule-filter.fr.png" caption="Le calendrier de la ligue avec une saison choisie dans le filtre Saison; Voir toutes les saisons, ou le X à côté du nom de la saison, efface le filtre et affiche les parties de toutes les saisons." %}
 
 ## Créer une saison
 
