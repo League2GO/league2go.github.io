@@ -39,6 +39,8 @@ In the **General** tab of your league settings, enable the **"Specify target num
 * **When substitute searches trigger.** A search only starts when the team is below its target: if the number of players at a position already meets the configured target, an absence does not trigger a search, and no substitute is contacted for a position that is already full. Use this if you do not want every absence replaced automatically.
 * **Auto-filling incomplete teams.** If a team has fewer regular players than the target, League2GO automatically adds open spots for the missing players when the substitute search starts for a game, and fills them from your league's substitutes. This lets you run a team that does not have a full roster of regulars.
 
+**Pick-up leagues:** enter the target for **one team**, not for the whole game. A pick-up game holds both teams, so the search doubles each target and counts the players of both teams. For example, with 6 forwards, 4 defensemen and 1 goaltender per team, a search starts when the game has fewer than 12 forwards, 8 defensemen or 2 goaltenders. Entering 12, 8 and 2 instead makes the search aim for 24, 16 and 4, so nearly every absence brings in a substitute.
+
 {% include image.html src="help/team-target-players.en.png" caption="Settings > General with the target number of players per team enabled, one target field per position." %}
 
 For how searches contact substitutes (favorites, delays, rating ranges), see [substitute search settings](/substitute-search-settings/).

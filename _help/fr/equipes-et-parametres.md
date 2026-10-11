@@ -39,6 +39,8 @@ Dans l'onglet **Général** des paramètres de votre ligue, activez le paramètr
 * **Le déclenchement des recherches de remplaçants.** Une recherche démarre seulement quand l'équipe est sous sa cible : si le nombre de joueurs d'une position atteint déjà la cible configurée, une absence ne déclenche pas de recherche, et aucun remplaçant n'est contacté pour une position déjà comblée. Utilisez ce paramètre si vous ne voulez pas que chaque absence soit remplacée automatiquement.
 * **Compléter les alignements des équipes incomplètes.** Si une équipe compte moins de joueurs réguliers que la cible, League2GO ajoute automatiquement des emplacements à combler pour les joueurs manquants lorsque la recherche de remplaçants démarre pour une partie, et les comble avec les remplaçants de votre ligue. Vous pouvez ainsi avoir une équipe qui n'a pas un alignement complet de joueurs réguliers.
 
+**Ligues pick-up :** entrez la cible d'**une seule équipe**, pas celle de toute la partie. Une partie pick-up regroupe les deux équipes : la recherche double donc chaque cible et compte les joueurs des deux équipes. Par exemple, avec 6 attaquants, 4 défenseurs et 1 gardien par équipe, une recherche démarre quand la partie compte moins de 12 attaquants, 8 défenseurs ou 2 gardiens. Si vous entrez plutôt 12, 8 et 2, la recherche vise 24, 16 et 4, et presque chaque absence entraîne un remplacement.
+
 {% include image.html src="help/team-target-players.fr.png" caption="Paramètres > Général avec le nombre cible de joueurs par équipe activé, un champ cible par position." %}
 
 Pour savoir comment les recherches contactent les remplaçants (favoris, délais, plages de force), voir les [options de recherche de remplaçants](/options-de-recherche-de-remplacants/).
