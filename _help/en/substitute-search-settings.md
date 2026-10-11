@@ -39,6 +39,8 @@ This is the reference for every option that controls the [automatic substitute s
 
 **Example:** target of 10 players, team roster of 11 regulars. The first declared absence leaves 10 available: no search. The second absence drops the lineup to 9 and starts a search for one substitute.
 
+**Pick-up leagues:** the target is still per team. A pick-up game holds both teams, so the search starts when the game falls below twice the target: with a target of 10, a search starts when fewer than 20 players remain. See [target number of players per position](/teams-and-team-settings/#target-number-of-players-per-position).
+
 ## Skill ratings and rating ranges
 
 Ratings let the search propose substitutes of comparable caliber to the absent player.

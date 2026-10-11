@@ -39,6 +39,8 @@ Voici la référence de chaque option qui contrôle la [recherche automatique de
 
 **Exemple :** cible de 10 joueurs, équipe de 11 réguliers. La première absence déclarée laisse 10 joueurs disponibles : aucune recherche. La deuxième absence fait descendre l'alignement à 9 et démarre une recherche pour un remplaçant.
 
+**Ligues pick-up :** la cible reste par équipe. Une partie pick-up regroupe les deux équipes, la recherche démarre donc quand la partie descend sous le double de la cible : avec une cible de 10, une recherche démarre quand il reste moins de 20 joueurs. Voir [nombre cible de joueurs par position](/equipes-et-parametres/#nombre-cible-de-joueurs-par-position).
+
 ## Forces et plages de force
 
 Les forces permettent à la recherche de proposer des remplaçants de calibre comparable au joueur absent.
