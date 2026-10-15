@@ -30,9 +30,9 @@ Ajoutez un parent avec son prénom, son nom, et une adresse courriel ou un numé
 
 Chaque parent est invité à s'inscrire avec exactement l'adresse courriel ou le numéro de cellulaire que vous avez entré, exactement comme un joueur le serait dans une ligue adulte. L'**enfant n'est jamais invité et ne s'inscrit jamais** : il n'a pas de compte.
 
-Dans l'alignement, la colonne Contact affiche le nom, le courriel et le numéro de téléphone de chaque parent, et marque les parents qui n'ont pas terminé leur inscription.
+Dans l'alignement, la colonne Contact affiche une ligne par enfant: le premier parent, +N pour les autres, et Inscription en attente si un parent ne s'est pas encore inscrit. Cliquez sur cette ligne pour déplier le courriel et le numéro de téléphone de chaque parent.
 
-{% include image.html src="help/youth-roster-parents.fr.png" caption="L'alignement d'une ligue mineure : la colonne Contact liste les parents de chaque enfant, avec Inscription en attente à côté d'un parent qui ne s'est pas encore inscrit." %}
+{% include image.html src="help/youth-roster-parents.fr.png" caption="L'alignement d'une ligue mineure: la colonne Contact affiche une ligne par enfant, avec le premier parent, +1 pour l'autre et Inscription en attente. Cliquer sur une ligne déplie le courriel et le numéro de téléphone de chaque parent, comme pour le premier enfant ici." %}
 
 ## Ce que les parents reçoivent
 
