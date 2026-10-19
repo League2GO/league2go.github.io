@@ -59,7 +59,7 @@ Ratings let the search propose substitutes of comparable caliber to the absent p
 
 **More players absent than spots to fill:** on a number scale only, the setting "When more players are absent than spots to fill, replace the player whose ranking is" decides which absent player gets replaced: "the highest" or "the lowest". It only matters when more players are absent than there are spots to fill. The search then fills only the chosen player's spot, looking for substitutes around that player's rating; the other absent players' spots stay open. For example, two defensemen rated 600 and 400 are absent and only one spot needs filling: with "the highest", the search contacts substitutes around 600, and the spot of the player rated 400 stays open. On a letter scale the setting does not appear: the search always replaces the highest-rated absent player.
 
-{% include image.html src="help/substitute-settings-replace-first.en.png" caption="On a number scale, at the top of the skill-range section: which absent player to replace, the one with the highest or the lowest ranking." %}
+{% include image.html src="help/substitute-settings-replace-first.en.png" caption="On a number scale, at the top of the skill-range section: which absent player to replace, here the one with the highest ranking." %}
 
 ## Favorites and contact order
 

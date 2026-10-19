@@ -59,7 +59,7 @@ Les forces permettent à la recherche de proposer des remplaçants de calibre co
 
 **Plus d'absents que de places à remplir :** avec une échelle de nombres seulement, l'option « S'il y a plus de joueurs absents que de places à remplir, remplacer le joueur dont la force est » détermine quel joueur absent est remplacé : « la plus élevée » ou « la plus basse ». Elle compte seulement quand plus de joueurs sont absents que de places à remplir. La recherche remplit alors seulement la place du joueur choisi, en cherchant des remplaçants autour de sa force; les places des autres joueurs absents restent libres. Par exemple, deux défenseurs de force 600 et 400 sont absents et une seule place doit être remplie : avec « la plus élevée », la recherche contacte des remplaçants autour de 600, et la place du joueur de force 400 reste libre. Avec une échelle de lettres, l'option n'apparaît pas : la recherche remplace toujours le joueur absent le plus fort.
 
-{% include image.html src="help/substitute-settings-replace-first.fr.png" caption="Avec une échelle de nombres, en haut de la section des plages de force : le choix du joueur absent à remplacer, celui dont la force est la plus élevée ou la plus basse." %}
+{% include image.html src="help/substitute-settings-replace-first.fr.png" caption="Avec une échelle de nombres, en haut de la section des plages de force : le choix du joueur absent à remplacer, ici celui dont la force est la plus élevée." %}
 
 ## Favoris et ordre de contact
 
