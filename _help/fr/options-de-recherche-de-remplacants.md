@@ -57,6 +57,10 @@ Les forces permettent à la recherche de proposer des remplaçants de calibre co
 
 **Exemple (flexible) :** un joueur de force « A » déclare son absence. La plage initiale contacte les remplaçants de force « C » à « BB ». Après 4 heures, la plage s'élargit de « D » à « AA », puis après 8 heures de « D » à « AAA ». La limite inférieure s'arrête à « D » parce que c'est la force la plus faible de l'échelle.
 
+**Plus d'absents que de places à remplir :** avec une échelle de nombres seulement, l'option « S'il y a plus de joueurs absents que de places à remplir, remplacer le joueur dont la force est » détermine quel joueur absent est remplacé : « la plus élevée » ou « la plus basse ». Elle compte seulement quand plus de joueurs sont absents que de places à remplir. La recherche remplit alors seulement la place du joueur choisi, en cherchant des remplaçants autour de sa force; les places des autres joueurs absents restent libres. Par exemple, deux défenseurs de force 600 et 400 sont absents et une seule place doit être remplie : avec « la plus élevée », la recherche contacte des remplaçants autour de 600, et la place du joueur de force 400 reste libre. Avec une échelle de lettres, l'option n'apparaît pas : la recherche remplace toujours le joueur absent le plus fort.
+
+{% include image.html src="help/substitute-settings-replace-first.fr.png" caption="Avec une échelle de nombres, en haut de la section des plages de force : le choix du joueur absent à remplacer, celui dont la force est la plus élevée ou la plus basse." %}
+
 ## Favoris et ordre de contact
 
 **Ce que ça fait :** la recherche contacte les remplaçants par niveaux, les favoris d'abord : **favoris de l'équipe, puis remplaçants de l'équipe, puis favoris de la ligue, puis remplaçants de la ligue**. Vous configurez le délai entre chaque niveau; le niveau suivant n'est contacté qu'après ce délai, si la place est toujours libre. Les favoris sont marqués avec l'étoile à droite de chaque remplaçant; consultez [gérer les remplaçants](/gerer-les-remplacants/).
