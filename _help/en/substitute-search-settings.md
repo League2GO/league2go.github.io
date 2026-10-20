@@ -57,6 +57,10 @@ Ratings let the search propose substitutes of comparable caliber to the absent p
 
 **Example (flexible):** a player rated "A" declares an absence. The initial range contacts substitutes rated "BB" to "C". After 4 hours the range widens to "AA" through "D", and after 8 hours to "AAA" through "D". The lower bound stops at "D" because it is the lowest rating on the scale.
 
+**More players absent than spots to fill:** on a number scale only, the setting "When more players are absent than spots to fill, replace the player whose ranking is" decides which absent player gets replaced: "the highest" or "the lowest". It only matters when more players are absent than there are spots to fill. The search then fills only the chosen player's spot, looking for substitutes around that player's rating; the other absent players' spots stay open. For example, two defensemen rated 600 and 400 are absent and only one spot needs filling: with "the highest", the search contacts substitutes around 600, and the spot of the player rated 400 stays open. On a letter scale the setting does not appear: the search always replaces the highest-rated absent player.
+
+{% include image.html src="help/substitute-settings-replace-first.en.png" caption="On a number scale, at the top of the skill-range section: which absent player to replace, here the one with the highest ranking." %}
+
 ## Favorites and contact order
 
 **What it does:** the search contacts substitutes in tiers, favorites first: **team favorites, then team substitutes, then league favorites, then league substitutes**. You configure the delay between each level; the next tier is only contacted after that delay if the spot is still open. Favorites are marked with the star beside each substitute. See [managing substitutes](/managing-substitutes/).
