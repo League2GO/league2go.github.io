@@ -30,9 +30,9 @@ Add a parent with their first name, last name, and an email address or a cell nu
 
 Each parent is invited to register with the exact email address or cell number you entered, exactly as a player would be in an adult league. The **child is never invited and never registers**: they have no account.
 
-On the roster, the contact column shows each parent's name, email address and phone number, and marks any parent who has not finished registering yet.
+On the roster, the Contact column shows one line per child: the first parent, +N for the others, and Registration pending when a parent has not signed up yet. Click that line to unfold every parent's email address and phone number.
 
-{% include image.html src="help/youth-roster-parents.en.png" caption="The roster of a youth league: the Contact column lists each child's parents, with Registration pending beside a parent who has not signed up yet." %}
+{% include image.html src="help/youth-roster-parents.en.png" caption="The roster of a youth league: the Contact column shows one line per child, with the first parent, +1 for the other and Registration pending. Clicking a line unfolds every parent's email address and phone number, as for the first child here." %}
 
 ## What parents receive
 
