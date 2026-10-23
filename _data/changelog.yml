@@ -28,15 +28,6 @@
         title: "Le nombre de joueurs, et visiteur ou local, pour chaque équipe"
         body: "Sur la page de la partie et dans l'éditeur d'alignement, le nom de chaque équipe est maintenant suivi de son nombre de joueurs présents, par exemple **Blancs · 10 joueurs**. Dans l'éditeur, le nombre suit vos déplacements. Hors des ligues pick-up, chaque équipe est aussi identifiée **Visiteur** ou **Local**."
 
-    - audience: managers
-      help: results-standings-statistics
-      en:
-        title: "Labelled lineup and results buttons on phones"
-        body: "On a phone, the button beside the game's tabs now says what it does: **Edit**, **Create** for a pick-up lineup not made yet, or **Enter** for results not entered yet. The **Game menu** also has **Edit results** (or **Enter results**), right under **Edit game**."
-      fr:
-        title: "Des boutons d'alignement et de résultats nommés sur téléphone"
-        body: "Sur un téléphone, le bouton à côté des onglets de la partie indique maintenant ce qu'il fait: **Modifier**, **Créer** pour un alignement pick-up pas encore fait, ou **Saisir** pour des résultats pas encore entrés. Le **Menu de la partie** offre aussi **Modifier les résultats** (ou **Saisir les résultats**), juste sous **Modifier la partie**."
-
     - audience: players
       help: results-standings-statistics
       en:
@@ -64,24 +55,6 @@
         title: "Ouvrir votre site public à partir du menu"
         body: "Dans le menu de votre ligue, la ligne **Site web** ouvre toujours l'éditeur du site, et un nouveau bouton ↗ **Voir le site** à côté ouvre votre site public dans un nouvel onglet."
 
-    - audience: managers
-      help: game-day
-      en:
-        title: "Spot an existing account when adding a substitute"
-        body: "On the game page, when you add a substitute from **Select player**, typing an email or phone number now tells you if the person already has an account, and fills in their name. If they're already in the list, you can select them directly."
-      fr:
-        title: "Reconnaître un compte existant en ajoutant un remplaçant"
-        body: "Sur la page de la partie, quand vous ajoutez un remplaçant à partir de **Sélectionner un joueur**, taper un courriel ou un numéro de téléphone indique maintenant si la personne a déjà un compte, et remplit son nom. Si elle est déjà dans la liste, vous pouvez la sélectionner directement."
-
-    - audience: managers
-      help: substitute-search-settings
-      en:
-        title: "Clearer substitute settings and filters"
-        body: "In leagues with numeric rankings, the substitute settings now ask whose spot to fill first when more players are absent than there are spots to fill: the player with the highest or the lowest ranking. Substitute lists filter by a range, **Ranking between** two values. In **View substitutes**, a request sent by hand now shows who sent it."
-      fr:
-        title: "Des paramètres et des filtres de remplaçants plus clairs"
-        body: "Dans les ligues à classement numérique, les paramètres des remplaçants demandent maintenant quel joueur remplacer en premier quand il y a plus de joueurs absents que de places à remplir: celui dont la force est la plus élevée ou la plus basse. Les listes de remplaçants se filtrent par plage, **Force entre** deux valeurs. Dans **Voir les remplaçants**, une demande envoyée à la main indique maintenant qui l'a envoyée."
-
 - week: 2026-10-12
   entries:
     - audience: everyone
@@ -92,15 +65,6 @@
       fr:
         title: "Les parties précédentes restent dans la saison"
         body: "Dans l'horaire d'une ligue, **Voir les parties précédentes** affiche maintenant d'abord les parties précédentes de la saison affichée. Touchez-le de nouveau pour ouvrir la saison d'avant."
-
-    - audience: everyone
-      help: notifications
-      en:
-        title: "Turning email off now sticks"
-        body: "If you turn email off, or unsubscribe from an email, the app no longer sends you any email, and only you can turn it back on, in your profile. To get league messages and lineups without email, use the mobile app with notifications on."
-      fr:
-        title: "Désactiver les courriels, c'est pour de bon"
-        body: "Si vous désactivez les courriels, ou vous désabonnez à partir d'un courriel, l'application ne vous envoie plus aucun courriel, et personne d'autre que vous ne peut les réactiver, dans votre profil. Pour recevoir les messages de la ligue et les alignements sans courriel, utilisez l'application mobile avec les notifications activées."
 
     - audience: managers
       help: game-day
@@ -128,15 +92,6 @@
       fr:
         title: "Un alignement plus compact dans les ligues mineures"
         body: "Dans les ligues mineures, chaque joueur de l'alignement d'une équipe dans **Équipes** affiche maintenant une seule ligne de contact: le nom du premier parent, suivi d'un nombre comme **+2** pour les autres. Cliquez dessus pour voir les coordonnées de tous les parents."
-
-    - audience: managers
-      help: mobile-app
-      en:
-        title: "How to add games, from the mobile app"
-        body: "In the mobile app, a manager's schedule now shows **How do I add games?** where the web version shows **Add Game**. It explains that games are added on the web, from a browser."
-      fr:
-        title: "Comment ajouter des parties, à partir de l'application mobile"
-        body: "Dans l'application mobile, l'horaire d'un gestionnaire affiche maintenant **Comment ajouter des parties?** là où la version web affiche **Ajouter une partie**. Le lien explique que les parties s'ajoutent sur le web, à partir d'un navigateur."
 
     - audience: managers
       help: game-day
@@ -175,24 +130,6 @@
         title: "Un texte plus facile à lire"
         body: "Le texte gris est plus foncé, les dates de l'horaire sont plus grandes et le plus petit texte a grossi. Sur la page de la partie, l'heure est maintenant aussi grande que la date."
 
-    - audience: everyone
-      help: schedule-and-calendar
-      en:
-        title: "The calendar shows when it's loading"
-        body: "A calendar month still loading its games now says so. A day you tap meanwhile opens as soon as its games arrive, and the months before and after load ahead."
-      fr:
-        title: "Le calendrier indique quand il se charge"
-        body: "Un mois du calendrier dont les parties sont encore en chargement l'indique maintenant. Une journée touchée entre-temps s'ouvre dès que ses parties arrivent, et les mois d'avant et d'après se chargent d'avance."
-
-    - audience: players
-      help: player-guide
-      en:
-        title: "Your next game in view on My Schedule"
-        body: "**My Schedule** now shows only your last game above the upcoming ones, so your next game is in view when the app opens. **Show previous games** brings back the older ones."
-      fr:
-        title: "Votre prochaine partie bien en vue dans Mon horaire"
-        body: "**Mon horaire** affiche maintenant seulement votre dernière partie au-dessus des parties à venir, pour que votre prochaine partie soit visible dès l'ouverture de l'application. **Voir les parties précédentes** affiche les plus anciennes."
-
     - audience: managers
       help: results-standings-statistics
       en:
@@ -210,15 +147,6 @@
       fr:
         title: "Des forces de joueurs plus claires"
         body: "Sur la page de la partie, un remplaçant sans force à la position de sa place affiche maintenant un point d'interrogation (**?**) et ne compte plus dans la moyenne de l'équipe. Dans les ligues classées par lettre, chaque position présente la meilleure force en premier. Dans les paramètres des remplaçants, chaque plage de forces affiche ses valeurs au-dessus de son curseur."
-
-    - audience: managers
-      help: teams-and-team-settings
-      en:
-        title: "Pick-up leagues: targets are per team"
-        body: "In a pick-up league's settings, a warning above the target number of players per position now reminds you to enter one team's numbers, not the whole game's, and lists the totals the search uses. In every league, each position now needs a target."
-      fr:
-        title: "Ligues pick-up: les cibles sont par équipe"
-        body: "Dans les paramètres d'une ligue pick-up, un avertissement au-dessus du nombre cible de joueurs par position rappelle maintenant d'entrer les nombres d'une seule équipe, pas de toute la partie, et affiche les totaux utilisés par la recherche. Dans toutes les ligues, chaque position doit maintenant avoir une cible."
 
 - week: 2026-09-28
   entries:
