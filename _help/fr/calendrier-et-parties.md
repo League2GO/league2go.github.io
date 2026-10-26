@@ -13,7 +13,7 @@ Le calendrier de la ligue est l'endroit où vous créez et gérez vos parties, s
 
 ## Créer des parties
 
-Dans votre ligue, allez dans **Saison** > **Calendrier**, cliquez sur le bouton **Ajouter une partie** et entrez l'information demandée. Chaque partie consomme un crédit de partie (voir [prix et crédits de partie](/prix-et-credits-de-partie/#acheter-des-crédits-de-partie)).
+Dans votre ligue, allez dans **Saison** > **Horaire**, cliquez sur le bouton **Ajouter une partie** et entrez l'information demandée. Chaque partie consomme un crédit de partie (voir [prix et crédits de partie](/prix-et-credits-de-partie/#acheter-des-crédits-de-partie)).
 
 Si vos parties sont hebdomadaires, utilisez l'option **Répéter l'horaire des parties** pour automatiquement créer plusieurs parties avec les mêmes paramètres.
 

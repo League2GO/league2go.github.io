@@ -18,7 +18,7 @@ Astuce : l'app peut aussi ajouter automatiquement vos parties au calendrier de v
 
 ## Déclarer une absence
 
-Comme joueur régulier, vous êtes présumé présent à vos parties. Si vous ne pouvez pas jouer, ouvrez la partie dans votre horaire et appuyez sur le bouton vert de présence pour déclarer votre absence; il devient rouge. Appuyez de nouveau pour annuler votre absence et vous déclarer présent. <!-- TODO: verify exact button labels -->
+Comme joueur régulier, vous êtes présumé présent à vos parties. Si vous ne pouvez pas jouer, ouvrez la partie dans votre horaire et appuyez sur le bouton rouge Déclarer une absence. Vous pouvez annuler votre absence à partir de la même page de partie et être de nouveau présumé présent. <!-- TODO: verify exact button labels -->
 
 {% include image.html src="help/player-game-presence.fr.png" caption="La page de la partie : vous êtes présumé présent; touchez le bouton rouge Déclarer une absence si vous ne pouvez pas y être." %}
 
