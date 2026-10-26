@@ -16,7 +16,7 @@ Pour envoyer un message, ouvrez votre ligue et allez dans **Plus** > **Messages*
 * **À une équipe** : une information qui ne concerne qu'un alignement.
 * **Aux joueurs d'une partie** : idéal pour un changement de terrain ou un avis d'annulation pour cette partie.
 
-{% include image.html src="help/messaging-new-message-recipients.fr.png" caption="Le formulaire de nouveau message de l'écran Messages : choisissez les destinataires (toute la ligue, une équipe ou des rôles précis) dans le sélecteur de destinataires." %}
+{% include image.html src="help/messaging-new-message-recipients.fr.png" caption="Le formulaire de nouveau message de l'écran Messages : cochez les destinataires sous À (toute la ligue, les capitaines et plus), ou choisissez les réguliers et les remplaçants équipe par équipe." %}
 
 ## Comment les joueurs reçoivent vos messages
 

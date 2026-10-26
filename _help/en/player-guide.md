@@ -18,7 +18,7 @@ Tip: the app can also add your games to your phone's calendar automatically. See
 
 ## Declaring an absence
 
-As a regular player, you are presumed present at your games. If you can't make a game, open it in your schedule and tap the green presence button to declare your absence; it turns red. Tap it again to cancel your absence and declare yourself present. <!-- TODO: verify exact button labels -->
+As a regular player, you are presumed present at your games. If you can't make a game, open it in your schedule and tap the red Declare absence button. You can cancel your absence from the same game page and be presumed present again. <!-- TODO: verify exact button labels -->
 
 {% include image.html src="help/player-game-presence.en.png" caption="The game page: you are presumed present; tap the red Declare absence button if you can't make it." %}
 
