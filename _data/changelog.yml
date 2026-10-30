@@ -14,10 +14,10 @@
       help: messaging
       en:
         title: "See your unread chat messages"
-        body: "On a phone, the ☰ menu button now adds your unread chat messages to its count, and each league's **Chat** row in the menu shows its own count. In the chat, the channel picker shows the count of each channel. A count clears as soon as you read the messages."
+        body: "On a phone, the ☰ menu button now adds your unread chat messages to its count, and each league's **Chat** row in the menu shows its own count. In the chat, the list of league and team conversations shows the count of each one. A count clears as soon as you read the messages."
       fr:
         title: "Voyez vos messages de chat non lus"
-        body: "Sur un téléphone, le bouton du menu ☰ ajoute maintenant vos messages de chat non lus à son compteur, et la ligne **Chat** de chaque ligue dans le menu affiche son propre compteur. Dans le chat, le choix du canal affiche le compteur de chaque canal. Un compteur s'efface dès que vous lisez les messages."
+        body: "Sur un téléphone, le bouton du menu ☰ ajoute maintenant vos messages de chat non lus à son compteur, et la ligne **Chat** de chaque ligue dans le menu affiche son propre compteur. Dans le chat, la liste des discussions de la ligue et des équipes affiche le compteur de chacune. Un compteur s'efface dès que vous lisez les messages."
 
     - audience: everyone
       help: game-day
