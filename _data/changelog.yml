@@ -8,6 +8,116 @@
 #
 # French copy: vous, no space before ? ! : ; or $, straight apostrophes.
 
+- week: 2026-11-02
+  entries:
+    - audience: everyone
+      help: league-website
+      en:
+        title: "Public site: ended seasons, pasted pages and more"
+        body: "On your league's public site, the schedule of a season that has ended now lists all its games with their scores, instead of **No upcoming games**. Pages and news you pasted from elsewhere now fit the page, wide tables stack on phones, and a league with no logo shows its name in white over the header photo. A link or an embedded page can set the language with `?lang=en` or `?lang=fr`, and the season or division by its name. On a computer, stat tables fit without scrolling sideways and schedules are narrower and easier to read, in the app too."
+      fr:
+        title: "Site public: saisons terminées, pages collées et plus encore"
+        body: "Sur le site public de votre ligue, l'horaire d'une saison terminée affiche maintenant toutes ses parties avec leurs pointages, plutôt que **Aucune partie à venir**. Les pages et les nouvelles collées d'ailleurs s'ajustent maintenant à la page, les tableaux larges s'empilent sur téléphone, et une ligue sans logo affiche son nom en blanc sur la photo d'en-tête. Un lien ou une page intégrée peut choisir la langue avec `?lang=fr` ou `?lang=en`, et la saison ou la division par son nom. Sur ordinateur, les tableaux de statistiques s'affichent sans défilement de côté et les horaires sont moins larges, donc plus faciles à lire, aussi dans l'application."
+
+- week: 2026-10-26
+  entries:
+    - audience: players
+      help: schedule-and-calendar
+      en:
+        title: "A league's schedule opens on your games"
+        body: "In each of your leagues, **Schedule** now opens on your own games. When the league's schedule is public, **All** beside **My games** shows every game, and an empty **My games** offers **Show all games**. Substitutes see their requests first, then the games they accepted. A game where you declared an absence now stays on **My Schedule** and the league's **Schedule**, with a red **You're absent** band."
+      fr:
+        title: "L'horaire d'une ligue s'ouvre sur vos parties"
+        body: "Dans chacune de vos ligues, **Horaire** s'ouvre maintenant sur vos propres parties. Quand l'horaire de la ligue est public, **Toutes**, à côté de **Mes parties**, affiche toutes les parties, et un **Mes parties** vide offre **Voir toutes les parties**. Les remplaçants voient d'abord leurs demandes, puis les parties qu'ils ont acceptées. Une partie où vous avez déclaré une absence reste maintenant dans **Mon horaire** et dans l'**Horaire** de la ligue, avec une bande rouge **Vous êtes absent**."
+
+    - audience: managers
+      help: messaging
+      en:
+        title: "Choose who gets your message"
+        body: "In your league's **Messages**, **New message** is now the screen's main button. Check **Regulars** or **Substitutes** for each team or, in a league with more than 8 teams, open **Teams** to search for them. Before you send, the message shows who will get it, and the button says how many people, such as **Send to 4 people**."
+      fr:
+        title: "Choisissez qui reçoit votre message"
+        body: "Dans **Messages** de votre ligue, **Nouveau message** est maintenant le bouton principal de l'écran. Cochez **Réguliers** ou **Remplaçants** pour chaque équipe ou, dans une ligue de plus de 8 équipes, ouvrez **Équipes** pour les chercher. Avant l'envoi, le message indique qui le recevra, et le bouton dit à combien de personnes, par exemple **Envoyer à 4 personnes**."
+
+    - audience: everyone
+      en:
+        title: "Windows open from the bottom on phones"
+        body: "On a phone, the windows you open, such as editing a game or adding a player, now slide up from the bottom of the screen, with their buttons always in view. To change a player's team or position, or to add a spot, you now tap a row."
+      fr:
+        title: "Les fenêtres s'ouvrent par le bas sur téléphone"
+        body: "Sur un téléphone, les fenêtres que vous ouvrez, par exemple pour modifier une partie ou ajouter un joueur, glissent maintenant à partir du bas de l'écran, avec leurs boutons toujours visibles. Pour changer un joueur d'équipe ou de position, ou pour ajouter une place, il suffit maintenant de toucher une ligne."
+
+    - audience: managers
+      help: game-day
+      en:
+        title: "Make the teams of a pick-up game"
+        body: "On a pick-up game whose teams aren't made yet, the game page now says **The lineup isn't made yet**, with a **Create Lineup** button. Once the teams are made, and in leagues with fixed teams, **Edit Lineup** (**Edit** on a phone) sits beside the game's tabs and in the **Game menu**."
+      fr:
+        title: "Faire les équipes d'une partie pick-up"
+        body: "Sur la page d'une partie pick-up dont les équipes ne sont pas encore faites, **L'alignement n'est pas encore fait** s'affiche maintenant avec un bouton **Créer l'alignement**. Une fois les équipes faites, et dans les ligues à équipes fixes, **Modifier l'alignement** (**Modifier** sur un téléphone) se trouve à côté des onglets de la partie et dans le **Menu de la partie**."
+
+    - audience: managers
+      help: results-standings-statistics
+      en:
+        title: "Enter the score as soon as the game ends"
+        body: "For managers and scorekeepers, a game that has ended without a score now opens on **Results**, ready for the score. Scorekeepers also get the **Enter score** button on the league's schedule."
+      fr:
+        title: "Saisir le pointage dès la fin de la partie"
+        body: "Pour les gestionnaires et les marqueurs, une partie terminée sans pointage s'ouvre maintenant sur **Résultats**, prête pour la saisie du pointage. Les marqueurs ont aussi le bouton **Saisir le pointage** dans l'horaire de la ligue."
+
+    - audience: managers
+      help: managing-players
+      en:
+        title: "Player notes on the team list"
+        body: "On a phone, each player's note now shows under their name on a team's roster in **Teams**, on up to two lines, with **Show more** for longer ones. Notes keep the line breaks you typed, on phones and computers."
+      fr:
+        title: "Les notes des joueurs dans la liste de l'équipe"
+        body: "Sur un téléphone, la note de chaque joueur s'affiche maintenant sous son nom dans l'alignement d'une équipe dans **Équipes**, sur deux lignes au plus, avec **Voir plus** pour les plus longues. Les notes gardent les retours de ligne que vous avez tapés, sur téléphone comme sur ordinateur."
+
+    - audience: managers
+      help: game-day
+      en:
+        title: "The printed lineup shows only who's playing"
+        body: "**Print Lineup** now prints only the player in each spot: a substitute who took a spot no longer comes with the absent player struck out above, and an empty spot prints no row. The game page still shows who's absent."
+      fr:
+        title: "L'alignement imprimé montre seulement qui joue"
+        body: "**Imprimer l'alignement** imprime maintenant seulement le joueur de chaque place: un remplaçant qui a pris une place n'est plus accompagné du joueur absent barré au-dessus, et une place libre n'imprime aucune ligne. La page de la partie montre toujours qui est absent."
+
+    - audience: everyone
+      help: results-standings-statistics
+      en:
+        title: "All-time stats in one tap"
+        body: "In **Statistics** and **My stats**, the season list now starts with **All seasons**, for the totals since the league's first season."
+      fr:
+        title: "Les statistiques de toutes les saisons en un seul clic"
+        body: "Dans **Statistiques** et **Mes stats**, la liste des saisons commence maintenant par **Toutes les saisons**, pour voir les totaux depuis la première saison de la ligue."
+
+    - audience: everyone
+      help: mobile-app
+      en:
+        title: "Nothing hidden at the bottom of the screen"
+        body: "On a phone, the league chat's message box now sits above the bottom bar. In the Android app, the bottom bar and buttons such as **Save** in the lineup editor no longer hide under the phone's back and home buttons."
+      fr:
+        title: "Plus rien de caché au bas de l'écran"
+        body: "Sur un téléphone, la boîte de message du chat de la ligue se trouve maintenant au-dessus de la barre du bas. Dans l'application Android, la barre du bas et les boutons comme **Sauvegarder** dans l'éditeur d'alignement ne se cachent plus sous les boutons retour et accueil du téléphone."
+
+    - audience: everyone
+      en:
+        title: "A bottom bar that's easier to spot"
+        body: "On a phone, the bar at the bottom of a league is now tinted blue, and the screen you're on stands out with its icon in a blue pill."
+      fr:
+        title: "Une barre du bas plus facile à repérer"
+        body: "Sur un téléphone, la barre au bas d'une ligue est maintenant teintée de bleu, et l'écran où vous êtes ressort avec son icône dans une pastille bleue."
+
+    - audience: everyone
+      help: teams-and-team-settings
+      en:
+        title: "Team logos shown whole"
+        body: "On schedule cards, an uploaded team logo is now shown whole, wider if it needs to be, instead of cut into a square tile. A wide logo with the team's name is no longer cut down to a few letters."
+      fr:
+        title: "Les logos d'équipe affichés au complet"
+        body: "Sur les cartes de l'horaire, le logo téléversé d'une équipe s'affiche maintenant au complet, plus large au besoin, au lieu d'être coupé dans une tuile carrée. Un logo large avec le nom de l'équipe n'est plus réduit à quelques lettres."
+
 - week: 2026-10-19
   entries:
     - audience: everyone
