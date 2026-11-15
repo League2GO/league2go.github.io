@@ -11,6 +11,15 @@
 - week: 2026-11-09
   entries:
     - audience: managers
+      help: league-types
+      en:
+        title: "Generated lines no longer give away rankings"
+        body: "**Generate Lineup** now spreads each team's players randomly across its lines, instead of putting its best-ranked players on line 1. The two teams stay balanced, but a player can no longer guess their ranking from the line they're on."
+      fr:
+        title: "Les lignes générées ne révèlent plus la force des joueurs"
+        body: "**Générer un alignement** répartit maintenant les joueurs de chaque équipe au hasard entre ses lignes, au lieu de placer les plus forts sur la première ligne. Les deux équipes restent équilibrées, mais un joueur ne peut plus deviner sa force d'après sa ligne."
+
+    - audience: managers
       help: game-day
       en:
         title: "The printed lineup uses less ink"
