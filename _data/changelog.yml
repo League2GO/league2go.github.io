@@ -8,6 +8,17 @@
 #
 # French copy: vous, no space before ? ! : ; or $, straight apostrophes.
 
+- week: 2026-11-09
+  entries:
+    - audience: managers
+      help: game-day
+      en:
+        title: "The printed lineup uses less ink"
+        body: "**Print Lineup** now prints black on white: each line's heading is bold text in a plain outline instead of a coloured band, and the team colour only appears in the small bar beside the team's name. On-screen buttons no longer print either."
+      fr:
+        title: "L'alignement imprimé utilise moins d'encre"
+        body: "**Imprimer l'alignement** imprime maintenant en noir sur blanc: le titre de chaque ligne est en gras dans un simple contour plutôt que dans une bande de couleur, et la couleur de l'équipe n'apparaît que dans la petite barre à côté du nom de l'équipe. Les boutons de l'écran ne s'impriment plus non plus."
+
 - week: 2026-10-26
   entries:
     - audience: players
