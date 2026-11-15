@@ -41,7 +41,7 @@ Les marqueurs inscrivent le pointage et mettent à jour vos statistiques, en tem
 
 La personne doit d'abord avoir son propre compte League2GO. Ensuite, dans l'onglet **Accès** des paramètres de votre ligue, ajoutez son compte en tant que gestionnaire ou en tant que marqueur.
 
-{% include image.html src="help/access-tab.fr.png" caption="Paramètres de la ligue > onglet Accès : la liste des gestionnaires (le propriétaire porte la couronne) et la liste des marqueurs, chacune avec son bouton d'ajout." %}
+{% include image.html src="help/access-tab.fr.png" caption="Paramètres de la ligue > onglet Accès : la liste des gestionnaires (le propriétaire porte la couronne), celle des marqueurs et celle des arbitres, chacune avec ce que le rôle permet et son bouton d'ajout." %}
 
 Si la personne n'a pas encore de compte, demandez-lui de s'inscrire d'abord sur [league2go.com](https://league2go.com).
 

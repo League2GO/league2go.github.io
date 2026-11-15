@@ -41,7 +41,7 @@ Scorekeepers enter goals and update your statistics, live during the game or aft
 
 The person must first have a League2GO account of their own. Then, in the **Access** tab of your league settings, add their account as a manager or as a scorekeeper.
 
-{% include image.html src="help/access-tab.en.png" caption="League settings > Access tab: the managers list (the owner wears the crown) and the scorekeepers list, each with its add button." %}
+{% include image.html src="help/access-tab.en.png" caption="League settings > Access tab: the managers list (the owner wears the crown), the scorekeepers list and the referees list, each with what the role can do and its add button." %}
 
 If the person doesn't have an account yet, ask them to sign up at [league2go.com](https://league2go.com) first.
 
