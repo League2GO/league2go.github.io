@@ -11,6 +11,15 @@
 - week: 2026-11-09
   entries:
     - audience: managers
+      help: roles-and-access
+      en:
+        title: "Referees are now in Access"
+        body: "**Settings › Access** now lists your league's **Referees** under **Managers** and **Scorekeepers**, with **Add referee**. Each list says what the role can do. The separate **Referees** screen is gone."
+      fr:
+        title: "Les arbitres sont maintenant dans Accès"
+        body: "**Paramètres › Accès** affiche maintenant les **Arbitres** de votre ligue sous les **Gestionnaires** et les **Marqueurs**, avec **Ajouter un arbitre**. Chaque liste indique ce que le rôle permet. L'écran **Arbitres** séparé n'existe plus."
+
+    - audience: managers
       help: substitutes-overview
       en:
         title: "See only the substitutes you already asked"
