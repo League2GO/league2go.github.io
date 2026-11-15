@@ -10,6 +10,15 @@
 
 - week: 2026-11-09
   entries:
+    - audience: everyone
+      help: player-guide
+      en:
+        title: "The game page names its league on phones"
+        body: "On a phone, a game's page now shows its league's name and logo above the date. Tap it to open the league: its **Schedule** for managers, the league's page for everyone else."
+      fr:
+        title: "La page d'une partie affiche sa ligue sur téléphone"
+        body: "Sur téléphone, la page d'une partie affiche maintenant le nom et le logo de sa ligue au-dessus de la date. Touchez-le pour ouvrir la ligue: son **Horaire** pour les gestionnaires, la page de la ligue pour tous les autres."
+
     - audience: managers
       help: roles-and-access
       en:
