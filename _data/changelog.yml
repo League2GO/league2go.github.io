@@ -11,6 +11,15 @@
 - week: 2026-11-09
   entries:
     - audience: everyone
+      help: league-website
+      en:
+        title: "League websites have a new look"
+        body: "Every league's public website now has the new design, on phones and computers: the same pages, menu, logo and background, with the schedule as a **List** or a **Calendar**, and the site in the league's language from the first visit. Pages embedded in your own website switch too."
+      fr:
+        title: "Les sites des ligues ont un nouveau look"
+        body: "Le site public de chaque ligue a maintenant le nouveau design, sur téléphone comme sur ordinateur: les mêmes pages, le même menu, le même logo et la même image de fond, avec l'horaire en **Liste** ou en **Calendrier**, et le site dans la langue de la ligue dès la première visite. Les pages intégrées à votre propre site changent aussi."
+
+    - audience: everyone
       help: player-guide
       en:
         title: "The game page names its league on phones"
