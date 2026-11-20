@@ -10,6 +10,15 @@
 
 - week: 2026-11-16
   entries:
+    - audience: players
+      help: substitutes-overview
+      en:
+        title: "Substitutes get each request only once"
+        body: "A substitute who opens a request without answering no longer gets the same request again a few minutes later, by email, push or text. They can still take the spot from the request they opened."
+      fr:
+        title: "Les remplaçants reçoivent chaque demande une seule fois"
+        body: "Un remplaçant qui ouvre une demande sans y répondre ne reçoit plus la même demande quelques minutes plus tard, par courriel, notification ou texto. Il peut toujours prendre la place à partir de la demande qu'il a ouverte."
+
     - audience: managers
       help: game-day
       en:
