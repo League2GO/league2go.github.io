@@ -8,6 +8,17 @@
 #
 # French copy: vous, no space before ? ! : ; or $, straight apostrophes.
 
+- week: 2026-11-16
+  entries:
+    - audience: managers
+      help: game-day
+      en:
+        title: "Generated teams now mix equal-rated players"
+        body: "When several players have the same rating, **Generate Lineup** now splits them between the two teams at random, instead of the same way every time. The teams stay balanced."
+      fr:
+        title: "Les équipes générées mélangent les joueurs de même force"
+        body: "Quand plusieurs joueurs ont la même force, **Générer un alignement** les répartit maintenant au hasard entre les deux équipes, au lieu de toujours de la même façon. Les équipes restent équilibrées."
+
 - week: 2026-11-09
   entries:
     - audience: everyone
