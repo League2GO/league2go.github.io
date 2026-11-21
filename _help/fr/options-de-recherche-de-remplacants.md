@@ -11,7 +11,7 @@ redirect_from:
 
 Voici la référence de chaque option qui contrôle la [recherche automatique de remplaçants](/recherche-de-remplacants/). Sauf indication contraire, toutes les options se trouvent dans les **paramètres de votre ligue, onglet Remplaçants**. Les listes de remplaçants elles-mêmes se gèrent ailleurs; consultez [gérer les remplaçants](/gerer-les-remplacants/).
 
-{% include image.html src="help/substitute-settings-options.fr.png" caption="Paramètres de la ligue > Remplaçants : le moment où la recherche démarre (jours avant la partie) et la séquence de recherche étape par étape avec ses délais." %}
+{% include image.html src="help/substitute-settings-options.fr.png" caption="Paramètres de la ligue > Remplaçants : une recherche Automatique ou Manuelle, la limite pour déclarer une absence, le moment où la recherche démarre (jours avant la partie) et la séquence de recherche étape par étape avec ses délais." %}
 
 ## Début de la recherche
 
@@ -19,17 +19,17 @@ Voici la référence de chaque option qui contrôle la [recherche automatique de
 
 **Quand l'ajuster :** raccourcissez le délai si vos remplaçants acceptent puis oublient les parties lointaines; allongez-le si vos parties sont difficiles à combler.
 
-**Réglez-le à 0 pour désactiver complètement la recherche automatique.** Aucune demande n'est envoyée et vous [choisissez les remplaçants manuellement](/gerer-les-remplacants/#choisir-un-remplaçant-manuellement) pour chaque partie.
+**Choisissez Manuelle en haut de l'onglet pour désactiver la recherche automatique.** Aucune demande n'est envoyée automatiquement et vous [choisissez les remplaçants manuellement](/gerer-les-remplacants/#choisir-un-remplaçant-manuellement) pour chaque partie. Une demande que vous envoyez vous-même reste alors ouverte jusqu'à la partie.
 
 **Exemple :** avec une recherche qui débute 7 jours avant les parties, une absence déclarée 3 semaines d'avance reste en attente jusqu'à 7 jours avant la partie, puis les demandes partent.
 
 ## Rappel automatique aux remplaçants
 
-**Ce que ça fait :** envoie un rappel automatique, un nombre configurable de jours avant la partie, aux remplaçants qui ont reçu une demande sans y répondre.
+**Ce que ça fait :** si personne n'a accepté une fois toutes les étapes de la recherche terminées, envoie un rappel, un nombre d'heures choisi avant la partie, aux remplaçants qui ont reçu une demande sans y répondre.
 
-**Quand l'ajuster :** placez-le assez près de la partie pour créer un sentiment d'urgence, tout en laissant à la recherche le temps de s'étendre à d'autres remplaçants ensuite.
+**Quand l'ajuster :** placez-le assez près de la partie pour créer un sentiment d'urgence, tout en laissant d'abord à la recherche le temps de joindre d'autres remplaçants.
 
-**Exemple :** les demandes partent 7 jours avant la partie; le rappel est réglé à 2 jours avant. Un remplaçant qui a ignoré le premier message reçoit une relance 2 jours avant la partie.
+**Exemple :** les demandes partent 7 jours avant la partie; le rappel est réglé à 48 heures avant. Si la place est encore libre à ce moment, un remplaçant qui a ignoré le premier message reçoit une relance 2 jours avant la partie.
 
 ## Nombre de joueurs cible par équipe
 
@@ -47,19 +47,19 @@ Les forces permettent à la recherche de proposer des remplaçants de calibre co
 
 **Choisir l'échelle :** dans l'onglet **Général** des paramètres de votre ligue, choisissez des lettres (« AAA », « AA », « BB », « CC », « A », « B », « C », « D ») ou des nombres (de 1 à 1000; utilisez de 1 à 100 si c'est votre besoin) comme échelle de force. Les forces sont visibles seulement par les capitaines des équipes et les gestionnaires de la ligue. Vous assignez ensuite une force à chaque joueur et remplaçant, pour chacune de ses positions; consultez [gérer les remplaçants](/gerer-les-remplacants/).
 
-**La plage est toujours relative au joueur absent.** Lorsqu'un joueur est absent, seuls les remplaçants dont la force se situe dans la plage configurée autour de la force de ce joueur sont contactés. Trois façons de la configurer :
+**La plage est toujours relative au joueur absent.** Lorsqu'un joueur est absent, seuls les remplaçants dont la force se situe dans la plage configurée autour de la force de ce joueur sont contactés. La section **Force des remplaçants** montre la plage sous la forme d'un cône : la plage de départ à gauche, la plage finale à droite, et en dessous le nombre de minutes pour l'élargir. Au-dessus du cône, les forces jointes s'affichent pour une personne absente donnée en exemple. Trois façons de la configurer :
 
-* **Aucun critère de force :** vous voulez noter les forces pour votre propre référence, mais n'importe quel remplaçant peut remplacer n'importe qui. Étendez la plage au maximum (-1000 à 1000) et assurez-vous que l'option « Étendre les forces progressivement » est **désactivée**.
-* **Stricte :** configurez la plage requise et n'activez pas « Étendre les forces progressivement ». Les remplaçants hors de la plage ne sont jamais contactés pour cette absence.
-* **Flexible :** configurez une **plage initiale**, activez « Étendre les forces progressivement », configurez la **plage finale**, puis entrez le nombre d'heures pour élargir la plage progressivement. La recherche commence par les remplaçants les plus proches, puis accepte graduellement des remplaçants plus éloignés de la force du joueur absent, utile si un alignement complet compte plus qu'une correspondance parfaite.
+* **Aucun critère de force :** vous voulez noter les forces pour votre propre référence, mais n'importe quel remplaçant peut remplacer n'importe qui. Réglez la plage de départ au maximum (1000 points de moins et de plus) et cliquez sur **Ne pas élargir**.
+* **Stricte :** réglez la plage de départ requise et cliquez sur **Ne pas élargir**. Les remplaçants hors de la plage ne sont jamais contactés pour cette absence.
+* **Flexible :** réglez la **plage de départ**, cliquez sur **Élargir avec le temps**, réglez la **plage finale** à la droite du cône, puis entrez le nombre de minutes pour élargir la plage. Les minutes comptent à partir du début de la recherche, excluant les heures « ne pas déranger ». La recherche commence par les remplaçants les plus proches, puis accepte graduellement des remplaçants plus éloignés de la force du joueur absent, utile si un alignement complet compte plus qu'une correspondance parfaite. La plage finale ne peut pas être plus étroite que la plage de départ.
 
-{% include image.html src="help/substitute-settings-rating-range.fr.png" caption="La section des plages de force : la plage initiale, l'option Étendre les forces progressivement activée, le nombre de minutes pour atteindre la plage finale, et la plage finale." %}
+{% include image.html src="help/substitute-settings-rating-range.fr.png" caption="La section Force des remplaçants : la plage de départ à gauche du cône, la plage finale à droite, les minutes pour l'élargir en dessous, et les forces jointes pour une personne absente donnée en exemple." %}
 
 **Exemple (flexible) :** un joueur de force « A » déclare son absence. La plage initiale contacte les remplaçants de force « C » à « BB ». Après 4 heures, la plage s'élargit de « D » à « AA », puis après 8 heures de « D » à « AAA ». La limite inférieure s'arrête à « D » parce que c'est la force la plus faible de l'échelle.
 
-**Plus d'absents que de places à remplir :** avec une échelle de nombres seulement, l'option « S'il y a plus de joueurs absents que de places à remplir, remplacer le joueur dont la force est » détermine quel joueur absent est remplacé : « la plus élevée » ou « la plus basse ». Elle compte seulement quand plus de joueurs sont absents que de places à remplir. La recherche remplit alors seulement la place du joueur choisi, en cherchant des remplaçants autour de sa force; les places des autres joueurs absents restent libres. Par exemple, deux défenseurs de force 600 et 400 sont absents et une seule place doit être remplie : avec « la plus élevée », la recherche contacte des remplaçants autour de 600, et la place du joueur de force 400 reste libre. Avec une échelle de lettres, l'option n'apparaît pas : la recherche remplace toujours le joueur absent le plus fort.
+**Plus d'absents que de places à remplir :** avec une échelle de nombres, dans les ligues qui fixent un [nombre cible de joueurs par position](/equipes-et-parametres/#nombre-cible-de-joueurs-par-position), la phrase « S'il y a plus de personnes absentes à une position que de places à remplir, remplacer d'abord celle dont la force est » détermine quel joueur absent est remplacé : « le plus grand nombre » ou « le plus petit nombre ». Elle compte seulement quand plus de joueurs sont absents que de places à remplir. La recherche remplit alors seulement la place du joueur choisi, en cherchant des remplaçants autour de sa force; les places des autres joueurs absents restent libres. Par exemple, deux défenseurs de force 600 et 400 sont absents et une seule place doit être remplie : avec « le plus grand nombre », la recherche contacte des remplaçants autour de 600, et la place du joueur de force 400 reste libre. Avec une échelle de lettres, l'option n'apparaît pas : la recherche remplace toujours le joueur absent le plus fort.
 
-{% include image.html src="help/substitute-settings-replace-first.fr.png" caption="Avec une échelle de nombres, en haut de la section des plages de force : le choix du joueur absent à remplacer, ici celui dont la force est la plus élevée." %}
+{% include image.html src="help/substitute-settings-replace-first.fr.png" caption="Avec une échelle de nombres, sous le cône : le choix du joueur absent à remplacer d'abord, ici celui dont la force est le plus grand nombre." %}
 
 ## Favoris et ordre de contact
 
@@ -87,11 +87,11 @@ Les forces permettent à la recherche de proposer des remplaçants de calibre co
 
 ## Prix dans les demandes de remplacement
 
-**Ce que ça fait :** lorsque vous cochez **Inclure les prix dans les demandes de remplacement**, le montant que le remplaçant paie pour jouer est inclus dans chaque demande, ainsi que dans le message envoyé à un remplaçant que vous assignez manuellement. Vous entrez un montant par position, et les positions peuvent différer : par exemple 20 $ pour un défenseur ou un attaquant, mais gratuit pour un gardien de but.
+**Ce que ça fait :** lorsque vous activez **Inclure le prix dans les demandes de remplacement**, le montant que le remplaçant paie pour jouer est inclus dans chaque demande, ainsi que dans le message envoyé à un remplaçant que vous assignez manuellement. Vous entrez un montant par position, et les positions peuvent différer : par exemple 20 $ pour un défenseur ou un attaquant, mais gratuit pour un gardien de but. Laissez vide une position sans prix.
 
 **Quand l'ajuster :** activez l'option pour que les remplaçants se présentent en sachant ce qu'ils doivent. Pour percevoir le montant en ligne plutôt qu'en argent comptant, consultez [les paiements en ligne](/configurer-les-paiements-en-ligne/#facturer-les-remplaçants-par-partie).
 
-{% include image.html src="help/substitute-settings-prices.fr.png" caption="Inclure les prix dans les demandes de remplacement : une fois l'option cochée, chaque position a son propre champ de prix." %}
+{% include image.html src="help/substitute-settings-prices.fr.png" caption="Inclure le prix dans les demandes de remplacement : une fois l'option activée, chaque position a son propre champ de prix." %}
 
 ## Correspondance des positions
 
