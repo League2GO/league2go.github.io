@@ -11,6 +11,15 @@
 - week: 2026-11-16
   entries:
     - audience: managers
+      help: substitute-search-settings
+      en:
+        title: "A clearer Substitutes screen"
+        body: "In **Settings › Substitutes**, choose **Automatic** or **Manual** at the top, instead of entering 0 days to turn off the automatic search. Each setting is now one sentence with its value in it. The skill range is a cone: the starting range, the minutes it takes to widen, and the final range, with the rankings it reaches. In **Manual**, a request you send by hand stays open until the game."
+      fr:
+        title: "Un écran Remplaçants plus clair"
+        body: "Dans **Paramètres › Remplaçants**, choisissez **Automatique** ou **Manuelle** en haut, au lieu d'entrer 0 jour pour désactiver la recherche automatique. Chaque paramètre est maintenant une phrase qui contient sa valeur. La plage de force est un cône: la plage de départ, les minutes pour l'élargir et la plage finale, avec les forces jointes. En mode **Manuelle**, une demande que vous envoyez vous-même reste ouverte jusqu'à la partie."
+
+    - audience: managers
       help: messaging
       en:
         title: "Message players by position and ranking"
