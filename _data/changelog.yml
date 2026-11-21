@@ -10,6 +10,15 @@
 
 - week: 2026-11-16
   entries:
+    - audience: managers
+      help: messaging
+      en:
+        title: "Message players by position and ranking"
+        body: "In **New message**, check a list of players or substitutes, then open **Filter** to send only to some positions and a ranking range, for example the goalies ranked BB to A. The count shows how many people get the message before you send it."
+      fr:
+        title: "Écrire aux joueurs selon leur position et leur force"
+        body: "Dans **Nouveau message**, cochez une liste de joueurs ou de remplaçants, puis ouvrez **Filtre** pour écrire seulement à certaines positions et à une plage de force, par exemple les gardiens de force BB à A. Le nombre de personnes jointes s'affiche avant l'envoi."
+
     - audience: players
       help: substitutes-overview
       en:
